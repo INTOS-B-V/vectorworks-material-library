@@ -20,20 +20,20 @@ update draait altijd binnen Vectorworks, omdat alleen Vectorworks veilig VWX-res
 
 ## Gemaakte scripts
 
-| Script | Functie |
-| --- | --- |
-| `INTOS_Library_Sync.py` | VW26-menuopdracht. Leest een release, controleert hashes en de actieve bibliotheek, maakt of vervangt textures, verwijdert alleen eerder beheerde textures die zijn vervallen, slaat de beheerde VWX op en installeert daarna beide interiorcad-bestanden. Een gewone projecttekening wordt geweigerd. |
-| `desired_state.py` | Voegt de volledige centrale gewenste toestand veilig samen met de lokale bestanden. Alleen eerder geregistreerde INTOS-regels en -textures mogen worden gewijzigd of verwijderd; onbekende lokale inhoud blijft staan en conflicten blokkeren de update. |
-| `library_release.py` | Gemeenschappelijke releasecode. Valideert het manifest, weigert onveilige paden en hashes, downloadt of leest bestanden en zet ze eerst in een tijdelijke map. |
-| `build_public_release.py` | Bouwt een onveranderlijke GitHub-release. Controleert de headers van `Boards.txt` en `EdgeBandings.txt`, texturematen en SHA-256-hashes. Publicatie stopt als een database naar een ontbrekende texture verwijst. |
-| `prepare_pilot_release.py` | Maakt een lokale pilotrelease voor een afgebakende VW26-test. Niet bedoeld als productiepublicatie. |
-| `resolve_autoimport.py` | Vindt de echte, gelokaliseerde interiorcad Autoimport-map uit de Vectorworks-instellingen en valideert de twee exportbestanden. |
-| `local_connector.py` | Eerdere localhost-proef voor communicatie vanuit de webapp. Deze is niet nodig voor de gekozen VW26-oplossing, maar blijft beschikbaar als diagnose- en terugvalroute. |
-| `export_current_document.py` | Leest het geopende bron-VWX en exporteert textureafbeeldingen, namen, UUID's, koppelingen en hashes naar een controleerbaar pakket. |
-| `run_export_current_document.px` | Dunne VectorScript-wrapper voor omgevingen die de Python-export niet rechtstreeks starten. |
-| `read_bridge.py` | Tijdelijke read-only diagnosebridge voor een geopende Vectorworks-sessie. Kan alleen document-, materiaal- en texturegegevens lezen. |
-| `probe_read_bridge.py` | Testclient voor de read-only diagnosebridge. |
-| `test_*.py` | Tests voor manifesten, hashes, ongeldige paden en maten, ontbrekende textures, herhaalbaarheid en bescherming van projecttekeningen. |
+| Script                           | Functie                                                                                                                                                                                                                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `INTOS_Library_Sync.py`          | VW26-menuopdracht. Leest een release, controleert hashes en de actieve bibliotheek, maakt of vervangt textures, verwijdert alleen eerder beheerde textures die zijn vervallen, slaat de beheerde VWX op en installeert daarna beide interiorcad-bestanden. Een gewone projecttekening wordt geweigerd. |
+| `desired_state.py`               | Voegt de volledige centrale gewenste toestand veilig samen met de lokale bestanden. Alleen eerder geregistreerde INTOS-regels en -textures mogen worden gewijzigd of verwijderd; onbekende lokale inhoud blijft staan en conflicten blokkeren de update.                                               |
+| `library_release.py`             | Gemeenschappelijke releasecode. Valideert het manifest, weigert onveilige paden en hashes, downloadt of leest bestanden en zet ze eerst in een tijdelijke map.                                                                                                                                         |
+| `build_public_release.py`        | Bouwt een onveranderlijke GitHub-release. Controleert de headers van `Boards.txt` en `EdgeBandings.txt`, texturematen en SHA-256-hashes. Publicatie stopt als een database naar een ontbrekende texture verwijst.                                                                                      |
+| `prepare_pilot_release.py`       | Maakt een lokale pilotrelease voor een afgebakende VW26-test. Niet bedoeld als productiepublicatie.                                                                                                                                                                                                    |
+| `resolve_autoimport.py`          | Vindt de echte, gelokaliseerde interiorcad Autoimport-map uit de Vectorworks-instellingen en valideert de twee exportbestanden.                                                                                                                                                                        |
+| `local_connector.py`             | Eerdere localhost-proef voor communicatie vanuit de webapp. Deze is niet nodig voor de gekozen VW26-oplossing, maar blijft beschikbaar als diagnose- en terugvalroute.                                                                                                                                 |
+| `export_current_document.py`     | Leest het geopende bron-VWX en exporteert textureafbeeldingen, namen, UUID's, koppelingen en hashes naar een controleerbaar pakket.                                                                                                                                                                    |
+| `run_export_current_document.px` | Dunne VectorScript-wrapper voor omgevingen die de Python-export niet rechtstreeks starten.                                                                                                                                                                                                             |
+| `read_bridge.py`                 | Tijdelijke read-only diagnosebridge voor een geopende Vectorworks-sessie. Kan alleen document-, materiaal- en texturegegevens lezen.                                                                                                                                                                   |
+| `probe_read_bridge.py`           | Testclient voor de read-only diagnosebridge.                                                                                                                                                                                                                                                           |
+| `test_*.py`                      | Tests voor manifesten, hashes, ongeldige paden en maten, ontbrekende textures, herhaalbaarheid en bescherming van projecttekeningen.                                                                                                                                                                   |
 
 ## Release-inhoud
 
@@ -56,11 +56,14 @@ revisie blijft bestaan en kan daardoor direct weer als `latest.json` worden aang
 4. De serverfunctie voegt de bijbehorende textureafbeeldingen en expliciete fysieke texturematen toe en controleert hashes en volledigheid.
 5. De server publiceert de onveranderlijke revisiemap en `latest.json` met de Git Data API in één niet-geforceerde Git-commit.
 6. Afwijzen, intrekken of deactiveren maakt opnieuw een volledige release. De vervallen regel of texture ontbreekt daarin en wordt lokaal alleen verwijderd wanneer hij eerder als INTOS-beheerd is geregistreerd.
-7. De werkplek ziet uiterlijk binnen vijf minuten dat een nieuwe revisie beschikbaar is.
-8. De gebruiker krijgt de melding om werk op te slaan en de beheerde bibliotheekupdate uit te voeren.
-9. VW26 controleert alle hashes, bouwt of actualiseert `INTOS Texturen 2026.vwx` en controleert texturemaat en naam.
-10. Pas na een volledige VWX-controle vervangt de plug-in samen `Boards.txt` en `EdgeBandings.txt`.
-11. De lokale status bewaart revisie, bestandshashes en texturevingerafdrukken. De volgende controle meldt exact wat ontbreekt of verouderd is.
+7. De server bundelt wijzigingen gedurende vijf minuten. Iedere nieuwe wijziging herstart dat venster. Na
+   25 minuten stopt het uitstellen, zodat de scheduler de publicatie uiterlijk dertig minuten na de eerste
+   wijziging start.
+8. De werkplek ziet uiterlijk binnen vijf minuten dat een gepubliceerde revisie beschikbaar is.
+9. De gebruiker krijgt de melding om werk op te slaan en de beheerde bibliotheekupdate uit te voeren.
+10. VW26 controleert alle hashes, bouwt of actualiseert `INTOS Texturen 2026.vwx` en controleert texturemaat en naam.
+11. Pas na een volledige VWX-controle vervangt de plug-in samen `Boards.txt` en `EdgeBandings.txt`.
+12. De lokale status bewaart revisie, bestandshashes en texturevingerafdrukken. De volgende controle meldt exact wat ontbreekt of verouderd is.
 
 ## Veiligheidsregels
 
