@@ -17,8 +17,10 @@ Er staat pas een actieve `latest.json` in deze repository wanneer iedere texture
 EdgeBandings.txt verwijst in dezelfde release staat. Een gedeeltelijke release kan daardoor nooit per ongeluk
 de bibliotheek van een collega vervangen. De lokale VW26-pilot gebruikt tot die tijd een lokale testrelease.
 
-Publiceren gebeurt met `tools/vectorworks/build_public_release.py` uit de applicatierepository. Commit eerst
-de nieuwe revisiemap en wijzig `latest.json` in dezelfde commit. Pas daarna mag een client de revisie gebruiken.
+Materiaalbeheer publiceert na uitrol automatisch vanuit de server. Iedere databasewijziging zet een
+samengevoegde job klaar. De server bouwt de volledige actieve gewenste toestand en schrijft de nieuwe
+revisiemap en `latest.json` atomair in één Git-commit. `tools/vectorworks/build_public_release.py` blijft
+beschikbaar om dezelfde releasevorm lokaal te testen.
 
 Zie [WERKING.md](WERKING.md) voor de gemaakte scripts, installatie op werkplekken, het releaseproces en de
 stappen van de pilot naar een INTOS-brede uitrol.

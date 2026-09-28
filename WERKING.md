@@ -6,6 +6,7 @@ De basisoplossing is een Vectorworks 2026 Python-plug-in. Intune plaatst deze be
 persoonlijke Vectorworks-plug-inmap:
 
 - `INTOS_Library_Sync.py`
+- `desired_state.py`
 - `library_release.py`
 - `config.json`
 
@@ -22,6 +23,7 @@ update draait altijd binnen Vectorworks, omdat alleen Vectorworks veilig VWX-res
 | Script | Functie |
 | --- | --- |
 | `INTOS_Library_Sync.py` | VW26-menuopdracht. Leest een release, controleert hashes en de actieve bibliotheek, maakt of vervangt textures, verwijdert alleen eerder beheerde textures die zijn vervallen, slaat de beheerde VWX op en installeert daarna beide interiorcad-bestanden. Een gewone projecttekening wordt geweigerd. |
+| `desired_state.py` | Voegt de volledige centrale gewenste toestand veilig samen met de lokale bestanden. Alleen eerder geregistreerde INTOS-regels en -textures mogen worden gewijzigd of verwijderd; onbekende lokale inhoud blijft staan en conflicten blokkeren de update. |
 | `library_release.py` | Gemeenschappelijke releasecode. Valideert het manifest, weigert onveilige paden en hashes, downloadt of leest bestanden en zet ze eerst in een tijdelijke map. |
 | `build_public_release.py` | Bouwt een onveranderlijke GitHub-release. Controleert de headers van `Boards.txt` en `EdgeBandings.txt`, texturematen en SHA-256-hashes. Publicatie stopt als een database naar een ontbrekende texture verwijst. |
 | `prepare_pilot_release.py` | Maakt een lokale pilotrelease voor een afgebakende VW26-test. Niet bedoeld als productiepublicatie. |
@@ -48,12 +50,12 @@ revisie blijft bestaan en kan daardoor direct weer als `latest.json` worden aang
 
 ## Proces van aanvraag tot Vectorworks
 
-1. Een medewerker vraagt materiaal of kantenband aan in Materiaalbeheer.
-2. Een beheerder controleert en keurt de aanvraag goed.
-3. Materiaalbeheer maakt nieuwe `Boards.txt` en `EdgeBandings.txt` uit de actuele goedgekeurde hoofdlijst.
-4. Het releaseproces voegt de bijbehorende textureafbeeldingen en fysieke texturematen toe.
-5. `build_public_release.py` controleert of iedere genoemde texture aanwezig is en bouwt de release.
-6. De release wordt als één Git-commit gepubliceerd. Pas daarna wijst `latest.json` naar de nieuwe revisie.
+1. Een medewerker vraagt materiaal of kantenband aan in Materiaalbeheer. Volgens de bestaande aanvraagworkflow staat een ingediende nieuwe materiaalregel direct in de actieve hoofdlijst.
+2. Iedere wijziging aan materiaal, decor, kantenband of primaire afbeelding verhoogt de Vectorworks-revisie en zet één samengevoegde publicatiejob klaar.
+3. De serverfunctie leest de volledige actuele actieve hoofdlijst en maakt nieuwe `Boards.txt` en `EdgeBandings.txt`.
+4. De serverfunctie voegt de bijbehorende textureafbeeldingen en expliciete fysieke texturematen toe en controleert hashes en volledigheid.
+5. De server publiceert de onveranderlijke revisiemap en `latest.json` met de Git Data API in één niet-geforceerde Git-commit.
+6. Afwijzen, intrekken of deactiveren maakt opnieuw een volledige release. De vervallen regel of texture ontbreekt daarin en wordt lokaal alleen verwijderd wanneer hij eerder als INTOS-beheerd is geregistreerd.
 7. De werkplek ziet uiterlijk binnen vijf minuten dat een nieuwe revisie beschikbaar is.
 8. De gebruiker krijgt de melding om werk op te slaan en de beheerde bibliotheekupdate uit te voeren.
 9. VW26 controleert alle hashes, bouwt of actualiseert `INTOS Texturen 2026.vwx` en controleert texturemaat en naam.
@@ -67,6 +69,7 @@ revisie blijft bestaan en kan daardoor direct weer als `latest.json` worden aang
 - Een gedeeltelijke release zonder alle gebruikte textures wordt geweigerd.
 - Databasebestanden worden pas geplaatst nadat de VWX-resourcecontrole is geslaagd.
 - Twee uitvoeringen van dezelfde revisie leveren dezelfde status op en veroorzaken geen tweede wijziging.
+- Eén niet-geforceerde Git-refupdate voorkomt dat twee gelijktijdige publicaties elkaar overschrijven.
 - Oude Git-revisies blijven beschikbaar voor rollback.
 
 ## Huidige pilotstatus
@@ -93,6 +96,8 @@ zijn geëxporteerd, gecontroleerd en opgenomen.
 6. Na akkoord dezelfde gevalideerde revisie naar het productiekanaal promoveren.
 7. Daarna gefaseerd uitrollen naar alle VW26-gebruikers.
 
-Voor productie moeten nog twee punten worden toegevoegd: een ondertekend of vastgepind manifest en één lock
-tegen twee gelijktijdige updateruns. De huidige pilot is daarom geschikt voor lokale en stagingtests, maar nog
-niet voor onbeheerde bedrijfsbrede installatie.
+Voor de live stagingketen moeten migratie 035 en de `vectorworks-release`-serverfunctie nog op de
+self-hosted Supabase-stack worden geïnstalleerd. De server krijgt een repo-scoped GitHub-sleutel en een
+afzonderlijk schedulergeheim. Voor volledig automatische VWX-wijzigingen terwijl Vectorworks open staat is
+daarnaast een beperkte native Vectorworks-bridge nodig; de huidige Python-opdracht start handmatig vanuit
+Vectorworks.
