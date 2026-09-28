@@ -19,3 +19,6 @@ de bibliotheek van een collega vervangen. De lokale VW26-pilot gebruikt tot die 
 
 Publiceren gebeurt met `tools/vectorworks/build_public_release.py` uit de applicatierepository. Commit eerst
 de nieuwe revisiemap en wijzig `latest.json` in dezelfde commit. Pas daarna mag een client de revisie gebruiken.
+
+Zie [WERKING.md](WERKING.md) voor de gemaakte scripts, installatie op werkplekken, het releaseproces en de
+stappen van de pilot naar een INTOS-brede uitrol.
