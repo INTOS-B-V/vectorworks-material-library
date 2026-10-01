@@ -6,12 +6,12 @@
   "files": [
     {
       "name": "Boards.txt",
-      "source": "vw2026-40/Boards.txt",
+      "source": "Boards.txt",
       "sha256": "d011159fa62c10d511fcf96c58049f22733a5e45909d501c3bb1a1a3e1588d20"
     },
     {
       "name": "EdgeBandings.txt",
-      "source": "vw2026-40/EdgeBandings.txt",
+      "source": "EdgeBandings.txt",
       "sha256": "c5e73404128bb318e3956c5de41b83f141141c854ba83d4ddabca1874645bad0"
     }
   ],
