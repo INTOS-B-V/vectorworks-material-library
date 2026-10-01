@@ -1,0 +1,823 @@
+#Item-No	Description	Supplier	Order-No	Price	Unit	Amount per unit	Waste	Mark-up	Length	Width	Thickness	Group	Texture	Default Thickness	Grain	Type
+0F253 BST marmer-MDF MR 38mm-backing	3050x1310	Unilin	0F253 BST marmer-MDF MR 38mm-backing	0	m2	1	10	0	3050	1310	40	Perswerk	Unilin 0F253 BST	38	length	Vochtwerend
+0F253 BST marmer-Sp. 16mm-backing	3050x1300	Unilin	0F253 BST marmer-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0F253 BST	16	length	Perswerk spaan
+0F599 weave beige-Sp. 16mm-backing	3050x1300	Unilin	0F599 weave beige-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0F599 Weave	16	length	Perswerk spaan
+0F599 weave beige-Sp. 16mm-F599	3050x1300	Unilin	0F599 weave beige-Sp. 16mm-F599	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0F599 Weave	16	length	Perswerk spaan
+0H160 eik-Sp. 16mm-0H160	3050x1300	Unilin	0H160 eik-Sp. 16mm-0H160	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H160 Z5L	16	length	Perswerk spaan
+0H251 W06 noten-MDF FR 16mm-0H251 W06	3050x1300	Unilin	0H251 W06 noten-MDF FR 16mm-0H251 W06	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H251 W06	16	length	MDF FR
+0H251 W06 noten-MDF FR 16mm-backing	3050x1300	Unilin	0H251 W06 noten-MDF FR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H251 W06	16	length	MDF FR
+0H251 W06 noten-MDF zwart 16mm-backing	3050x1220	Unilin	0H251 W06 noten-MDF zwart 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0H251 W06	16	length	Perswerk MDF
+0H251 W06 noten-Sp.  22mm-0H251 W06	3050x1300	Unilin	0H251 W06 noten-Sp.  22mm-0H251 W06	0	m2	1	10	0	3050	1300	24	Perswerk	Unilin 0H251 W06	22	length	Perswerk spaan
+0H251 W06 noten-Sp.  28mm-0H251 W06	3050x1250	Unilin	0H251 W06 noten-Sp.  28mm-0H251 W06	0	m2	1	10	0	3050	1250	30	Perswerk	Unilin 0H251 W06	28	length	Perswerk spaan
+0H266 eik V1A-Koskisen 16mm-0H266	3050x1300	Unilin	0H266 eik V1A-Koskisen 16mm-0H266	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H266 V1A	16	length	custom
+0H266 eik V1A-Koskisen 16mm-backing	3050x1300	Unilin	0H266 eik V1A-Koskisen 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H266 V1A	16	length	custom
+0H266 eik V1A-Koskisen 36mm-0H266	3050x1300	Unilin	0H266 eik V1A-Koskisen 36mm-0H266	0	m2	1	10	0	3050	1300	38	Perswerk	Unilin 0H266 V1A	36	length	custom
+0H266 eik-MDF 38mm-0H266	3050x1300	Unilin	0H266 eik-MDF 38mm-0H266	0	m2	1	10	0	3050	1300	40	Perswerk	Unilin 0H266 V1A	38	length	Perswerk MDF
+0H266 eik-MDF MR 25mm-wit	3050x1220	Unilin	0H266 eik-MDF MR 25mm-wit	0	m2	1	10	0	3050	1220	27	Perswerk	Unilin 0H266 V1A	25	length	Vochtwerend
+0H266 eik-Sp. 22mm-0H266	3050x1250	Unilin	0H266 eik-Sp. 22mm-0H266	0	m2	1	10	0	3050	1250	24	Perswerk	Unilin 0H266 V1A	22	length	Perswerk spaan
+0H266 eik-Sp.MR 16mm-0H266	3050x1300	Unilin	0H266 eik-Sp.MR 16mm-0H266	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H266 V1A	16	length	Vochtwerend
+0H266 V1A eik-Koskisen 18mm-0H266	3050x1300	Unilin	0H266 V1A eik-Koskisen 18mm-0H266	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 0H266 V1A	18	length	custom
+0H266 V1A eik-Koskisen 18mm-backing	3050x1300	Unilin	0H266 V1A eik-Koskisen 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 0H266 V1A	18	length	custom
+0H266 V1A eik-MDF 9mm-0H266 V1A	3050x1220	Unilin	0H266 V1A eik-MDF 9mm-0H266 V1A	0	m2	1	10	0	3050	1220	11	Perswerk	Unilin 0H266 V1A	9	length	Decor
+0H266 V1A eik-MDF MR 12mm-backing	3050x1220	Unilin	0H266 V1A eik-MDF MR 12mm-backing	0	m2	1	10	0	3050	1220	14	Perswerk	Unilin 0H266 V1A	12	length	MDF MR
+0H266 V1A eik-MDF MR 16mm-backing	3050x1300	Unilin	0H266 V1A eik-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H266 V1A	16	length	Vochtwerend
+0H336 BST eik donker-MDF zwart 16mm-0H336	3050x1220	Unilin	0H336 BST eik donker-MDF zwart 16mm-0H336	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0H336 BST	16	length	Perswerk MDF
+0H336 BST eik-MDF zwart 16mm-backing	3050x1220	Unilin	0H336 BST eik-MDF zwart 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0H336 BST	16	length	Perswerk MDF
+0H337 BST Eik-MDF MR 25mm-backing	3050x1300	Unilin	0H337 BST Eik-MDF MR 25mm-backing	0	m2	1	10	0	3050	1300	27	Perswerk	Unilin 0H337 BST	25	length	MDF MR
+0H339 BST eik-MDF FR 12mm-backing	3050x1220	Unilin	0H339 BST eik-MDF FR 12mm-backing	0	m2	1	10	0	3050	1220	14	Perswerk	Unilin 0H339 BST	12	length	Brandvertragend
+0H339 BST eik-MDF FR 16mm-backing	3050x1220	Unilin	0H339 BST eik-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0H339 BST	16	length	Brandvertragend
+0H339 BST eik-MDF MR 16mm-0H339	3050x1300	Unilin	0H339 BST eik-MDF MR 16mm-0H339	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H339 BST	16	length	Vochtwerend
+0H339 BST eik-MDF MR 16mm-backing	3050x1300	Unilin	0H339 BST eik-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H339 BST	16	length	Vochtwerend
+0H339 BST eik-MDF MR 16mm-F7949 wit	3050x1300	Unilin	0H339 BST eik-MDF MR 16mm-F7949 wit	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H339 BST	16	length	Vochtwerend
+0H339 BST eik-MDF MR 18mm-backing	3050x1300	Unilin	0H339 BST eik-MDF MR 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 0H339 BST	18	length	Vochtwerend
+0H339 BST eik-MDF MR 18mm-F7949 wit Matte 58	3050x1300	Unilin	0H339 BST eik-MDF MR 18mm-F7949 wit Matte 58	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 0H339 BST	18	length	Vochtwerend
+0H339 BST eik-MDF MR 18mm-H339 BST eik	3050x1300	Unilin	0H339 BST eik-MDF MR 18mm-H339 BST eik	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 0H339 BST	18	length	Vochtwerend
+0H339 BST eik-Mplx.berken 27mm-0H339	3050x1300	Unilin	0H339 BST eik-Mplx.berken 27mm-0H339	0	m2	1	10	0	3050	1300	29	Perswerk	Unilin 0H339 BST	27	length	Berken
+0H596 W07 eik-Sp. 16mm-0H596	3050x1300	Unilin	0H596 W07 eik-Sp. 16mm-0H596	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H596 W07	16	length	Perswerk spaan
+0H596 W07 eik-Sp. 16mm-backing	3050x1300	Unilin	0H596 W07 eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H596 W07	16	length	Perswerk spaan
+0H720 BST berk-Sp.MR 16mm-backing	3050x1300	Unilin	0H720 BST berk-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H720 BST	16	length	Vochtwerend
+0H852 eik-MDF 16mm-backing	3050x1300	Unilin	0H852 eik-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H852 W03	16	length	Perswerk MDF
+0H852 eik-MDF 16mm-H852	3050x1300	Unilin	0H852 eik-MDF 16mm-H852	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H852 W03	16	length	Perswerk MDF
+0H906 W06 walnoot-Sp. 16mm-0H906	3050x1300	Unilin	0H906 W06 walnoot-Sp. 16mm-0H906	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H906 W06	16	length	Perswerk spaan
+0H912 eik brown-MDF MR 16mm-0H912	3050x1300	Unilin	0H912 eik brown-MDF MR 16mm-0H912	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H912 V2A	16	length	custom
+0H912 eik brown-MDF MR 16mm-backing	3050x1300	Unilin	0H912 eik brown-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H912 V2A	16	length	custom
+0H912 eik bruin-Sp. 16mm-0H912	3050x1300	Unilin	0H912 eik bruin-Sp. 16mm-0H912	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H912 V2A	16	length	Perswerk spaan
+0H912 eik bruin-Sp. 38mm-0H912	3050x1250	Unilin	0H912 eik bruin-Sp. 38mm-0H912	0	m2	1	10	0	3050	1250	40	Perswerk	Unilin 0H912 V2A	38	length	Perswerk spaan
+0H912 V2A eik bruin-MDF MR 16mm-0H912 V2A	3050x1300	Unilin	0H912 V2A eik bruin-MDF MR 16mm-0H912 V2A	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H912 V2A	16	length	Vochtwerend
+0H912 V2A eik bruin-MDF MR 16mm-backing	3050x1300	Unilin	0H912 V2A eik bruin-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H912 V2A	16	length	Vochtwerend
+0H913 eik-MDF MR 18mm-backing	3050x1220	Unilin	0H913 eik-MDF MR 18mm-backing	0	m2	1	10	0	3050	1220	20	Perswerk	Unilin 0H913 V2A	18	length	Vochtwerend
+0H913 eik-Mplx.berken 24mm-backing	2500x1250	Unilin	0H913 eik-Mplx.berken 24mm-backing	0	m2	1	10	0	2500	1250	26	Perswerk	Unilin 0H913 V2A	24	length	Berken
+0H913 eik-Sp. 16mm-0H913	3050x1300	Unilin	0H913 eik-Sp. 16mm-0H913	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H913 V2A	16	length	Perswerk spaan
+0H913 eik-Sp. 28mm-0H913	3050x1300	Unilin	0H913 eik-Sp. 28mm-0H913	0	m2	1	10	0	3050	1300	30	Perswerk	Unilin 0H913 V2A	28	length	Perswerk spaan
+0H913 eik-Sp. 28mm-backing	3050x1300	Unilin	0H913 eik-Sp. 28mm-backing	0	m2	1	10	0	3050	1300	30	Perswerk	Unilin 0H913 V2A	28	length	Perswerk spaan
+0H913 eik-Sp.MR 16mm-backing	3050x1300	Unilin	0H913 eik-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H913 V2A	16	length	Perswerk spaan
+0H913 V2A eik-MDF 16mm-backing	3050x1300	Unilin	0H913 V2A eik-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H913 V2A	16	length	MDF
+0H913 V2A eik-Sp. 38mm-0H913 V2A	3050x1250	Unilin	0H913 V2A eik-Sp. 38mm-0H913 V2A	0	m2	1	10	0	3050	1250	40	Perswerk	Unilin 0H913 V2A	38	length	Perswerk spaan
+0H914 eik fumed-MDF 38mm-0H914	3050x1250	Unilin	0H914 eik fumed-MDF 38mm-0H914	0	m2	1	10	0	3050	1250	40	Perswerk	Unilin 0H914 V2A	38	length	custom
+0H914 eik fumed-MDF MR 16mm-0H914	3050x1300	Unilin	0H914 eik fumed-MDF MR 16mm-0H914	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H914 V2A	16	length	custom
+0H914 eik fumed-MDF MR 16mm-backing	3050x1300	Unilin	0H914 eik fumed-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H914 V2A	16	length	custom
+0H914 V2A eik fumed-MDF 38mm-0H914 V2A	3050x1250	Unilin	0H914 V2A eik fumed-MDF 38mm-0H914 V2A	0	m2	1	10	0	3050	1250	40	Perswerk	Unilin 0H914 V2A	38	length	Decor
+0H914 V2A eik fumed-MDF MR 16mm-0H914 V2A	3050x1300	Unilin	0H914 V2A eik fumed-MDF MR 16mm-0H914 V2A	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H914 V2A	16	length	Vochtwerend
+0H914 V2A eik fumed-MDF MR 16mm-backing	3050x1300	Unilin	0H914 V2A eik fumed-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H914 V2A	16	length	Vochtwerend
+0H915 eik naturel-MDF 12mm-backing	3050x1250	Unilin	0H915 eik naturel-MDF 12mm-backing	0	m2	1	10	0	3050	1250	14	Perswerk	Unilin 0H915 V2A	12	length	custom
+0H915 eik naturel-MDF MR 16mm-0H915	3050x1300	Unilin	0H915 eik naturel-MDF MR 16mm-0H915	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H915 V2A	16	length	custom
+0H915 eik naturel-MDF MR 16mm-backing	3050x1300	Unilin	0H915 eik naturel-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H915 V2A	16	length	custom
+0H915 eik naturel-Mplx.berken 24mm-0H915	3050x1250	Unilin	0H915 eik naturel-Mplx.berken 24mm-0H915	0	m2	1	10	0	3050	1250	26	Perswerk	Unilin 0H915 V2A	24	length	custom
+0H915 eik-MDF Light 30mm-0H915	3050x1300	Unilin	0H915 eik-MDF Light 30mm-0H915	0	m2	1	10	0	3050	1300	32	Perswerk	Unilin 0H915 V2A	30	length	Perswerk MDF
+0H915 eik-Sp. 16mm-0H915	3050x1300	Unilin	0H915 eik-Sp. 16mm-0H915	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H915 V2A	16	length	Perswerk spaan
+0H915 V2A eik naturel-MDF 12mm-backing	3050x1250	Unilin	0H915 V2A eik naturel-MDF 12mm-backing	0	m2	1	10	0	3050	1250	14	Perswerk	Unilin 0H915 V2A	12	length	Decor
+0H915 V2A eik naturel-MDF MR 16mm-0H915 V2A	3050x1300	Unilin	0H915 V2A eik naturel-MDF MR 16mm-0H915 V2A	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H915 V2A	16	length	Vochtwerend
+0H915 V2A eik naturel-MDF MR 16mm-backing	3050x1300	Unilin	0H915 V2A eik naturel-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0H915 V2A	16	length	Vochtwerend
+0H915 V2A eik naturel-Mplx.berken 24mm-0H915 V2A	3050x1250	Unilin	0H915 V2A eik naturel-Mplx.berken 24mm-0H915 V2A	0	m2	1	10	0	3050	1250	26	Perswerk	Unilin 0H915 V2A	24	length	Decor
+0U130 CST bruin-MDF MR 16mm-backing	3050x1300	Unilin	0U130 CST bruin-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U130 CST	16	none	Vochtwerend
+0U146 grijs-Sp. 16mm-0U146	3050x1300	Unilin	0U146 grijs-Sp. 16mm-0U146	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U146 CST	16	none	Perswerk spaan
+0U311 BST bruin-Sp. 16mm-0U311 BST	3050x1300	Unilin	0U311 BST bruin-Sp. 16mm-0U311 BST	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U311 BST	16	none	Perswerk spaan
+0U313 BST-MDF 16mm-0U313 BST	3050x1300	Unilin	0U313 BST-MDF 16mm-0U313 BST	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U313 BST	16	none	Perswerk MDF
+0U313 BST-MDF MR 16mm-backing	3050x1300	Unilin	0U313 BST-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U313 BST	16	none	Vochtwerend
+0U645 BST groen-MDF 16mm-0U645 BST	3050x1300	Unilin	0U645 BST groen-MDF 16mm-0U645 BST	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U645 BST	16	none	Perswerk MDF
+0U645 BST groen-MDF MR 16mm-0U645 BST	3050x1300	Unilin	0U645 BST groen-MDF MR 16mm-0U645 BST	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U645 BST	16	none	Vochtwerend
+0U645 groen-Sp. 16mm-backing	3050x1300	Unilin	0U645 groen-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U645 BST	16	none	Perswerk spaan
+0U648 BST blauw-MDF FR 16mm-0U648 BST	3050x1220	Unilin	0U648 BST blauw-MDF FR 16mm-0U648 BST	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0U645 BST	16	none	Brandvertragend
+0U648 BST blauw-MDF FR 16mm-backing wit	3050x1220	Unilin	0U648 BST blauw-MDF FR 16mm-backing wit	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0U645 BST	16	none	Brandvertragend
+0U648 BST blauw-Mplx wbp 18mm-backing wit	3050x1220	Unilin	0U648 BST blauw-Mplx wbp 18mm-backing wit	0	m2	1	10	0	3050	1220	20	Perswerk	Unilin 0U645 BST	18	none	Perswerk Mplx
+0U655 CST beige-MDF 16mm-backing	3050x1300	Unilin	0U655 CST beige-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0U655 CST	16	none	Perswerk MDF
+0U824 CST grijs-MDF MR 30mm-backing	3050x1220	Unilin	0U824 CST grijs-MDF MR 30mm-backing	0	m2	1	10	0	3050	1220	32	Perswerk	Unilin 0U824 CST	30	none	Vochtwerend
+0U824 CST grijs-Mplx.berken 12mm-backing	3050x1300	Unilin	0U824 CST grijs-Mplx.berken 12mm-backing	0	m2	1	10	0	3050	1300	14	Perswerk	Unilin 0U824 CST	12	none	Berken
+0U824 CST grijs-Mplx.berken 40mm-backing	3050x1300	Unilin	0U824 CST grijs-Mplx.berken 40mm-backing	0	m2	1	10	0	3050	1300	42	Perswerk	Unilin 0U824 CST	40	none	Berken
+0U827 MST taupe-MDF FR 12mm-0U827 MST taupe	3050x1220	Unilin	0U827 MST taupe-MDF FR 12mm-0U827 MST taupe	0	m2	1	10	0	3050	1220	14	Perswerk	Unilin 0U827 MST	12	none	Brandvertragend
+0U827 MST taupe-MDF FR 16mm-0U827 MST taupe	3050x1220	Unilin	0U827 MST taupe-MDF FR 16mm-0U827 MST taupe	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0U827 MST	16	none	Brandvertragend
+0U827 MST taupe-MDF FR 28mm-0U827 MST taupe	3050x1220	Unilin	0U827 MST taupe-MDF FR 28mm-0U827 MST taupe	0	m2	1	10	0	3050	1220	30	Perswerk	Unilin 0U827 MST	28	none	Brandvertragend
+0U831 MST grijs-MDF FR 16mm-backing	3050x1220	Unilin	0U831 MST grijs-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 0U831 MST	16	none	custom
+0U831 MST grijs-MDF FR-MR 18mm-backing	3050x1220	Unilin	0U831 MST grijs-MDF FR-MR 18mm-backing	0	m2	1	10	0	3050	1220	20	Perswerk	Unilin 0U831 MST	18	none	custom
+0WE28 BST wit-MDF FR 16mm-0WE28	3050x1300	Unilin	0WE28 BST wit-MDF FR 16mm-0WE28	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 0WE28 BST	16	none	Brandvertragend
+005 FA zwart-MDF 16mm-005 FA	3050x1300	Polyrey	005 FA zwart-MDF 16mm-005 FA	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey 0005 FA	16	none	Perswerk MDF
+005 FA zwart-Mplx.berken 18mm-backing	3050x1300	Polyrey	005 FA zwart-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Polyrey 0005 FA	18	none	Berken
+00025 CST wit-MDF 16mm-00025 CST	3050x1300	Unilin	00025 CST wit-MDF 16mm-00025	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 00025 CST	16	none	Perswerk MDF
+00025 CST wit-MDF 16mm-backing	3050x1220	Unilin	00025 CST wit-MDF 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Unilin 00025 CST	16	none	MDF
+00025 CST wit-Sp. 38mm-00025 CST	3050x1250	Unilin	00025 CST wit-Sp. 38mm-00025	0	m2	1	10	0	3050	1250	40	Perswerk	Unilin 00025 CST	38	none	Perswerk spaan
+00025 CST wit-Sp.MR 18mm-backing	3050x1300	Unilin	00025 CST wit-Sp.MR 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 00025 CST	18	none	Vochtwerend
+0029 wit-Sp. 16mm-0029	3050x1300	Fenix	0029 wit-Sp. 16mm-0029	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0029 NTM	16	none	Perswerk spaan
+0030 FA wit-MDF 16mm-030 FA	3050x1300	Polyrey	0030 FA wit-MDF 16mm-030 FA	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey 0030 FA	16	none	Perswerk MDF
+0030 FA wit-Mplx.berken 18mm-backing	3050x1300	Polyrey	0030 FA wit-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Polyrey 0030 FA	18	none	Berken
+0085 NG wit-MDF 18mm-F7949 wit	3050x1220		0085 NG wit-MDF 18mm-F7949 wit	0	m2	1	10	0	3050	1220	20	Perswerk	Fundermax 0085 NG	18	none	Perswerk MDF
+00113 CST zwart-Sp.MR 16mm-backing	3050x1300	Unilin	00113 CST zwart-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Unilin 00113 CST	16	none	Vochtwerend
+0140-VE wit-MDF 16mm-0140-VE	3050x1220	Resopal	0140-VE wit-MDF 16mm-0140-VE	0	m2	1	10	0	3050	1220	18	Perswerk	Resopal 0140-VE	16	none	Perswerk
+406 Sei wit-MDF FR 16mm-406 Sei	3050x1220	Abet	406 Sei wit-MDF FR 16mm-406 Sei	0	m2	1	10	0	3050	1220	18	Perswerk	Abet 406 Sei	16	none	custom
+414 Sei beige-1mm	3050x1300	Abet	414 Sei beige-1mm	0	m2	1	10	0	3050	1300	1	Perswerk	Abet 414 Sei	1	none	HPL
+414 Sei beige-MDF MR 22mm-backing	3050x1220	Abet	414 Sei beige-MDF MR 22mm-backing	0	m2	1	10	0	3050	1220	24	Perswerk	Abet 414 Sei	22	none	Vochtwerend
+414 Sei beige-MDF MR 25mm-414 Sei	3050x1220	Abet	414 Sei beige-MDF MR 25mm-414 Sei	0	m2	1	10	0	3050	1220	27	Perswerk	Abet 414 Sei	25	none	Vochtwerend
+414 Sei beige-MDF MR 25mm-backing	3050x1220	Abet	414 Sei beige-MDF MR 25mm-backing	0	m2	1	10	0	3050	1220	27	Perswerk	Abet 414 Sei	25	none	Vochtwerend
+414 Sei beige-Mplx.berken 18mm-backing	3050x1300	Abet	414 Sei beige-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Abet 414 Sei	18	none	Berken
+421 zwart-Sp. 16mm-421	3050x1300	Abet	421 zwart-Sp. 16mm-421	0	m2	1	10	0	3050	1300	18	Perswerk	Abet 421 Sei	16	none	Perswerk spaan
+421 zwart-Sp. 16mm-backing	3050x1300	Abet	421 zwart-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Abet 421 Sei	16	none	Perswerk spaan
+446 Alu brushed alu-MDF 16mm-446 Alu brushed	3050x1220	Homapal	446 Alu brushed alu-MDF 16mm-446 Alu brushed	0	m2	1	10	0	3050	1220	18	Perswerk	Homapal 446 Alu brushed	16	length	Decor
+446 Alu brushed alu-Sp. 16mm-446 Alu brushed	3050x1220	Homapal	446 Alu brushed alu-Sp. 16mm-446 Alu brushed	0	m2	1	10	0	3050	1220	18	Perswerk	Homapal 446 Alu brushed	16	length	Decor
+446 Alu Brushed-MDF MR 18mm-446	3050x1300	Homapal	446 Alu Brushed-MDF MR 18mm-446	0	m2	1	10	0	3050	1300	20	Perswerk	Homapal 446 Alu brushed	18	length	Vochtwerend
+446 Alu Brushed-Mplx.berken 18mm-backing	3050x1220	Homapal	446 Alu Brushed-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1220	20	Perswerk	Homapal 446 Alu brushed	18	length	Berken
+451 SRM brons-MDF 16mm-U12000 SD zwart	3050x1220	Homapal	451 SRM brons-MDF 16mm-U12000 SD zwart	0	m2	1	10	0	3050	1220	18	Perswerk	Homapal 451 Alu brushed	16	length	Perswerk MDF
+480 Sei-Mplx 16.5mm-480 Sei	3050x1300	Abet	480 Sei-Mplx 16.5mm-480 Sei	0	m2	1	10	0	3050	1300	18.5	Perswerk	Abet 480 Sei	16.5	none	Perswerk Mplx
+480 Sei-Mplx 16.5mm-backing	3050x1300	Abet	480 Sei-Mplx 16.5mm-backing	0	m2	1	10	0	3050	1300	18.5	Perswerk	Abet 480 Sei	16.5	none	Perswerk Mplx
+0507 erre blauw-Sp. 16mm-0507	3050x1300	Arpa	0507 erre blauw-Sp. 16mm-0507	0	m2	1	10	0	3050	1300	18	Perswerk	Arpa 0507 Erre	16	none	Perswerk spaan
+602 Sei eik-Sp. 10mm-HPL zwart	3050x1250	Abet	602 Sei eik-Sp. 10mm-HPL zwart	0	m2	1	10	0	3050	1250	12	Perswerk	Abet 602 Sei	10	length	Perswerk spaan
+620 esdoorn-Sp. 10mm-backing	3050x1300	Abet	620 esdoorn-Sp. 10mm-backing	0	m2	1	10	0	3050	1300	12	Perswerk	Abet 620 Papier	10	length	Perswerk spaan
+00625 silicon-Berken 18mm-00625	3050x1300	Unilin	00625 silicon-Berken 18mm-00625	0	m2	1	10	0	3050	1300	20	Perswerk	Unilin 00625 CST	18	none	Berken
+0720 zwart-MDF 16mm-backing fenix zwart	3050x1300	Fenix	0720 zwart-MDF 16mm-backing fenix zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0720 NTM	16	none	Perswerk MDF
+0720 zwart-MDF MR 16mm-backing	3050x1300	Fenix	0720 zwart-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0720 NTM	16	none	Vochtwerend
+0720 zwart-MDF MR 38mm-backing	3050x1300	Fenix	0720 zwart-MDF MR 38mm-backing	0	m2	1	10	0	3050	1300	40	Perswerk	Fenix 0720 NTM	38	none	Vochtwerend
+0725 grijs-MDF 16mm-backing fenix grijs	3050x1300	Fenix	0725 grijs-MDF 16mm-backing fenix grijs	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0725 NTM	16	none	Perswerk MDF
+0745 d.blauw-Sp. 16mm-backing	3050x1300		0745 d.blauw-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0745 NTM	16	none	Perswerk spaan
+0750 groen-MDF MR 16mm-0760 Erre Verde	3050x1300	Fenix	0750 groen-MDF MR 16mm-0760 Erre Verde	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0750 NTM	16	none	Vochtwerend
+0750 groen-Sp. 38mm-0760 Erre Verde	3050x1300	Fenix	0750 groen-Sp. 38mm-0760 Erre Verde	0	m2	1	10	0	3050	1300	40	Perswerk	Fenix 0750 NTM	38	none	Perswerk spaan
+0751 d.rood-Sp. 16mm-0759	3050x1300	Fenix	0751 d.rood-Sp. 16mm-0759	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0751 NTM	16	none	Perswerk spaan
+0751 rood-Sp. 16mm-0751 rood	3050x1300	Fenix	0751 rood-Sp. 16mm-0751 rood	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0751 NTM	16	none	Perswerk spaan
+0751 rood-Sp. 16mm-backing	3050x1300	Fenix	0751 rood-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0751 NTM	16	none	Perswerk spaan
+0751 rood-Sp.MR 16mm-0751 rood	3050x1300	Fenix	0751 rood-Sp.MR 16mm-0751 rood	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0751 NTM	16	none	Vochtwerend
+0751 rood-Sp.MR 16mm-backing	3050x1300	Fenix	0751 rood-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0751 NTM	16	none	Vochtwerend
+0754 blauw-Sp. 16mm-0754	3050x1300	Fenix	0754 blauw-Sp. 16mm-0754	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0754 NTM	16	none	Perswerk spaan
+0760-60 blauw-MDF 16mm-0760-60	3050x1300	Resopal	0760-60 blauw-MDF 16mm-0760-60	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 0760-60	16	none	Perswerk
+0760-60 blauw-MDF 16mm-backing	3050x1300	Resopal	0760-60 blauw-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 0760-60	16	none	Perswerk
+0771 blauw-Sp. 28mm-F0771 backing	3050x1250	Fenix	0773 groen-Sp. 16mm-0773	0	m2	1	10	0	3050	1250	30	Perswerk	Fenix 0771 NTM	28	none	Perswerk spaan
+0771 blauw-Sp.MR 16mm-F0711 backing	3050x1300	Fenix	0771 blauw-Sp.MR 16mm-F0711 backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0771 NTM	16	none	Vochtwerend
+0773 groen-MDF MR 22mm-backing	3050x1220	Fenix	0773 groen-MDF MR 22mm-backing	0	m2	1	10	0	3050	1220	24	Perswerk	Fenix 0773 NTM	22	length	Vochtwerend
+0773 groen-Sp. 16mm-0773	3050x1300	Fenix	0773 groen-Sp. 16mm-0773	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0773 NTM	16	length	Perswerk spaan
+0794 groen-Sp. 16mm-0798 backing	3050x1300	Fenix	0794 groen-Sp. 16mm-0798 backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 0794 NTM	16	none	Perswerk spaan
+835-MDF 16mm-835	3050x1300	Abet	835-MDF 16mm-835	0	m2	1	10	0	3050	1300	18	Perswerk	Abet 835 Sei	16	none	Perswerk MDF
+835-MDF 16mm-backing	3050x1300	Abet	835-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Abet 835 Sei	16	none	Perswerk MDF
+0849 FH groen-Sp. 16mm-0849 FH	3050x1300	Fundermax	0849 FH groen-Sp. 16mm-0849 FH	0	m2	1	10	0	3050	1300	18	Perswerk	Fundermax 0849 FH	16	none	Spaanplaat
+0849 FH groen-Sp. 16mm-backing	3050x1300	Fundermax	0849 FH groen-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fundermax 0849 FH	16	none	Spaanplaat
+0849 FH groen-Sp. 38mm-backing	3050x1300	Fundermax	0849 FH groen-Sp. 38mm-backing	0	m2	1	10	0	3050	1300	40	Perswerk	Fundermax 0849 FH	38	none	Spaanplaat
+0851 FH wit-MDF 38mm-0851	3050x1300	Fundermax	0851 FH wit-MDF 38mm-0851	0	m2	1	10	0	3050	1300	40	Perswerk	Fundermax 0851 FH	38	none	Perswerk MDF
+0901-60 zwart-MDF FR 16mm-0901-60 black	3050x1300	Resopal	0901-60 zwart-MDF FR 16mm-0901-60 black	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 0901-60	16	none	Brandvertragend
+0901-60 zwart-MDF FR 16mm-backing	3050x1300	Resopal	0901-60 zwart-MDF FR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 0901-60	16	none	Brandvertragend
+2516 MP grijs-MDF FR 16mm-backing	3050x1220	Arpa	2516 MP grijs-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Arpa 2516 MP	16	none	Brandvertragend
+2516 MP grijs-MDF FR 50mm-backing	3050x1220	Arpa	2516 MP grijs-MDF FR 50mm-backing	0	m2	1	10	0	3050	1220	52	Perswerk	Arpa 2516 MP	50	none	Brandvertragend
+2628 beige-MDF 16mm-2628	3050x1250	Fenix	2628 beige-MDF 16mm-2628	0	m2	1	10	0	3060	1300	18	Perswerk	Fenix 2628 NTM	16	length	Perswerk MDF
+2628 grijs-Sp.MR 16mm-2628	3050x1300	Fenix	2628 grijs-Sp.MR 16mm-2628	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 2628 NTM	16	length	Vochtwerend
+2628 grijs-Sp.MR 16mm-backing	3050x1300	Fenix	2628 grijs-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 2628 NTM	16	length	Vochtwerend
+3044-EM eik-MDF FR 16mm-backing	3050x1300	Resopal	3044-EM eik-MDF FR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 3044-EM	16	length	Brandvertragend
+3900-GB alu-MDF 16mm-backing	3050x1220	Resopal	3900-GB alu-MDF 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Resopal 3900-GB	16	length	custom
+3907-HG chroom-Sp. 16mm-backing 3100-60	3050x1220	Resopal	3907-HG chroom-Sp. 16mm-backing 3100-60	0	m2	1	10	0	3050	1220	18	Perswerk	Resopal 3907-HG	16	none	Perswerk spaan
+4081-EW eik-Sp. 16mm-4081 eik	3050x1300	Resopal	4081-EW eik-Sp. 16mm-4081 eik	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 4081-EW	16	length	Perswerk spaan
+4081-EW eik-Sp. 16mm-backing	3050x1300	Resopal	4081-EW eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 4081-EW	16	length	Perswerk spaan
+4081-EW eik-Sp. 38mm-4081 eik	3050x1300	Resopal	4081-EW eik-Sp. 38mm-4081 eik	0	m2	1	10	0	3050	1300	40	Perswerk	Resopal 4081-EW	38	length	Perswerk spaan
+4081-EW eik-Sp. 38mm-backing	3050x1300	Resopal	4081-EW eik-Sp. 38mm-backing	0	m2	1	10	0	3050	1300	40	Perswerk	Resopal 4081-EW	38	length	Perswerk spaan
+4110-WH wenge-MDF FR 16mm-zwart	3050x1300	Resopal	4110-WH wenge-MDF FR 16mm-zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 4110-WH	16	length	Brandvertragend
+4145-EM essen-Sp. 16mm-4145	3050x1300		4145-EM essen-Sp. 16mm-4145	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal 4145-EM	16	length	Perswerk spaan
+4145-EM essen-Sp. 16mm-backing	3050x1300		4145-EM essen-Sp. 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Resopal 4145-EM	16	length	Perswerk spaan
+4344-EW eik-Sp. 28mm-4344-EW	3050x1300	Resopal	4344-EW eik-Sp. 28mm-4344-EW	0	m2	1	10	0	3050	1300	30	Perswerk	Resopal 4344-EW	28	length	Perswerk spaan
+4501-EW eik wit-MDF FR 16mm-zwart	3050x1220	Resopal	4501-EW eik wit-MDF FR 16mm-zwart	0	m2	1	10	0	3050	1220	18	Perswerk	Resopal 4501-EW	16	length	Brandvertragend
+5000 RVS-Sp. 16mm-2640 backing	3050x1300	Fenix	5000 RVS-Sp. 16mm-2640 backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 5000 NTM	16	length	Perswerk spaan
+5001 Alu-Sp. 16mm-backing	3050x1300	Fenix	5001 Alu-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 5001 NTM	16	length	Perswerk spaan
+5001 Alu-Sp.MR 16mm-backing 2640	3050x1300	Fenix	5001 Alu-Sp.MR 16mm-backing 2640	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 5001 NTM	16	length	Vochtwerend
+5001 NTM alu-Sp. 16mm-2641 erre	3050x1300	Fenix	5001 NTM alu-Sp. 16mm-2641 erre	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 5001 NTM	16	length	Spaanplaat
+5001 NTM alu-Sp. 16mm-5001 NTM	3050x1300	Fenix	5001 NTM alu-Sp. 16mm-5001 NTM	0	m2	1	10	0	3050	1300	18	Perswerk	Fenix 5001 NTM	16	length	Spaanplaat
+18004 MP blauw-MDF 16mm-18004	3050x1300	Pfleiderer	18004 MP blauw-MDF 16mm-18004	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 MP	16	none	Perswerk MDF
+18004 MP blauw-MDF 16mm-HPL zwart	3050x1300	Pfleiderer	18004 MP blauw-MDF 16mm-HPL zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 MP	16	none	Perswerk MDF
+18004 MP blauw-MDF MR 16mm-backing	3050x1300	Pfleiderer	18004 MP blauw-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 MP	16	none	Vochtwerend
+18004 SD blauw-MDF 16mm-18004	3050x1300	Pfleiderer	18004 SD blauw-MDF 16mm-18004	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 MP	16	none	Perswerk MDF
+18004 SD blauw-MDF 16mm-HPL zwart	3050x1300	Pfleiderer	18004 SD blauw-MDF 16mm-HPL zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 SD	16	none	Perswerk MDF
+18004 SD blauw-MDF MR 16mm-backing	3050x1300	Pfleiderer	18004 SD blauw-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 SD	16	none	Vochtwerend
+Bamboe caramel 4mm-MDF FR 16mm-bamboe 4mm	2440x1220		Bamboe caramel 4mm-MDF FR 16mm-bamboe 4mm	0	m2	1	10	0	2440	1220	24	Fineer	Bamboe caramel	16	length	Brandvertragend
+Bamboe caramel-MDF 18mm-Bamboe plain	2500x1250		Bamboe caramel-MDF 18mm-Bamboe plain	0	m2	1	10	0	2500	1250	19	Fineer	Bamboe density caramel	18	length	Perswerk MDF
+Bamboe naturel-MDF 18mm-bamboe naturel	2440x1220		Bamboe naturel-MDF 18mm-bamboe naturel	0	m2	1	10	0	2440	1220	18	Massief	Bamboe	18	length	Perswerk MDF
+Binnenlade-0,1mm	3050x1220		Binnenlade-0,1mm	0	m2	1	10	0	3050	1220	0.1	Perswerk	[RT] NC-Transparant	0.1	none	custom
+C035 FA groen-Sp. 16mm-C035 FA	3050x1220	Polyrey	C035 FA groen-Sp. 16mm-C035 FA	0	m2	1	10	0	3050	1220	18	Perswerk	Polyrey C035 FA	16	none	Perswerk spaan
+Corian Aurora-12mm	3658x760	Corian	Aurora-12mm	0	m2	1	10	0	3658	760	12	Solid surface	Corian Aurora	12	none	
+Corian Bisque-12mm	3658x760	Corian	Borian Bisque-12mm	0	m2	1	10	0	3658	760	12	Solid surface	Corian Bisque	12	none	
+Corian Bisque-25mm		Corian							3000	2300	25	Solid surface	Corian Bisque	25	none	
+Corian Glacier white-6mm	2490x760	Corian	Corian Glacier white-6mm	0	m2	1	10	0	2490	760	6	Solid surface	Corian Glacier white	6	none	
+Corian Glacier white-6mm - 2490 x 930 mm	2490x930	Corian	Corian Glacier white-6mm - 2490 x 930 mm	0	m2	1	10	0	2490	930	6	Solid surface	Corian Glacier white	6	none	
+Corian Glacier white-6mm - 2490 x 1300 mm	2490x1300	Corian	Corian Glacier white-6mm - 2490 x 1300 mm	0	m2	1	10	0	2490	1300	6	Solid surface	Corian Glacier white	6	none	
+Corian Glacier white-12mm	3658x760	Corian	Corian Glacier white-12mm	0	m2	1	10	0	3658	760	12	Solid surface	Corian Glacier white	12	none	
+Corian Glacier white-12mm - 3658 x 930 mm	3658x930	Corian	Corian Glacier white-12mm - 3658 x 930 mm	0	m2	1	10	0	3658	930	12	Solid surface	Corian Glacier white	12	none	
+Corian Glacier white-12mm - 3658 x 1300 mm	3658x1300	Corian	Corian Glacier white-12mm - 3658 x 1300 mm	0	m2	1	10	0	3658	1300	12	Solid surface	Corian Glacier white	12	none	
+Corian Glacier white-12mm - 3658 x 1500 mm	3658x1500	Corian	Corian Glacier white-12mm - 3658 x 1500 mm	0	m2	1	10	0	3658	1500	12	Solid surface	Corian Glacier white	12	none	
+Corian Willow-12mm	3658x760	Corian	Corian Willow-12mm	0	m2	1	10	0	3658	760	12	Solid surface	Corian Willow	12	none	
+D91-EM grijs-MDF FR 18mm-D91-EM	3050x1220	Resopal	D91-EM grijs-MDF FR 18mm-D91-EM	0	m2	1	10	0	3050	1220	20	Perswerk	Resopal D91-EM	18	none	Brandvertragend
+D421-60 groen-Sp. 16mm-backing	3050x1300		D421-60 groen-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Resopal D421-60	16	none	custom
+Durat R2009 Traffic orange-12mm	2900x800	Durat	Durat R2009 Traffic orange-12mm	0	m2	1	10	0	2900	800	12	Solid surface	Durat R2009 Traffic orange	12	none	
+Eik A dosse-MDF 28mm-eik B	3050x1250		Eik A dosse-MDF 28mm-eik B	0	m2	1	10	0	3050	1250	29	Fineer	Eiken fineer	28	length	Perswerk MDF
+Eik A dosse-MDF FR 36mm-eik B	3050x1220		Eik A dosse-MDF FR 36mm-eik B	0	m2	1	10	0	3050	1250	37	Fineer	Eiken fineer	36	length	Brandvertragend
+Eik A kwartiers-MDF 18mm-backing	3050x1250		Eik A kwartiers-MDF 18mm-backing	0	m2	1	10	0	3050	1250	19	Fineer	Eiken fineer	18	length	Perswerk MDF
+Eik A kwartiers-MDF 18mm-Eik A kwartiers	3030x1240		Eik A kwartiers-MDF 18mm-eik A kwartiers	0	m2	1	10	0	3030	1238	19	Fineer	Eiken fineer	18	length	Perswerk MDF
+Eik A kwartiers-MDF 25mm-eik B kwartiers	3030x1210		Eik A kwartiers-MDF 25mm-eik B kwartiers	0	m2	1	10	0	3030	1210	26	Fineer	Eiken fineer	25	length	Perswerk MDF
+Eik A kwartiers-MDF 25mm-okoume	1210x3030		Eik A kwartiers-MDF 25mm-okoume	0	m2	1	10	0	1210	3030	26	Fineer	Eiken fineer	25	length	Perswerk MDF
+Eik A kwartiers-MDF 38mm-Eik A kwartiers	3030x1207		Eik A kwartiers-MDF 38mm-Eik A kwartiers	0	m2	1	10	0	3030	1207	39	Fineer	Eiken fineer	38	length	Perswerk MDF
+Eik A kwartiers-MDF 38mm-eik B kwartiers	3030x1210		Eik A kwartiers-MDF 38mm-eik B kwartiers	0	m2	1	10	0	3030	1210	39	Fineer	Eiken fineer	38	length	Perswerk MDF
+Eik A kwartiers-MDF MR 18mm-eik A	3030x1210		Eik A kwartiers-MDF MR 18mm-eik A	0	m2	1	10	0	3030	1210	19	Fineer	Eiken fineer	18	length	Vochtwerend
+Eik A kwartiers-MDF MR 18mm-eik B	3030x1210		Eik A kwartiers-MDF MR 18mm-eik B	0	m2	1	10	0	3030	1210	19	Fineer	Eiken fineer	18	length	Vochtwerend
+Eik A kwartiers-MDF MR 38mm-eik A	3030x1210		Eik A kwartiers-MDF MR 38mm-eik A	0	m2	1	10	0	3030	1210	39	Fineer	Eiken fineer	38	length	Vochtwerend
+Eik A kwartiers-MDF MR 38mm-eik B	3030x1210		Eik A kwartiers-MDF MR 38mm-eik B	0	m2	1	10	0	3030	1210	39	Fineer	Eiken fineer	38	length	Vochtwerend
+Eik Dosse mix-MDF zwart 18mm-backing	3050x1220		Eik Dosse mix-MDF zwart 18mm-backing	0	m2	1	10	0	3050	1220	19	Fineer	Eiken fineer	18	length	Perswerk MDF
+Eik kwart. mix A/B-MDF 12mm-eik	3050x1240		Eik kwart. mix A/B-MDF 12mm-eik	0	m2	1	10	0	3050	1240	13	Fineer	Eiken fineer	12	length	Perswerk MDF
+Eik kwart. mix A/B-MDF 18mm-eik	3050x1220		Eik kwart. mix A/B-MDF 18mm-eik	0	m2	1	10	0	3050	1220	19	Fineer	Eiken fineer	18	length	Perswerk MDF
+Eik-MDF FR perfo 16mm-Eik	3050x1220		Eik-MDF FR perfo 16mm-Eik	0	m2	1	10	0	3050	1220	17	Fineer	Eiken fineer	16	length	MDF FR perfo
+Eik-MDF MR 12mm-Eik tegen	3050x1300		Eik-MDF MR 12mm-Eik tegen	0	m2	1	10	0	3050	1300	13	Fineer	Eiken fineer	12	length	MDF MR
+Eik-MDF MR 16mm-Eik tegen	3050x1300		Eik-MDF MR 16mm-Eik tegen	0	m2	1	10	0	3050	1300	17	Fineer	Eiken fineer	16	length	MDF MR
+Eiken dosse-MDF MR zw. 16mm-Eiken backing	3050x1220		Eiken dosse-MDF MR zw. 16mm-Eiken backing	0	m2	1	10	0	3050	1220	17	Fineer	Eiken fineer	16	length	Perswerk MDF
+Essen A dosse-MDF 18mm-essen B	2500x1250	Essen	Essen A dosse-MDF 18mm-essen B	0	m2	1	10	0	2500	1250	19	Fineer	Essen fineer	18	length	Perswerk MDF
+Essen A dosse-MDF MR 16mm-essen B	2500x1250	Essen	Essen A dosse-MDF MR 16mm-essen B	0	m2	1	10	0	2500	1250	17	Fineer	Essen fineer	16	length	Vochtwerend
+F0949 matte wit-MDF MR 16mm-backing	3050x1300	Formica	F0949 matte wit-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F0949 Matte	16	none	Vochtwerend
+F1079 eik-MDF 16mm-K101 wit	2600x1300	Formica	F1079 eik-MDF 16mm-K101 wit	0	m2	1	10	0	2600	1300	18	Perswerk	Formica F1079 Nat	16	length	Perswerk MDF
+F1079 eik-MDF 18mm-F1079	3050x1300	Formica	F1079 eik-MDF 18mm-F1079	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F1079 Nat	18	length	Perswerk MDF
+F1079 eik-MDF FR 18mm-backing	3050x1300	Formica	F1079 eik-MDF FR 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F1079 Nat	18	length	Brandvertragend
+F1093 wit-MDF MR 16mm-backing	3050x1300	Formica	F1093 wit-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F1093 Matte	16	none	Vochtwerend
+F1139 kers-Lisocore 58mm-backing	3050x1300	Formica	F1139 kers-Lisocore 58mm-backing	0	m2	1	10	0	3050	1300	60	Perswerk	Formica F1139 Matte	58	length	custom
+F1139 kers-Sp. 9mm-backing	3050x1300	Formica	F1139 kers-Sp. 9mm-backing	0	m2	1	10	0	3050	1300	11	Perswerk	Formica F1139 Matte	9	length	Perswerk spaan
+F1139 kers-Sp. 16mm-backing	3050x1300	Formica	F1139 kers-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F1139 Matte	16	length	Perswerk spaan
+F1139 kers-Sp. 16mm-F1139	3050x1300	Formica	F1139 kers-Sp. 16mm-F1139	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F1139 Matte	16	length	Perswerk spaan
+F1139 kers-Sp. 38mm-backing	3050x1250	Formica	F1139 kers-Sp. 38mm-backing	0	m2	1	10	0	3050	1250	40	Perswerk	Formica F1139 Matte	38	length	Perswerk spaan
+F1139 kers-Sp. 38mm-F1139	3050x1250	Formica	F1139 kers-Sp. 38mm-F1139	0	m2	1	10	0	3050	1250	40	Perswerk	Formica F1139 Matte	38	length	Perswerk spaan
+F1535 grijs-Sp.MR 16mm-backing	3050x1300	Formica	F1535 grijs-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F1535 Matte	16	none	Vochtwerend
+F2253 Mat zwart-MDF FR/MR 16mm-backing	3050x1220	Formica	F2253 Mat zwart-MDF FR/MR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2253 Matte	16	none	Brandvertragend
+F2253 Mat zwart-MDF FR/MR 16mm-F2253	3050x1220	Formica	F2253 Mat zwart-MDF FR/MR 16mm-F2253	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2253 Matte	16	none	Brandvertragend
+F2253 Matte zwart-MDF MR FR 16mm-backing	3050x1220	Formica	F2253 Matte zwart-MDF MR FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2253 Matte	16	none	MDF MR FR
+F2253 Matte zwart-MDF MR FR 16mm-F2253 Matte	3050x1220	Formica	F2253 Matte zwart-MDF MR FR 16mm-F2253 Matte	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2253 Matte	16	none	MDF MR FR
+F2253 zwart-MDF 16mm-backing	3050x1300	Formica	F2253 zwart-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F2253 Matte	16	none	Perswerk MDF
+F2253 zwart-MDF FR 16mm-backing	3050x1220	Formica	F2253 zwart-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2253 Matte	16	none	Brandvertragend
+F2253 zwart-MDF FR 16mm-F2253	3050x1220	Formica	F2253 zwart-MDF FR 16mm-F2253	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2253 Matte	16	none	Brandvertragend
+F2253 zwart-MDF MR 16mm-HPL zwart	3050x1300	Formica	F2253 zwart-MDF MR 16mm-HPL zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F2253 Matte	16	none	Vochtwerend
+F2253 zwart-Mplx.berken 18mm-backing	3050x1300	Formica	F2253 zwart-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F2253 Matte	18	none	Berken
+F2255 Matte wit-MDF 16mm-F2255 Mat wit	3050x1300	Formica	F2255 Matte wit-MDF 16mm-F2255 Matte	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F2255 Matte	16	none	Perswerk MDF
+F2255 Matte wit-MDF 18mm-F2255 Mat wit	3050x1300	Formica	F2255 Matte wit-MDF 18mm-F2255 Matte	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F2255 Matte	18	none	Perswerk MDF
+F2255 Matte wit-MDF FR 16mm-backing	3050x1300	Formica	F2255 Matte wit-MDF FR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F2255 Matte	16	none	Brandvertragend
+F2255 Matte wit-Mplx.berken 27mm-backing	3050x1300	Formica	F2255 Matte wit-Mplx.berken 27mm-backing	0	m2	1	10	0	3050	1300	29	Perswerk	Formica F2255 Matte	27	none	Berken
+F2255 Matte wit-Sp. 16mm-backing	3050x1300	Formica	F2255 Matte wit-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F2255 Matte	16	none	Perswerk spaan
+F2296 wit-MDF FR 16mm-backing wit	3050x1220	Formica	F2296 wit-MDF FR 16mm-backing wit	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F2296 Matte	16	none	Brandvertragend
+F3050 Matte beige-Sp. 16mm-backing	3050x1300	Formica	F3050 Matte beige-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F3050 Matte	16	none	Perswerk spaan
+F3050 Matte beige-Sp. 16mm-F3050	3050x1300	Formica	F3050 Matte beige-Sp. 16mm-F3050	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F3050 Matte	16	none	Perswerk spaan
+F3091 AR wit-MDF 16mm-backing	3050x1300	Formica	F3091 AR wit-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F3091 AR	16	none	Perswerk MDF
+F3091 AR wit-MDF 25mm-backing	3050x1300	Formica	F3091 AR wit-MDF 25mm-backing	0	m2	1	10	0	3050	1300	27	Perswerk	Formica F3091 AR	25	none	Perswerk MDF
+F3202 Matte beige-Kosk. 16mm-backing	3050x1300	Formica	F3202 Matte beige-Kosk. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F3202 Matte	16	none	Decor
+F3202 Matte beige-Kosk. 16mm-F3202 Matte	3050x1300	Formica	F3202 Matte beige-Kosk. 16mm-F3202 Matte	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F3202 Matte	16	none	Decor
+F5374 eik-MDF FR 16mm-F2253 zwart	3050x1220	Formica	F5374 eik-MDF FR 16mm-F2253 zwart	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F5374 Nat	16	length	Brandvertragend
+F5374 eik-MDF FR 16mm-F5374	3050x1220	Formica	F5374 eik-MDF FR 16mm-F5374	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F5374 Nat	16	length	Brandvertragend
+F5374 eik-MDF FR 25mm-F2253 zwart	3050x1220	Formica	F5374 eik-MDF FR 25mm-F2253 zwart	0	m2	1	10	0	3050	1220	27	Perswerk	Formica F5374 Nat	25	length	Brandvertragend
+F5374 eik-MDF FR 25mm-F5374	3050x1220	Formica	F5374 eik-MDF FR 25mm-F5374	0	m2	1	10	0	3050	1220	27	Perswerk	Formica F5374 Nat	25	length	Brandvertragend
+F5483 FR LNW-MDF FR 16mm-F5483 FR	3050x1220	Formica	F5483 FR LNW-MDF FR 16mm-F5483 FR	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F5483 LNW	16	length	Brandvertragend
+F6926 noten-MDF 50mm-F6926	3050x1220	Formica	F6926 noten-MDF 50mm-F6926	0	m2	1	10	0	3050	1220	52	Perswerk	Formica F6926 Matte	50	length	Perswerk MDF
+F6926 noten-Sp. 16mm-F6926	3050x1300	Formica	F6926 noten-Sp. 16mm-F6926	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F6926 Matte	16	length	Perswerk spaan
+F6926 noten-Sp. 38mm-backing	3050x1250	Formica	F6926 noten-Sp. 38mm-backing	0	m2	1	10	0	3050	1250	40	Perswerk	Formica F6926 Matte	38	length	Perswerk spaan
+F7837 Matte grijs-MDF FR/MR 16mm-backing	3050x1220	Formica	F7837 Matte grijs-MDF FR/MR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F7837 Matte	16	none	Brandvertragend
+F7837 Matte grijs-MDF FR/MR 16mm-F7837	3050x1220	Formica	F7837 Matte grijs-MDF FR/MR 16mm-F7837	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F7837 Matte	16	none	Brandvertragend
+F7858 beige-MDF MR 16mm-F7858	3050x1300	Formica	F7858 beige-MDF MR 16mm-F7858	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F7858 Matte	16	none	Vochtwerend
+F7858 beige-MDF MR 18mm-F1130 wit	3050x1300	Formica	F7858 beige-MDF MR 18mm-F1130 wit	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F7858 Matte	18	none	Vochtwerend
+F7858 beige-Mplx.berken 27mm-F1130 wit	3050x1250	Formica	F7858 beige-Mplx.berken 27mm-F1130 wit	0	m2	1	10	0	3050	1250	29	Perswerk	Formica F7858 Matte	27	none	Berken
+F7858 beige-Sp. 28mm-F7858	3050x1270	Formica	F7858 beige-Sp. 28mm-F7858	0	m2	1	10	0	3050	1270	30	Perswerk	Formica F7858 Matte	28	none	Perswerk spaan
+F7912 grijs-MDF FR 15mm-backing	3050x1220	Formica	F7912 grijs-MDF FR 15mm-backing	0	m2	1	10	0	3050	1220	17	Perswerk	Formica F7912 AR	15	none	Brandvertragend
+F7912 grijs-Sp.MR 16mm-F7912 Grijs	3050x1250	Formica	F7912 grijs-Sp.MR 16mm-F7912 Grijs	0	m2	1	10	0	3050	1250	18	Perswerk	Formica F7912 AR	16	none	Vochtwerend
+F7927 Matte grijs-MDF FR 16mm-F7927 Grijs	3050x1220	Formica	F7927 Matte grijs-MDF FR 16mm-F7927 Grijs	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F7927 Matte	16	none	Brandvertragend
+F7938 Matte wit-Mplx.berken 18mm-F7938	3050x1300	Formica	F7938 Matte wit-Mplx.berken 18mm-F7938	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F7938 Matte	18	none	Berken
+F7949 wit-MDF 16mm-F7949	3050x1300		F7949 wit-MDF 16mm-F7949	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F7949 ST9	16	none	Perswerk MDF
+F7949 wit-MDF FR 16mm-backing	3050x1220		F7949 wit-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F7949 ST9	16	none	Brandvertragend
+F7949 wit-MDF FR 16mm-F7949	3050x1220		F7949 wit-MDF FR 16mm-F7949	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F7949 ST9	16	none	Brandvertragend
+F7949 wit-MDF FR 25mm-F7949	3050x1220		F7949 wit-MDF FR 25mm-F7949	0	m2	1	10	0	3050	1220	27	Perswerk	Formica F7949 ST9	25	none	Brandvertragend
+F7949 wit-MDF FR 36mm-F7949	3050x1220		F7949 wit-MDF FR 36mm-F7949	0	m2	1	10	0	3050	1220	38	Perswerk	Formica F7949 ST9	36	none	Brandvertragend
+F7949 wit-MDF MR 9mm-F7949	3050x1220		F7949 wit-MDF MR 9mm-F7949	0	m2	1	10	0	3050	1220	11	Perswerk	Formica F7949 ST9	9	none	Vochtwerend
+F7949 wit-MDF MR 16mm-backing	3050x1300		F7949 wit-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F7949 ST9	16	none	Vochtwerend
+F7949 wit-MDF MR 16mm-F7949	3050x1300		F7949 wit-MDF MR 16mm-F7949	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F7949 ST9	16	none	Vochtwerend
+F7949 wit-MDF MR 18mm-backing	3050x1300		F7949 wit-MDF MR 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F7949 ST9	18	none	Vochtwerend
+F7949 wit-MDF MR 18mm-F7949	3050x1300		F7949 wit-MDF MR 18mm-F7949	0	m2	1	10	0	3050	1300	20	Perswerk	Formica F7949 ST9	18	none	Vochtwerend
+F7949 wit-MDF MR 25mm-backing	3050x1220		F7949 wit-MDF MR 25mm-backing	0	m2	1	10	0	3050	1220	27	Perswerk	Formica F7949 ST9	25	none	Vochtwerend
+F7949 wit-MDF MR 38mm-F7949	3050x1310		F7949 wit-MDF MR 38mm-F7949	0	m2	1	10	0	3050	1310	40	Perswerk	Formica F7949 ST9	38	none	Vochtwerend
+F7949 wit-Mplx.berken 27mm-backing	3050x1300		F7949 wit-Mplx.berken 27mm-backing	0	m2	1	10	0	3050	1300	29	Perswerk	Formica F7949 ST9	27	none	Berken
+F7949 wit-Mplx.berken 40mm-F7949	3050x1300		F7949 wit-Mplx.berken 40mm-F7949	0	m2	1	10	0	3050	1300	42	Perswerk	Formica F7949 ST9	40	none	Berken
+F8140 rood-Sp. 16mm-backing	3050x1300	Formica	F8140 rood-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8140 Matte	16	none	Perswerk spaan
+F8141 rood-Sp. 8mm-F8141	3050x1250	Formica	F8141 rood-Sp. 8mm-F8141	0	m2	1	10	0	3050	1250	10	Perswerk	Formica F8141 Matte	8	none	Perswerk spaan
+F8141 rood-Sp. 10mm-F8141	3050x1250	Formica	F8141 rood-Sp. 10mm-F8141	0	m2	1	10	0	3050	1250	12	Perswerk	Formica F8141 Matte	10	none	Perswerk spaan
+F8141 rood-Sp. 16mm-backing	3050x1300	Formica	F8141 rood-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8141 Matte	16	none	Perswerk spaan
+F8141 rood-Sp. 16mm-F8141	3050x1300	Formica	F8141 rood-Sp. 16mm-F8141	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8141 Matte	16	none	Perswerk spaan
+F8141 rood-Sp. 28mm-F8141	3050x1250	Formica	F8141 rood-Sp. 28mm-F8141	0	m2	1	10	0	3050	1250	30	Perswerk	Formica F8141 Matte	28	none	Perswerk spaan
+F8141 rood-Sp. 38mm-F8141	3050x1250	Formica	F8141 rood-Sp. 38mm-F8141	0	m2	1	10	0	3050	1250	40	Perswerk	Formica F8141 Matte	38	none	Perswerk spaan
+F8243 zwart-Sp.MR 16mm-backing	3050x1300	Formica	F8243 zwart-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8243 Matte	16	none	Vochtwerend
+F8552 FR zwart-MDF FR 16mm-backing	3050x1250	Formica	F8552 FR zwart-MDF FR 16mm-backing	0	m2	1	10	0	3050	1250	18	Perswerk	Formica F8552 Nat	16	length	Brandvertragend
+F8751 Matte mojave-Koskisen 16mm-F8751	3050x1300	Formica	F8751 Matte mojave-Koskisen 16mm-F8751	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8751 Matte	16	none	Perswerk spaan
+F8751 Matte mojave-MDF MR 16mm-backing	3050x1300	Formica	F8751 Matte mojave-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8751 Matte	16	none	Vochtwerend
+F8793 groen-Sp. 16mm-backing	3050x1300	Formica	F8793 groen-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8793 Matte	16	none	Perswerk spaan
+F8848 eik donker-MDF FR 16mm-F8848	3050x1220	Formica	F8848 eik donker-MDF FR 16mm-F8848	0	m2	1	10	0	3050	1220	18	Perswerk	Formica F8848 Nat	16	length	Brandvertragend
+F8858 roze-MDF 25mm-backing	3050x1220	Formica	F8858 roze-MDF 25mm-backing	0	m2	1	10	0	3050	1220	27	Perswerk	Formica F8858 Matte	25	none	Perswerk MDF
+F8858 roze-Sp. 8mm-backing	3050x1250	Formica	F8858 roze-Sp. 8mm-backing	0	m2	1	10	0	3050	1250	10	Perswerk	Formica F8858 Matte	8	none	Perswerk spaan
+F8858 roze-Sp. 16mm-backing	3050x1300	Formica	F8858 roze-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8858 Matte	16	none	Perswerk spaan
+F8858 roze-Sp. 16mm-F8858	3050x1300	Formica	F8858 roze-Sp. 16mm-F8858	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F8858 Matte	16	none	Perswerk spaan
+F9684 bruin-Sp. 16mm-backing	3050x1300	Formica	F9684 bruin-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F9684 Nat	16	none	Perswerk spaan
+F9684 bruin-Sp. 16mm-zwart	3050x1300	Formica	F9684 bruin-Sp. 16mm-zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Formica F9684 Nat	16	none	Perswerk spaan
+F76110 SD brons-MDF 16mm-backing	3050x1300	Pfleiderer	F76110 SD brons-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer F76110 SD	16	none	Perswerk MDF
+F76110 SD brons-MDF MR 16mm-backing	3050x1300	Pfleiderer	F76110 SD brons-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer F76110 SD	16	length	Vochtwerend
+F76110 SD brons-Sp. 16mm-backing	3050x1300	Pfleiderer	F76110 SD brons-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer F76110 SD	16	none	Perswerk spaan
+F76110 SD brons-Sp. 16mm-F76110	3050x1300	Pfleiderer	F76110 SD brons-Sp. 16mm-F76110	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer F76110 SD	16	none	Perswerk spaan
+G077 beige-Sp. 16mm-G077	3050x1300		G077 beige-Sp. 16mm-G077	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey G077	16	none	Perswerk spaan
+G077 beige-Sp.MR 16mm-backing	3050x1300		G077 beige-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey G077	16	none	Vochtwerend
+GB 3900 Alu-MDF Zwart D-D 36mm-GB 3900 Alu	3050x1220	Resopal	GB 3900 Alu-MDF Zwart D-D 36mm-GB 3900 Alu	0	m2	1	10	0	3050	1220	38	Perswerk	Resopal 3900-GB	36	length	custom
+Gipsplaat 12mm	3000x600		Gipsplaat 12mm	0	m2	1	10	0	3000	600	12	Kaal plaatmateriaal	[RT] Gipsplaat +	12	none	custom
+H029 eik-Sp. 16mm-backing	3050x1300		H029 eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey H029	16	length	Perswerk spaan
+H029 eik-Sp. 16mm-H029	3050x1300		H029 eik-Sp. 16mm-H029	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey H029	16	length	Perswerk spaan
+H029 eik-Sp. 28mm-H029	3050x1250		H029 eik-Sp. 28mm-H029	0	m2	1	10	0	3050	1250	30	Perswerk	Polyrey H029	28	length	Perswerk spaan
+H029 SEV eik-MDF 28mm-backing	3050x1300		H029 SEV eik-MDF 28mm-backing	0	m2	1	10	0	3050	1300	30	Perswerk	Polyrey H029	28	length	Perswerk MDF
+H029 SEV eik-MDF 28mm-H029	3050x1300		H029 SEV eik-MDF 28mm-H029	0	m2	1	10	0	3050	1300	30	Perswerk	Polyrey H029	28	length	Perswerk MDF
+H029 SEV eik-Sp. 16mm-backing	3050x1310		H029 SEV eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1310	18	Perswerk	Polyrey H029	16	length	Perswerk spaan
+H029 SEV eik-Sp. 16mm-H029	3050x1300		H029 SEV eik-Sp. 16mm-H029	0	m2	1	10	0	3050	1300	18	Perswerk	Polyrey H029	16	length	Perswerk spaan
+H1145 ST10 eik-MDF FR 12mm-backing	3050x1220	Egger	H1145 ST10 eik-MDF FR 12mm-backing	0	m2	1	10	0	3050	1220	14	Perswerk	Egger H1145 ST10	12	length	Brandvertragend
+H1145 ST10 eik-MDF FR 16mm-backing	3050x1220	Egger	H1145 ST10 eik-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Egger H1145 ST10	16	length	Brandvertragend
+H1199 ST12 eik donker-Sp. 16mm-H1199	3050x1300	Egger	H1199 ST12 eik donker-Sp. 16mm-H1199	0	m2	1	10	0	3050	1300	18	Perswerk	Egger H1199 ST12	16	length	Perswerk spaan
+H1307 ST19 noten-MDF 16mm-backing	3050x1300	Egger	H1307 ST19 noten-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Egger H1307 ST19	16	length	Decor
+H1307 ST19 noten-MDF MR 38mm-backing	3050x1310		H1307 ST19 noten-MDF MR 38mm-backing	0	m2	1	10	0	3050	1310	40	Perswerk	Egger H1307 ST9	38	length	Vochtwerend
+H1307 ST19 noten-Sp. 16mm-backing	3050x1300		H1307 ST19 noten-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Egger H1307 ST9	16	length	Perswerk spaan
+H1307 ST19 noten-Sp. 16mm-H1307 ST19	3050x1300		H1307 ST19 noten-Sp. 16mm-H1307 ST19	0	m2	1	10	0	3050	1300	18	Perswerk	Egger H1307 ST9	16	length	Perswerk spaan
+H1307 ST19 noten-Sp. 28mm-H1307 ST19	3050x1300		H1307 ST19 noten-Sp. 28mm-H1307 ST19	0	m2	1	10	0	3050	1300	30	Perswerk	Egger H1307 ST9	28	length	Perswerk spaan
+H3157 ST12 eik-Sp. 16mm-backing	3050x1300	Egger	H3157 ST12 eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Egger H3157 ST12	16	length	Spaanplaat
+H3157 ST12 eik-Sp. 16mm-H3157	3050x1300	Egger	H3157 ST12 eik-Sp. 16mm-H3157	0	m2	1	10	0	3050	1300	18	Perswerk	Egger H3157 ST12	16	length	Perswerk spaan
+H3303 ST10 eik-MDF 16mm-H3303 ST10	3050x1220	Egger	H3303 ST10 eik-MDF 16mm-H3303 ST10	0	m2	1	10	0	3050	1220	18	Perswerk	Egger H3303 ST10	16	length	Perswerk
+H3303 ST10 eik-Sp. 16mm-backing	3050x1220	Egger	H3303 ST10 eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Egger H3303 ST10	16	length	Spaanplaat
+H3303 ST10 eik-Sp. 38mm-backing	3050x1220	Egger	H3303 ST10 eik-Sp. 38mm-backing	0	m2	1	10	0	3050	1220	40	Perswerk	Egger H3303 ST10	38	length	Spaanplaat
+H3303 ST10 eik-Sp. 38mm-H3303 ST10	3050x1220	Egger	H3303 ST10 eik-Sp. 38mm-H3303 ST10	0	m2	1	10	0	3050	1220	40	Perswerk	Egger H3303 ST10	38	length	Spaanplaat
+Haaklat vuren	4200x54		Haaklat vuren	0	m1	1	10	0	4200	54	19	Massief	Vuren	19	length	Massief
+Hi-macs G004 White quartz-12mm	3680x760	Hi-macs	Hi-macs G004 White quartz-12mm	0	m2	1	10	0	3680	760	12	Solid surface	Hi-macs G004 White quartz	12	none	
+Hi-macs G038 Sea Oat Quartz-12mm	3680x760	Hi-macs	Hi-macs G038 Sea Oat Quartz-12mm	0	m2	1	10	0	3680	760	12	Solid surface	Hi-macs G038 Sea Oat Quartz	12	none	
+Hi-macs G100 Peanut butter-12mm	3680x760	Hi-macs	Hi-macs G100 Peanut butter-12mm	0	m2	1	10	0	3680	760	12	Solid surface	Hi-macs G100 Peanut butter	12	none	
+Hi-macs G107 Pebble pearl-12mm	3680x760	Hi-macs	Hi-macs G107 Pebble pearl-12mm	0	m2	1	10	0	3680	760	12	Solid surface	Hi-macs G107 Pebble pearl	12	none	
+Hi-macs S002 Almond-12mm	3680x760	Hi-macs	Hi-macs S002 Almond-12mm	0	m2	1	10	0	3680	760	12	Solid surface	Hi-macs S002 Almond	12	none	
+HPL 0,8mm-U12000 SD zwart	3050x1300	Pfleiderer	HPL 0,8mm-U12000 SD zwart	0	m2	1	10	0	3050	1300	0.8	HPL	Pfleiderer U12000 SD	0.8	none	HPL
+HPL 0.82mm-Abet 602 Sei eik	3049x1299	Abet	HPL 0.82mm-Abet 602 Sei eik	0	m2	1	10	0	3049	1299	0.82	HPL	Abet 602 Sei	0.82	none	
+HPL 1mm-0H251 W06 noten	3050x1300	Unilin	HPL 1mm-0H251 W06 noten	0	m2	1	10	0	3050	1300	1	HPL	Unilin 0H251 W06	1	length	custom
+HPL 1mm-0H266 Dainty Oak	3050x1300	Unilin	HPL 1mm-0H266 Dainty Oak	0	m2	1	10	0	3050	1300	1	HPL	Unilin 0H266 V1A	1	length	HPL
+HPL 1mm-0H266 eik	3050x1300	Unilin	HPL 1mm-0H266 eik	0	m2	1	10	0	3050	1300	1	HPL	Unilin 0H266 V1A	1	length	HPL
+HPL 1mm-backing	3050x1300		HPL 1mm-backing	0	m2	1	10	0	3050	1300	1	HPL	Backing	1	none	HPL
+HPL 1mm-F1139 kers	3050x1300	Formica	HPL 1mm-F1139 kers	0	m2	1	10	0	3050	1300	1	HPL	Formica F1139 Matte	1	length	HPL
+HPL 1mm-Formica F6463 wit met folie	3050x1300	Formica	HPL 1mm-Formica F6463 wit met folie	0	m2	1	10	0	3050	1300	1	HPL	Formica F6463	1	none	
+HPL 1mm-U12000 SD zwart	3070x1320	Pfleiderer	HPL 1mm-U12000 SD zwart	0	m2	1	10	0	3050	1300	1	HPL	Pfleiderer U12000 SD	1	none	Voorraad
+HPL 1mm-U16166 SD rood	3050x1300	Pfleiderer	HPL 1mm-U16166 SD rood	0	m2	1	10	0	3050	1300	1	HPL	Pfleiderer U16166 SD	1	none	HPL
+HPL 1mm-W10410 SD wit	3070x1300	Pfleiderer	HPL 1mm-W10410 SD wit	0	m2	1	10	0	3050	1300	1	HPL	Pfleiderer W10410 SD	1	none	Voorraad
+HPL wit-MDF MR 16mm-backing	3050x1300	Intos	HPL wit-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	HPL wit	16	none	Vochtwerend
+HPL wit-MDF MR 25mm-backing	3050x1220	Intos	HPL wit-MDF MR 25mm-backing	0	m2	1	10	0	3050	1220	27	Perswerk	HPL wit	25	none	Vochtwerend
+HPL wit-Mplx.berken 24mm-HPL wit	3050x1300	Intos	HPL wit-Mplx.berken 24mm-HPL wit	0	m2	1	10	0	3050	1300	26	Perswerk	HPL wit	24	none	Berken
+HPL wit-Sp. 16mm-HPL wit	3050x1300	Intos	HPL wit-Sp. 16mm-HPL wit	0	m2	1	10	0	3050	1300	18	Perswerk	HPL wit	16	none	Perswerk spaan
+HPL wit-Sp.MR 16mm-backing	3050x1300	Intos	HPL wit-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	HPL wit	16	none	Vochtwerend
+HPL zwart-MDF 16mm-HPL zwart	3050x1300	Intos	HPL zwart-MDF 16mm-HPL zwart	0	m2	1	10	0	3050	1300	18	Perswerk	HPL zwart	16	none	Perswerk MDF
+HPL zwart-MDF MR 16mm-backing	3050x1300	Intos	HPL zwart-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	HPL zwart	16	none	Vochtwerend
+HPL zwart-Sp. 16mm-HPL zwart	3050x1300	Intos	HPL zwart-Sp. 16mm-HPL zwart	0	m2	1	10	0	3050	1300	18	Perswerk	HPL zwart	16	none	Perswerk spaan
+HPL zwart-Sp.MR 16mm-backing	3050x1300	Intos	HPL zwart-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	HPL zwart	16	none	Vochtwerend
+Koskisen 16mm	3050x1300		Koskisen 16mm	0	m2	1	10	0	3050	1300	16	Kaal plaatmateriaal	Koskisen	16	none	Kaal plaatmateriaal
+Koskisen 18mm	3045x1290		Koskisen 18mm	0	m2	1	10	0	3045	1290	18	Kaal plaatmateriaal	Koskisen	18	none	Kaal plaatmateriaal
+Krion 1100 Snow white-6mm	2500x760	Krion	Krion 1100 Snow white-6mm	0	m2	1	10	0	2500	760	6	Solid surface	Krion 1100 Snow white	6	none	
+Krion 1100 Snow white-6mm - 2500 x 930 mm	2500x930	Krion	Krion 1100 Snow white-6mm - 2500 x 930 mm	0	m2	1	10	0	2500	930	6	Solid surface	Krion 1100 Snow white	6	none	
+Krion 1100 Snow white-6mm - 2500 x 1350 mm	2500x1350	Krion	Krion 1100 Snow white-6mm - 2500 x 1350 mm	0	m2	1	10	0	2500	1350	6	Solid surface	Krion 1100 Snow white	6	none	
+Krion 1100 Snow white-12mm	3680x1350	Krion	Krion 1100 Snow white-12mm	0	m2	1	10	0	3680	1350	12	Solid surface	Krion 1100 Snow white	12	none	
+Krion 1100 Snow white-12mm - 3680 x 760 mm	3680x760	Krion	Krion 1100 Snow white-12mm - 3680 x 760 mm	0	m2	1	10	0	3680	760	12	Solid surface	Krion 1100 Snow white	12	none	
+Krion 1100 Snow white-12mm - 3680 x 930 mm	3680x930	Krion	Krion 1100 Snow white-12mm - 3680 x 930 mm	0	m2	1	10	0	3680	930	12	Solid surface	Krion 1100 Snow white	12	none	
+Krion 1100 Snow white-12mm - 3680 x 1520 mm	3680x1520	Krion	Krion 1100 Snow white-12mm - 3680 x 1520 mm	0	m2	1	10	0	3680	1520	12	Solid surface	Krion 1100 Snow white	12	none	
+Krion L105 Carrara dark-6mm	2500x760	Krion	Krion L105 Carrara dark-6mm	0	m2	1	10	0	2500	760	6	Solid surface	Krion L105 Carrara dark	6	length	
+Krion L105 Carrara dark-12mm	3680x760	Krion	Krion L105 Carrara dark-12mm	0	m2	1	10	0	3680	760	12	Solid surface	Krion L105 Carrara dark	12	length	
+Krion L105 Carrara dark-12mm-2680 x 1350 mm	2680x1350	Krion	Krion L105 Carrara dark-12mm-2680 x 1350 mm	0	m2	1	10	0	2680	1350	12	Solid surface	Krion L105 Carrara dark	12	length	
+Loodpaneel 2x1,5mm-HPL wit 39mm	2600x1000		Loodpaneel 2x1,5mm-HPL wit 39mm	0	m2	1	10	0	2600	1000	41	Perswerk	Wit laminaat	39	none	custom
+Loodpaneel 2x1mm-HPL wit 38mm	2600x1000		Loodpaneel 2x1mm-HPL wit 38mm	0	m2	1	10	0	2600	1000	40	Perswerk	Wit laminaat	38	none	custom
+LS40 noten-MDF 16mm-backing	2760x1020	Decolegno	LS40 noten-MDF 16mm-backing	0	m2	1	10	0	2760	1020	18	Perswerk	Decolegno LS40 Poro Noce	16	length	Perswerk MDF
+LS40 noten-MDF 16mm-LS40 noten	2760x1020	Decolegno	LS40 noten-MDF 16mm-LS40 noten	0	m2	1	10	0	2760	1020	18	Perswerk	Decolegno LS40 Poro Noce	16	length	Perswerk MDF
+LS40 noten-MDF MR 16mm-backing	2760x1020	Decolegno	LS40 noten-MDF MR 16mm-backing	0	m2	1	10	0	2760	1020	18	Perswerk	Decolegno LS40 Poro Noce	16	length	Vochtwerend
+LS40 noten-MDF MR 16mm-LS40 noten	2760x1020	Decolegno	LS40 noten-MDF MR 16mm-LS40 noten	0	m2	1	10	0	2760	1020	18	Perswerk	Decolegno LS40 Poro Noce	16	length	Vochtwerend
+LS40 noten-MDF zwart 6mm-backing	2440x1220	Decolegno	LS40 noten-MDF zwart 6mm-backing	0	m2	1	10	0	2440	1022	8	Perswerk	Decolegno LS40 Poro Noce	6	length	Perswerk MDF
+LS40 noten-Sp. 28mm-LS40 noten	2760x1020	Decolegno	LS40 noten-Sp. 28mm-LS40 noten	0	m2	1	10	0	2760	1020	30	Perswerk	Decolegno LS40 Poro Noce	28	length	Perswerk spaan
+LS40 noten-Sp. 38mm-LS40 noten	2760x1020	Decolegno	LS40 noten-Sp. 38mm-LS40 noten	0	m2	1	10	0	2760	1020	40	Perswerk	Decolegno LS40 Poro Noce	38	length	Perswerk spaan
+M2006 Alu brons-Sp. 16mm-backing metaal	3050x1220	Homapal	M2006 Alu brons-Sp. 16mm-backing metaal	0	m2	1	10	0	3050	1220	18	Perswerk	Homapal M2006	16	length	Perswerk spaan
+M2006 Alu brons-Sp. 16mm-M2006	3050x1220	Homapal	M2006 Alu brons-Sp. 16mm-M2006	0	m2	1	10	0	3050	1220	18	Perswerk	Homapal M2006	16	length	Perswerk spaan
+M2006 Alu brons-Sp. 28mm-M2006	3050x1220	Homapal	M2006 Alu brons-Sp. 28mm-M2006	0	m2	1	10	0	3050	1220	30	Perswerk	Homapal M2006	28	length	Perswerk spaan
+M80000 HG alu-Mplx.berken 18mm-backing	3050x1220	Pfleiderer	M80000 HG alu-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1220	20	Perswerk	Pfleiderer M80000 HG	18	length	Multiplex berken
+Massief Bamboe  natural plain-20mm	2440x1220		Massief Bamboe  natural plain-20mm	0	m2	1	10	0	2440	1220	20	Massief	Bamboe  natural plain	20	length	
+Massief Bamboe  natural plain-38mm	2440x1220		Massief Bamboe  natural plain-38mm	0	m2	1	10	0	2440	1220	38	Massief	Bamboe  natural plain	38	length	
+Massief Bamboe  natural plain-40mm	2440x1220		Massief Bamboe  natural plain-40mm	0	m2	1	10	0	2440	1220	40	Massief	Bamboe  natural plain	40	length	
+Massief Bamboe caramel-4mm	2450x1250		Massief Bamboe caramel-4mm	0	m2	1	10	0	2450	1250	4	Massief	Bamboe caramel	4	length	
+Massief Berken-38mm	4200x640		Massief Berken-38mm	0	m2	1	10	0	4200	640	38	Massief	Massief Berken	38	length	
+Massief Berken-38mm - 4200 x 920 mm	4200x920		Massief Berken-38mm - 4200 x 920 mm	0	m2	1	10	0	4200	920	38	Massief	Massief Berken	38	length	
+Massief Eiken vingerlas-19mm	3000x900		Massief Eiken vingerlas-19mm	0	m2	1	10	0	3000	900	19	Massief	Massief Eiken vingerlas	19	length	
+Massief Eiken vingerlas-19mm - 4200 x 800 mm	4200x800		Massief Eiken vingerlas-19mm - 4200 x 800 mm	0	m2	1	10	0	4200	800	19	Massief	Massief Eiken vingerlas	19	length	
+Massief Eiken vingerlas-20mm	4200x800		Massief Eiken vingerlas-20mm	0	m2	1	10	0	4200	800	20	Massief	Massief Eiken vingerlas	20	length	
+Massief Eiken vingerlas-27mm	3000x900		Massief Eiken vingerlas-27mm	0	m2	1	10	0	3000	900	27	Massief	Massief Eiken vingerlas	27	length	
+Massief Esdoorn-27mm	4200x800		Massief Esdoorn-27mm	0	m2	1	10	0	4200	800	27	Massief	Massief Esdoorn	27	length	
+MDF 3mm	2850x2100		MDF 3mm	0	m2	1	10	0	2850	2100	3	Kaal plaatmateriaal	MDF	3	none	Voorraad
+MDF 4mm	2440x1220		MDF 4mm	0	m2	1	10	0	2440	1220	4	Kaal plaatmateriaal	MDF	4	none	Basisplaat
+MDF 6mm	2800x2070		MDF 6mm	0	m2	1	10	0	2800	2070	6	Kaal plaatmateriaal	MDF	6	none	Basisplaat
+MDF 6mm-3050x1220	3050x1220		MDF 6mm-3050x1220	0	m2	1	10	0	3050	1220	6	Kaal plaatmateriaal	MDF	6	none	Basisplaat
+MDF 9mm-2440x1220mm	2440x1220		MDF 9mm-2440x1220mm	0	m2	1	10	0	2440	1220	9	Kaal plaatmateriaal	MDF	9	none	Basisplaat
+MDF 9mm-2800x2070mm	2800x2070		MDF 9mm-2800x2070mm	0	m2	1	10	0	2800	2070	9	Kaal plaatmateriaal	MDF	9	none	Basisplaat
+MDF 10mm	2440x1220		MDF 10mm	0	m2	1	10	0	2440	1220	10	Kaal plaatmateriaal	MDF	10	none	Basisplaat
+MDF 12mm	2750x2070		MDF 12mm	0	m2	1	10	0	2750	2070	12	Kaal plaatmateriaal	MDF	12	none	Basisplaat
+MDF 12mm-3050x1310	3050x1310		MDF 12mm-3050x1310	0	m2	1	10	0	3050	1310	12	Kaal plaatmateriaal	MDF	12	none	Basisplaat
+MDF 13.37mm									1234	567	13.37	Kaal plaatmateriaal	MDF	13.37	none	
+MDF 15mm-3050x1220	3050x1220		MDF 15mm-3050x1220	0	m2	1	10	0	3050	1220	15	Kaal plaatmateriaal	MDF	15	none	Basisplaat
+MDF 16mm	3050x1310		MDF 16mm	0	m2	1	10	0	3050	1310	16	Kaal plaatmateriaal	MDF	16	none	Basisplaat
+MDF 16mm-2440x1220	2440x1220		MDF 16mm-2440x1220	0	m2	1	10	0	2440	1220	16	Kaal plaatmateriaal	MDF	16	none	Basisplaat
+MDF 16mm-Easypers	3050x1300		MDF 16mm-Easypers	0	m2	1	10	0	3050	1300	16	Kaal plaatmateriaal	MDF	16	none	Basisplaat
+MDF 18mm	2800x2070		MDF 18mm	0	m2	1	10	0	2800	2070	18	Kaal plaatmateriaal	MDF	18	none	Voorraad
+MDF 18mm-3050x1220	3050x1220		MDF 18mm-3050x1220	0	m2	1	10	0	3050	1220	18	Kaal plaatmateriaal	MDF	18	none	Basisplaat
+MDF 18mm-3050x1300	3050x1300		MDF 18mm-3050x1300	0	m2	1	10	0	3050	1300	18	Kaal plaatmateriaal	MDF	18	none	Basisplaat
+MDF 18mm-gegrond	2800x2070		MDF 18mm-gegrond	0	m2	1	10	0	2800	2070	18	Kaal plaatmateriaal	MDF	18	none	Voorraad
+MDF 18mm-zwart	2440x1220		MDF 18mm-zwart	0	m2	1	10	0	2440	1220	18	Kaal plaatmateriaal	MDF zwart	18	none	Basisplaat
+MDF 22mm	3050x1220		MDF 22mm	0	m2	1	10	0	3050	1220	22	Kaal plaatmateriaal	MDF	22	none	Basisplaat
+MDF 25mm	3050x1220		MDF 25mm	0	m2	1	10	0	3050	1220	25	Kaal plaatmateriaal	MDF	25	none	Basisplaat
+MDF 28mm-3050x1220	3050x1220		MDF 28mm-3050x1220	0	m2	1	10	0	3050	1220	28	Kaal plaatmateriaal	MDF	28	none	Basisplaat
+MDF 30mm	2800x2070		MDF 30mm	0	m2	1	10	0	2800	2070	30	Kaal plaatmateriaal	MDF	30	none	Basisplaat
+MDF 38mm	3050x1310		MDF 38mm	0	m2	1	10	0	3050	1310	38	Kaal plaatmateriaal	MDF	38	none	Basisplaat
+MDF 50mm-2440mm	2440x2090		MDF 50mm-2440mm	0	m2	1	10	0	2440	2090	50	Kaal plaatmateriaal	MDF	50	none	Basisplaat
+MDF 50mm-3050mm	3050x1220		MDF 50mm-3050mm	0	m2	1	10	0	3050	1220	50	Kaal plaatmateriaal	MDF	50	none	Basisplaat
+MDF FR 6mm	3050x1220		MDF FR 6mm	0	m2	1	10	0	3050	1220	6	Kaal plaatmateriaal	MDF brandvertagend	6	none	Brandvertragend
+MDF FR 9mm	3050x1220		MDF FR 9mm	0	m2	1	10	0	3050	1220	9	Kaal plaatmateriaal	MDF brandvertagend	9	none	Brandvertragend
+MDF FR 12mm	3050x1220		MDF FR 12mm	0	m2	1	10	0	3050	1220	12	Kaal plaatmateriaal	MDF brandvertagend	12	none	Brandvertragend
+MDF FR 16mm	3050x1220		MDF FR 16mm	0	m2	1	10	0	3050	1220	16	Kaal plaatmateriaal	MDF brandvertagend	16	none	Brandvertragend
+MDF FR 18mm	3050x1220		MDF FR 18mm	0	m2	1	10	0	3050	1310	18	Kaal plaatmateriaal	MDF brandvertagend	18	none	Brandvertragend
+MDF FR 25mm	3050x1220		MDF FR 25mm	0	m2	1	10	0	3050	1220	25	Kaal plaatmateriaal	MDF brandvertagend	25	none	Brandvertragend
+MDF gegrond 12mm	2800x2070		MDF gegrond 12mm	0	m2	1	10	0	2800	2070	12	Kaal plaatmateriaal	MDF gegrond	12	none	Basisplaat
+MDF gegrond 12mm-2440x1220	2440x1220		MDF gegrond 12mm-2440x1220	0	m2	1	10	0	2440	1220	12	Kaal plaatmateriaal	MDF gegrond	12	none	Basisplaat
+MDF gegrond 16mm-3050x1220	3050x1220		MDF gegrond 16mm-3050x1220	0	m2	1	10	0	3050	1220	16	Kaal plaatmateriaal	MDF gegrond	16	none	Basisplaat
+MDF gegrond 28mm	2800x2070		MDF gegrond 28mm	0	m2	1	10	0	2800	2070	26	Kaal plaatmateriaal	MDF gegrond	26	none	Basisplaat
+MDF gegrond 30mm-2800x2070	2800x2070		MDF gegrond 30mm-2800x2070	0	m2	1	10	0	2800	2070	30	Kaal plaatmateriaal	MDF gegrond	30	none	Basisplaat
+MDF gegrond 38mm-2800x2070	2800x2070		MDF gegrond 38mm-2800x2070	0	m2	1	10	0	2800	2070	38	Kaal plaatmateriaal	MDF gegrond	38	none	Basisplaat
+MDF Lakboard 3mm-wit	2440x1220		MDF Lakboard 3mm-wit	0	m2	1	10	0	2440	1220	3	Kaal plaatmateriaal	Wit laminaat	3	none	Perswerk MDF
+MDF MR 12mm	3050x1220		MDF MR 12mm	0	m2	1	10	0	3050	1220	12	Kaal plaatmateriaal	MDF vochtwerend	12	none	Vochtwerend
+MDF MR 16mm	3050x1310		MDF MR 16mm	0	m2	1	10	0	3050	1310	16	Kaal plaatmateriaal	MDF vochtwerend	16	none	Vochtwerend
+MDF MR 18mm	3050x1310		MDF MR 18mm	0	m2	1	10	0	3050	1310	18	Kaal plaatmateriaal	MDF vochtwerend	18	none	Vochtwerend
+MDF MR 22mm	3050x1220		MDF MR 22mm	0	m2	1	10	0	3050	1220	22	Kaal plaatmateriaal	MDF vochtwerend	22	none	Vochtwerend
+MDF MR 25mm	3050x1220		MDF MR 25mm	0	m2	1	10	0	3050	1220	25	Kaal plaatmateriaal	MDF vochtwerend	25	none	Vochtwerend
+Melamine 10mm-0H266 eik	2800x2070	Unilin	Melamine 10mm-0H266 eik	0	m2	1	10	0	2800	2070	10	Melamine	Unilin 0H266 V1A	10	length	Melamine
+Melamine 10mm-0H913 V2A eik	2800x2070	Unilin	Melamine 10mm-0H913 V2A eik	0	m2	1	10	0	2800	2070	10	Melamine	Unilin 0H913 V2A	10	length	Melamine
+Melamine 10mm-0U128 CST grijs	2800x2070	Unilin	Melamine 10mm-0U128 CST grijs	0	m2	1	10	0	2800	2070	10	Melamine	Unilin 0U128 CST	10	none	Melamine
+Melamine 10mm-F70015 SD grijs	2800x2100	Pfleiderer	Melamine 10mm-F70015 SD grijs	0	m2	1	10	0	2800	2100	10	Melamine	Pfleiderer F70015 SD	10	none	Melamine
+Melamine 10mm-R20021 NW eik	2800x2100	Pfleiderer	Melamine 10mm-R20021 NW eik	0	m2	1	10	0	2800	2100	10	Melamine	Pfleiderer R20021 NW	10	length	Melamine
+Melamine 10mm-U211 ST9 beige	2800x2070	Egger	Melamine 10mm-U211 ST9 beige	0	m2	1	10	0	2800	2070	10	Melamine	Egger U211 ST9	10	none	Melamine
+Melamine 10mm-u763 ST9 parelgrijs	2800x2070	Egger	Melamine 10mm-u763 ST9 parelgrijs	0	m2	1	10	0	2800	2070	10	Melamine	Egger U763 ST9	10	none	Melamine
+Melamine 10mm-U963 ST9 diamantgrijs	2800x2070	Egger	Melamine 10mm-U963 ST9 diamantgrijs	0	m2	1	10	0	2800	2070	10	Melamine	Egger U963 ST9	10	none	Melamine
+Melamine 10mm-U11102 SD wit	2800x2100	Pfleiderer	Melamine 10mm-U11102 SD wit	0	m2	1	10	0	2800	2100	10	Melamine	Pfleiderer U11102 SD	10	none	Melamine
+Melamine 10mm-U12000 SD zwart	2650x2100	Pfleiderer	Melamine 10mm-U12000 SD zwart	0	m2	1	10	0	2650	2100	10	Melamine	Pfleiderer U12000 SD	10	none	Melamine
+Melamine 10mm-U12290 SD grijs	2800x2100	Pfleiderer	Melamine 10mm-U12290 SD grijs	0	m2	1	10	0	2800	2100	10	Melamine	Pfleiderer U12290 SD	10	none	Melamine
+Melamine 10mm-U16002 SD congo	2800x2100	Pfleiderer	Melamine 10mm-U16002 SD congo	0	m2	1	10	0	2800	2100	10	Melamine	Pfleiderer U16002 SD	10	none	Melamine
+Melamine 10mm-UB40 groen	2800x2070	Decolegno	Melamine 10mm-UB40 groen	0	m2	1	10	0	2800	2070	10	Melamine	Decolegno UB40 Ovatta	10	none	Melamine
+Melamine 10mm-W10410 SD wit	2800x2100	Pfleiderer	Melamine 10mm-W10410 SD wit	0	m2	1	10	0	2800	2100	10	Melamine	Pfleiderer W10410 SD	10	none	Melamine
+Melamine 10mm-wit	2800x2100	Intos	Melamine 10mm-wit	0	m2	1	10	0	2800	2100	10	Melamine	Melamine wit	10	none	Melamine
+Melamine 10mm-zwart	2800x2100	Intos	Melamine 10mm-zwart	0	m2	1	10	0	2800	2100	10	Melamine	Melamine zwart	10	none	Melamine
+Melamine 12mm-0U128 CST grijs	2800x2070	Unilin	Melamine 12mm-0U128 CST grijs	0	m2	1	10	0	2800	2070	12	Melamine	Unilin 0U128 CST	12	none	Melamine
+Melamine 12mm-0U129 CST grijs	2800x2070	Unilin	Melamine 12mm-0U129 CST grijs	0	m2	1	10	0	2800	2070	12	Melamine	Unilin 0U129 CST	12	none	Melamine
+Melamine 12mm-00020 CST wit	2800x2070	Unilin	Melamine 12mm-00020 CST wit	0	m2	1	10	0	2800	2070	12	Melamine	Unilin 00020 CST	12	none	Melamine
+Melamine 12mm-U732 ST9 grijs	2800x2070	Egger	Melamine 12mm-U732 ST9 grijs	0	m2	1	10	0	2800	2070	12	Melamine	Egger U732 ST9	12	none	Melamine
+Melamine 12mm-U963 ST9 diamantgrijs	2800x2070	Egger	Melamine 12mm-U963 ST9 diamantgrijs	0	m2	1	10	0	2800	2070	12	Melamine	Egger U963 ST9	12	none	Melamine
+Melamine 16mm-wit	2800x2070	Intos	Melamine 16mm-wit	0	m2	1	10	0	2800	2070	16	Melamine	Melamine wit	16	none	Melamine
+Melamine 18mm-0F599 beige weave	2800x2070	Unilin	Melamine 18mm-0F599 beige weave	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0F599 Weave	18	length	Melamine
+Melamine 18mm-0F602 grijs weave	2800x2070	Unilin	Melamine 18mm-0F602 grijs weave	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0F602 Weave	18	length	Melamine
+Melamine 18mm-0H251 W06 noten	2800x2070	Unilin	Melamine 18mm-0H251 W06 noten	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H251 W06	18	length	Melamine
+Melamine 18mm-0H265 V1A dainty oak	2800x2070	Unilin	Melamine 18mm-0H265 V1A dainty oak	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H265 V1A	18	length	Melamine
+Melamine 18mm-0H266 eik	2800x2070	Unilin	Melamine 18mm-0H266 eik	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H266 V1A	18	length	Melamine
+Melamine 18mm-0H337 BST Eik	2800x2070	Unilin	Melamine 18mm-0H337 BST Eik	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H337 BST	18	length	Melamine
+Melamine 18mm-0H581 BST noten	2800x2070	Unilin	Melamine 18mm-0H581 BST noten	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H581 BST	18	length	Melamine
+Melamine 18mm-0H852 W03 eik	2800x2070	Unilin	Melamine 18mm-0H852 W03 eik	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H852 W03	18	length	Melamine
+Melamine 18mm-0H912 eik bruin	2800x2070	Unilin	Melamine 18mm-0H912 eik bruin	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H912 V2A	18	length	Melamine
+Melamine 18mm-0H913 V2A eik	2800x2070	Unilin	Melamine 18mm-0H913 V2A eik	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H913 V2A	18	length	Melamine
+Melamine 18mm-0H914 V2A eik fumed	2800x2070	Unilin	Melamine 18mm-0H914 V2A eik fumed	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H914 V2A	18	length	Melamine
+Melamine 18mm-0H914-eik double fumed	2800x2070	Unilin	Melamine 18mm-0H914-eik double fumed	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H914 V2A	18	length	Melamine
+Melamine 18mm-0H915 V2A eik naturel	2800x2070	Unilin	Melamine 18mm-0H915 V2A eik naturel	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H915 V2A	18	length	Melamine
+Melamine 18mm-0H915-eik light natural	2800x2070	Unilin	Melamine 18mm-0H915-eik light natural	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H915 V2A	18	length	Melamine
+Melamine 18mm-0H925 V2A eik	2800x2070	Unilin	Melamine 18mm-0H925 V2A eik	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H925 V2A	18	length	Melamine
+Melamine 18mm-0H927 V2A eik groen	2800x2070	Unilin	Melamine 18mm-0H927 V2A eik groen	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0H927 V2A	18	length	Melamine
+Melamine 18mm-0U115 CST grijs	2800x2070	Unilin	Melamine 18mm-0U115 CST grijs	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U115 CST	18	none	Melamine
+Melamine 18mm-0U129 CST grijs	2800x2070	Unilin	Melamine 18mm-0U129 CST grijs	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U129 CST	18	none	Melamine
+Melamine 18mm-0U136 BST geel	2800x2070	Unilin	Melamine 18mm-0U136 BST geel	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U136 BST	18	none	Melamine
+Melamine 18mm-0U150 BST blauw	2800x2070	Unilin	Melamine 18mm-0U150 BST blauw	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U150 BST	18	none	Melamine
+Melamine 18mm-0U284 CST Mokka	2800x2070	Unilin	Melamine 18mm-0U284 CST Mokka	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U284 CST	18	none	Melamine
+Melamine 18mm-0U642 BST oranje	2800x2070	Unilin	Melamine 18mm-0U642 BST oranje	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U642 BST	18	none	Melamine
+Melamine 18mm-0U817 BST lichen green	2800x2070	Unilin	Melamine 18mm-0U817 BST lichen green	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U817 BST	18	none	Melamine
+Melamine 18mm-0U824 CST	2800x2070	Unilin	Melamine 18mm-0U824 CST	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0U824 CST	18	none	Melamine
+Melamine 18mm-0U831 MST blauw	3050x1220	Unilin	Melamine 18mm-0U831 MST blauw	0	m2	1	10	0	3050	1220	18	Melamine	Unilin 0U831 MST	18	none	Melamine
+Melamine 18mm-0UD81 CST grijs	2800x2070	Unilin	Melamine 18mm-0UD81 CST grijs	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 0UD81 CST	18	none	Melamine
+Melamine 18mm-00020 CST wit	2800x2070	Unilin	Melamine 18mm-00020 CST wit	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 00020 CST	18	none	Melamine
+Melamine 18mm-98V Atlas eik	2850x2100	Finsa	Melamine 18mm-98V Atlas eik	0	m2	1	10	0	2850	2100	18	Melamine	Finsa 98V ATLAS	18	length	Melamine
+Melamine 18mm-00113 MST zwart	3050x1220	Unilin	Melamine 18mm-00113 MST zwart	0	m2	1	10	0	3050	1220	18	Melamine	Unilin 00113 MST	18	none	Melamine
+Melamine 18mm-00551 CST jasmijn	2800x2070	Unilin	Melamine 18mm-00551 CST jasmijn	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 00551 CST	18	none	Melamine
+Melamine 18mm-00625 CST silicon	2800x2070	Unilin	Melamine 18mm-00625 CST silicon	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 00625 CST	18	none	Melamine
+Melamine 18mm-00766 CST eik	2800x2070	Unilin	Melamine 18mm-00766 CST eik	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 00766 CST	18	length	Melamine
+Melamine 18mm-4052 ML eik	2800x2070	Fundermax	Melamine 18mm-4052 ML eik	0	m2	1	10	0	2800	2070	18	Melamine	Fundermax 4052 ML	18	length	Melamine
+Melamine 18mm-F637 ST10 beton	2800x2070	Egger	Melamine 18mm-F637 ST10 beton	0	m2	1	10	0	2800	2070	18	Melamine	Egger F637 ST10	18	length	Melamine
+Melamine 18mm-F8241 perzik	2800x2070	Formica	Melamine 18mm-F8241 perzik	0	m2	1	10	0	2800	2070	18	Melamine	Formica F8241 Matte	18	none	Melamine
+Melamine 18mm-F70015 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-F70015 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer F70015 SD	18	none	Melamine
+Melamine 18mm-Finsa 50D acacia	2850x2100		Melamine 18mm-Finsa 50D acacia	0	m2	1	10	0	2850	2100	18	Melamine	Finsa 50D	18	length	Melamine
+Melamine 18mm-H1307 ST19 noten	2800x2070	Egger	Melamine 18mm-H1307 ST19 noten	0	m2	1	10	0	2800	2070	18	Melamine	Egger H1307 ST19	18	length	Melamine
+Melamine 18mm-H3157 eik	2800x2070	Egger	Melamine 18mm-H3157 eik	0	m2	1	10	0	2800	2070	18	Melamine	Egger H3157 ST12	18	length	Melamine
+Melamine 18mm-H3171 ST12 Eik	2800x2070	Egger	Melamine 18mm-H3171 ST12 Eik	0	m2	1	10	0	2800	2070	18	Melamine	Egger H3171 ST12	18	length	Melamine
+Melamine 18mm-H3303 ST10 eik	2800x2070	Egger	Melamine 18mm-H3303 ST10 eik	0	m2	1	10	0	2800	2070	18	Melamine	Egger H3303 ST10	18	length	Melamine
+Melamine 18mm-K080 wit eik	2800x2070	Kronospan	Melamine 18mm-K080 wit eik	0	m2	1	10	0	2800	2070	18	Melamine	Kronospan K080	18	length	Melamine
+Melamine 18mm-LS40 noten	2800x2070	Decolegno	Melamine 18mm-LS40 noten	0	m2	1	10	0	2800	2070	18	Melamine	Decolegno LS40 Poro Noce	18	length	Melamine
+Melamine 18mm-M80000 HG alu	2800x2100	Pfleiderer	Melamine 18mm-M80000 HG alu	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer M80000 HG	18	length	Melamine
+Melamine 18mm-R20020 eik mokka	2800x2100	Pfleiderer	Melamine 18mm-R20020 eik mokka	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer R20020 RR	18	length	Melamine
+Melamine 18mm-R20021 NW eik	2800x2100	Pfleiderer	Melamine 18mm-R20021 NW eik	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer R20021 NW	18	length	Melamine
+Melamine 18mm-R20095 NW eik	2800x2100	Pfleiderer	Melamine 18mm-R20095 NW eik	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer R20095 NW	18	length	Melamine
+Melamine 18mm-R30013 NW walnoot	2800x2100	Pfleiderer	Melamine 18mm-R30013 NW walnoot	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer R30013 NW	18	length	Melamine
+Melamine 18mm-R34015 essen	2800x2070	Pfleiderer	Melamine 18mm-R34015 essen	0	m2	1	10	0	2800	2070	18	Melamine	Pfleiderer R34015 NW	18	length	Melamine
+Melamine 18mm-R34033 NW essen	2800x2070	Pfleiderer	Melamine 18mm-R34033 NW essen	0	m2	1	10	0	2800	2070	18	Melamine	Pfleiderer R34033 NW	18	length	Melamine
+Melamine 18mm-S133 bruin	2800x2070	Decolegno	Melamine 18mm-S133 bruin	0	m2	1	10	0	2800	2070	18	Melamine	Decolegno S133 Esperia	18	length	Melamine
+Melamine 18mm-U201 ST9 grijs	2800x2070	Egger	Melamine 18mm-U201 ST9 grijs	0	m2	1	10	0	2800	2070	18	Melamine	Egger U201 ST9	18	none	Melamine
+Melamine 18mm-U211 ST9 amandelbeige	2800x2070	Egger	Melamine 18mm-U211 ST9 amandelbeige	0	m2	1	10	0	2800	2070	18	Melamine	Egger U211 ST9	18	none	Melamine
+Melamine 18mm-U604 ST9 groen	2800x2070	Egger	Melamine 18mm-U604 ST9 groen	0	m2	1	10	0	2800	2070	18	Melamine	Egger U604 ST9	18	none	Melamine
+Melamine 18mm-U645 ST9 groen	2800x2070	Egger	Melamine 18mm-U645 ST9 groen	0	m2	1	10	0	2800	2070	18	Melamine	Egger U645 ST9	18	none	Melamine
+Melamine 18mm-U708 grijs	2800x2070	Egger	Melamine 18mm-U708 grijs	0	m2	1	10	0	2800	2070	18	Melamine	Egger U708 ST9	18	none	Melamine
+Melamine 18mm-U732 ST9 grijs	2800x2070	Egger	Melamine 18mm-U732 ST9 grijs	0	m2	1	10	0	2800	2070	18	Melamine	Egger U732 ST9	18	none	Melamine
+Melamine 18mm-U763 ST9 grijs	2800x2070	Egger	Melamine 18mm-U763 ST9 grijs	0	m2	1	10	0	2800	2070	18	Melamine	Egger U763 ST9	18	none	Melamine
+Melamine 18mm-U963 ST9 diamantgrijs	2800x2070	Egger	Melamine 18mm-U963 ST9 diamantgrijs	0	m2	1	10	0	2800	2070	18	Melamine	Egger U963 ST9	18	none	Melamine
+Melamine 18mm-U1026 VV wit	2800x2070	Pfleiderer	Melamine 18mm-U1026 VV wit	0	m2	1	10	0	2800	2070	18	Melamine	Pfleiderer U1026 VV	18	none	Melamine
+Melamine 18mm-U11026 HG wit	2800x2100	Pfleiderer	Melamine 18mm-U11026 HG wit	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U11026 HG	18	none	Melamine
+Melamine 18mm-U11026 SD wit	2800x2070	Pfleiderer	Melamine 18mm-U11026 SD wit	0	m2	1	10	0	2800	2070	18	Melamine	Pfleiderer U11026 SD	18	none	Melamine
+Melamine 18mm-U11026 SM wit	2800x2070	Pfleiderer	Melamine 18mm-U11026 SM wit	0	m2	1	10	0	2800	2070	18	Melamine	Pfleiderer U11026 SM	18	none	Melamine
+Melamine 18mm-U11102 SD wit	2800x2100	Pfleiderer	Melamine 18mm-U11102 SD wit	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U11102 SD	18	none	Melamine
+Melamine 18mm-U12000 SD zwart	2800x2100	Pfleiderer	Melamine 18mm-U12000 SD zwart	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12000 SD	18	none	Melamine
+Melamine 18mm-U12010 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12010 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12010 SD	18	none	Melamine
+Melamine 18mm-U12115 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12115 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12115 SD	18	none	Melamine
+Melamine 18mm-U12168 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12168 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12168 SD	18	none	Melamine
+Melamine 18mm-U12188 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12188 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12188 SD	18	none	Melamine
+Melamine 18mm-U12231 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12231 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12231 SD	18	none	Melamine
+Melamine 18mm-U12257 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12257 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12257 SD	18	none	Melamine
+Melamine 18mm-U12986 SD grijs	2800x2100	Pfleiderer	Melamine 18mm-U12986 SD grijs	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U12986 SD	18	none	Melamine
+Melamine 18mm-U15194 SD geel	2800x2100	Pfleiderer	Melamine 18mm-U15194 SD geel	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U15194 SD	18	none	Melamine
+Melamine 18mm-U16002 SD congo	2800x2100	Pfleiderer	Melamine 18mm-U16002 SD congo	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U16002 SD	18	none	Melamine
+Melamine 18mm-U16058 SD donkerbruin	2800x2100	Pfleiderer	Melamine 18mm-U16058 SD donkerbruin	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U16058 SD	18	none	Melamine
+Melamine 18mm-U16166 SD rood	2800x2100	Pfleiderer	Melamine 18mm-U16166 SD rood	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U16166 SD	18	none	Melamine
+Melamine 18mm-U18004 SD donkerblauw	2800x2100	Pfleiderer	Melamine 18mm-U18004 SD donkerblauw	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U18004 SD	18	none	Melamine
+Melamine 18mm-U18028 SD zwartblauw	2800x2100	Pfleiderer	Melamine 18mm-U18028 SD zwartblauw	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U18028 SD	18	none	Melamine
+Melamine 18mm-U18074 SD blauw	2800x2100	Pfleiderer	Melamine 18mm-U18074 SD blauw	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U18074 SD	18	none	Melamine
+Melamine 18mm-U19008 SD groen	2800x2100	Pfleiderer	Melamine 18mm-U19008 SD groen	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U19008 SD	18	none	Melamine
+Melamine 18mm-U19024 SD groen	2800x2100	Pfleiderer	Melamine 18mm-U19024 SD groen	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer U19024 SD	18	none	Melamine
+Melamine 18mm-UB40 groen	2800x2070	Decolegno	Melamine 18mm-UB40 groen	0	m2	1	10	0	2800	2070	18	Melamine	Decolegno UB40 Ovatta	18	none	Melamine
+Melamine 18mm-W10100 SD Labwit	2800x2100	Pfleiderer	Melamine 18mm-W10100 SD Labwit	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer W10100 SD	18	none	Melamine
+Melamine 18mm-W10410 SD wit	2800x2100	Pfleiderer	Melamine 18mm-W10410 SD wit	0	m2	1	10	0	2800	2100	18	Melamine	Pfleiderer W10410 SD	18	none	Melamine
+Melamine 18mm-wit	2800x2100	Intos	Melamine 18mm-wit	0	m2	1	10	0	2800	2100	18	Melamine	Melamine wit	18	none	Melamine
+Melamine 18mm-zwart	2800x2100	Intos	Melamine 18mm-zwart	0	m2	1	10	0	2800	2100	18	Melamine	Melamine zwart	18	none	Melamine
+Melamine 22mm-0WE27 CST wit	2800x2070	Unilin	Melamine 22mm-0WE27 CST wit	0	m2	1	10	0	2800	2070	22	Melamine	Unilin 0WE27 CST	22	none	Melamine
+Melamine 22mm-W10100 VV wit	2660x2100	Pfleiderer	Melamine 22mm-W10100 VV wit	0	m2	1	10	0	2660	2100	22	Melamine	Pfleiderer W10100 VV	22	none	Melamine
+Melamine 22mm-wit	2800x2070	Intos	Melamine 22mm-wit	0	m2	1	10	0	2800	2070	22	Melamine	Melamine wit	22	none	Melamine
+Melamine 25mm-K080 wit eik	2800x2070	Kronospan	Melamine 25mm-K080 wit eik	0	m2	1	10	0	2800	2070	25	Melamine	Kronospan K080	25	length	Melamine
+Melamine 25mm-R34015 essen	2800x2070	Pfleiderer	Melamine 25mm-R34015 essen	0	m2	1	10	0	2800	2070	25	Melamine	Pfleiderer R34015 NW	25	length	Melamine
+Melamine 25mm-wit	2800x2070	Intos	Melamine 25mm-wit	0	m2	1	10	0	2800	2070	25	Melamine	Melamine wit	25	none	Melamine
+Melamine 28mm-0H912 eik bruin	2800x2070	Unilin	Melamine 28mm-0H912 eik bruin	0	m2	1	10	0	2800	2070	28	Melamine	Unilin 0H912 V2A	28	length	Melamine
+Melamine 28mm-0H913 eik	2800x2070	Unilin	Melamine 28mm-0H913 eik	0	m2	1	10	0	2800	2070	28	Melamine	Unilin 0H913 V2A	28	length	Melamine
+Melamine 28mm-0U129 CST grijs	2800x2070	Unilin	Melamine 28mm-0U129 CST grijs	0	m2	1	10	0	2800	2070	28	Melamine	Unilin 0U129 CST	28	none	Melamine
+Melamine 28mm-00625 CST silicon	2800x2070	Unilin	Melamine 28mm-00625 CST silicon	0	m2	1	10	0	2800	2070	28	Melamine	Unilin 00625 CST	28	none	Melamine
+Melamine 28mm-wit	2800x2070	Intos	Melamine 28mm-wit	0	m2	1	10	0	2800	2070	28	Melamine	Melamine wit	28	none	Melamine
+Melamine 28mm-zwart	2800x2070	Intos	Melamine 28mm-zwart	0	m2	1	10	0	2800	2070	28	Melamine	Melamine zwart	28	none	Melamine
+Melamine 36mm-0H581 BST noten	2800x2070	Unilin	Melamine 36mm-0H581 BST noten	0	m2	1	10	0	2800	2070	36	Melamine	Unilin 0H581 BST	36	length	Melamine
+Melamine 36mm-F637 ST10 beton	2800x2070	Egger	Melamine 36mm-F637 ST10 beton	0	m2	1	10	0	2800	2070	36	Melamine	Egger F637 ST10	36	length	Melamine
+Melamine 36mm-U211 ST9 beige	2800x2070	Egger	Melamine 36mm-U211 ST9 beige	0	m2	1	10	0	2800	2070	36	Melamine	Egger U211 ST9	36	none	Melamine
+Melamine 38mm-00025 CST wit	2800x2070	Unilin	Melamine 38mm-00025 CST wit	0	m2	1	10	0	2800	2070	38	Melamine	Unilin 00025 CST	38	none	Melamine
+Melamine FR 10mm-00113 eik black	2800x2070	Unilin	Melamine FR 10mm-00113 eik black	0	m2	1	10	0	2800	2070	10	Melamine	Unilin 00113 CST	10	length	Melamine FR
+Melamine FR 10mm-W10410 SD wit	2660x2100	Pfleiderer	Melamine FR 10mm-W10410 SD wit	0	m2	1	10	0	2660	2100	10	Melamine	Pfleiderer W10410 SD	10	none	Melamine FR
+Melamine FR 18mm-00025 CST wit	3050x1250	Unilin	Melamine FR 18mm-00025 CST wit	0	m2	1	10	0	3050	1250	18	Melamine	Unilin 00025 CST	18	none	Melamine FR
+Melamine FR 18mm-00113 eik black	2800x2070	Unilin	Melamine FR 18mm-00113 eik black	0	m2	1	10	0	2800	2070	18	Melamine	Unilin 00113 CST	18	length	Melamine FR
+Melamine FR 18mm-U12231 SD grijs	2655x2100	Pfleiderer	Melamine FR 18mm-U12231 SD grijs	0	m2	1	10	0	2800	2655	18	Melamine	Pfleiderer U12231 SD	18	none	Melamine FR
+Melamine FR 18mm-W10410 SD wit	2665x2100	Pfleiderer	Melamine FR 18mm-W10410 SD wit	0	m2	1	10	0	2665	2100	18	Melamine	Pfleiderer W10410 SD	18	none	Melamine FR
+Melamine FR 18mm-wit	2660x2100		Melamine FR 18mm-wit	0	m2	1	10	0	2660	2100	18	Melamine	FR Melamine wit	18	none	Melamine FR
+Melamine FR 18mm-zwart	2660x2100		Melamine FR 18mm-zwart	0	m2	1	10	0	2660	2100	18	Melamine	FR Melamine zwart	18	none	Melamine FR
+Melamine FR 18mm-zwart 2600x2100	2600x2100		Melamine FR 18mm-zwart 2600x2100	0	m2	1	10	0	2600	2100	18	Melamine	FR Melamine zwart	18	none	Melamine FR
+Melamine MR 12mm-wit	2800x2070	Intos	Melamine MR 12mm-wit	0	m2	1	10	0	2800	2070	12	Melamine	Melamine wit	12	none	Melamine MR
+Melamine MR 18mm-wit	2800x2070		Melamine MR 18mm-wit	0	m2	1	10	0	2800	2070	18	Melamine	Vochtwerend Melamine wit	18	none	Melamine MR
+Metsawood FR 17,5mm	2440x1220		Metsawood FR 17,5mm	0	m2	1	10	0	2440	1220	17.5	Kaal plaatmateriaal	FR Mulitplex	17.5	length	Brandvertragend
+Multiplex berken 12mm	2500x1250		Multiplex berken 12mm	0	m2	1	10	0	2500	1250	12	Kaal plaatmateriaal	Berken multiplex	12	length	Berken
+Multiplex berken 18mm-3050x1300mm	3050x1300		Multiplex berken 18mm-3050x1300mm	0	m3	1	10	0	3050	1300	18	Kaal plaatmateriaal	Berken multiplex	18	length	Berken
+Multiplex berken 18mm-3050x1530mm	3050x1530		Multiplex berken 18mm-3050x1530mm	0	m2	1	10	0	3050	1530	18	Kaal plaatmateriaal	Berken multiplex	18	length	Berken
+Multiplex berken 21mm	1300x3050		Multiplex berken 21mm	0	m2	1	10	0	3050	1300	21	Kaal plaatmateriaal	Berken multiplex	21	length	Berken
+Multiplex berken 24mm	3050x1530		Multiplex berken 24mm	0	m2	1	10	0	3050	1530	24	Kaal plaatmateriaal	Berken multiplex	24	length	Berken
+Multiplex berken 24mm-1300x3050	1300x3050		Multiplex berken 24mm-1300x3050	0	m2	1	10	0	1300	3050	24	Kaal plaatmateriaal	Berken multiplex	24	length	Berken
+Multiplex berken 27mm-1300x3050	1300x3050		Multiplex berken 27mm-1300x3050	0	m2	1	10	0	1300	3050	27	Kaal plaatmateriaal	Berken multiplex	27	length	Berken
+Multiplex berken 30mm-2500x1250	1250x2500		Multiplex berken 30mm-2500x1250	0	m2	1	10	0	2500	1250	30	Kaal plaatmateriaal	Berken multiplex	30	length	Berken
+Multiplex berken 40mm	3050x1530		Multiplex berken 40mm	0	m2	1	10	0	3050	1530	40	Kaal plaatmateriaal	Berken multiplex	40	length	Berken
+Multiplex buig dwars-5mm	1220x2500		Multiplex buig dwars-5mm	0	m2	1	10	0	1220	2500	5	Kaal plaatmateriaal	Buigmultiplex	5	length	Basisplaat
+Multiplex buig dwars-8mm	1220x2500		Multiplex buig dwars-8mm	0	m2	1	10	0	1220	2500	8	Kaal plaatmateriaal	Buigmultiplex	8	length	Basisplaat
+Multiplex buig langs-5mm	2500x1220		Multiplex buig langs-5mm	0	m2	1	10	0	2500	1220	5	Kaal plaatmateriaal	Buigmultiplex	5	length	Multiplex buig
+Multiplex buig langs-8mm	2500x1220		Multiplex buig langs-8mm	0	m2	1	10	0	2500	1220	8	Kaal plaatmateriaal	Buigmultiplex	8	length	Basisplaat
+Multiplex grenen 18mm-pools	2440x1220		Multiplex grenen 18mm-pools	0	m2	1	10	0	2440	1220	18	Kaal plaatmateriaal	Grenen	18	length	Basisplaat
+Multiplex okoume 4mm	2500x1220		Multiplex okoume 4mm	0	m2	1	10	0	2500	1220	4	Kaal plaatmateriaal	Okoume multiplex	4	length	Multiplex okoume
+Multiplex okoume 4mm - 3100 x 1530 mm	3100x1530		Multiplex okoume 4mm - 3100 x 1530 mm	0	m2	1	10	0	3100	1530	4	Kaal plaatmateriaal	Okoume multiplex	4	length	Multiplex okoume
+Multiplex okoume 18mm	3100x1530		Multiplex okoume 18mm	0	m2	1	10	0	3100	1530	18	Kaal plaatmateriaal	Okoume multiplex	18	length	Basisplaat
+Multiplex okoume 18mm-2500x1220	2500x1220		Multiplex okoume 18mm-2500x1220	0	m2	1	10	0	2500	1220	18	Kaal plaatmateriaal	Okoume multiplex	18	length	Basisplaat
+Multiplex okoume 40mm	3100x1530		Multiplex okoume 40mm	0	m2	1	10	0	3100	1530	40	Kaal plaatmateriaal	Okoume multiplex	40	length	Basisplaat
+Multiplex okoume 40mm-2500x1220	2500x1220		Multiplex okoume 40mm-2500x1220	0	m2	1	10	0	2500	1220	40	Kaal plaatmateriaal	Okoume multiplex	40	length	Basisplaat
+Multiplex populieren 6mm	3050x1300		Multiplex populieren 6mm	0	m2	1	10	0	3050	1300	6	Kaal plaatmateriaal	Populieren multiplex	6	length	Basisplaat
+Multiplex populieren 9mm	2500x1220		Multiplex populieren 9mm	0	m2	1	10	0	2500	1220	9	Kaal plaatmateriaal	Populieren multiplex	9	length	Basisplaat
+Multiplex populieren 15mm-gegrond 80mu	3100x1530		Multiplex populieren 15mm-gegrond 80mu	0	m2	1	10	0	3100	1530	15	Kaal plaatmateriaal	Populieren multiplex gegrond	15	none	Basisplaat
+Multiplex populieren 18mm	3050x1300		Multiplex populieren 18mm	0	m2	1	10	0	3050	1300	18	Kaal plaatmateriaal	Populieren multiplex	18	length	Basisplaat
+Multiplex populieren 18mm-3050x1530mm	3050x1530		Multiplex populieren 18mm-3050x1530mm	0	m2	1	10	0	3050	1530	18	Kaal plaatmateriaal	Populieren multiplex	18	length	Basisplaat
+Multiplex populieren 22mm	3050x1300		Multiplex populieren 22mm	0	m2	1	10	0	3050	1300	22	Kaal plaatmateriaal	Populieren multiplex	22	length	Basisplaat
+Multiplex populieren 25mm	3050x1300		Multiplex populieren 25mm	0	m2	1	10	0	3050	1300	25	Kaal plaatmateriaal	Populieren multiplex	25	length	Basisplaat
+Multiplex populieren 30mm	3050x1300		Multiplex populieren 30mm	0	m2	1	10	0	3050	1300	30	Kaal plaatmateriaal	Populieren multiplex	30	length	Basisplaat
+Multiplex populieren FR 18,5mm	2500x1220		Multiplex populieren FR 18,5mm	0	m2	1	10	0	2500	1220	18.5	Kaal plaatmateriaal	Populieren multiplex	18.5	length	Brandvertragend
+Multiplex populieren NAF 16,5mm	3050x1300		Multiplex populieren NAF 16,5mm	0	m2	1	10	0	3050	1300	16.5	Kaal plaatmateriaal	Populieren multiplex	16.5	length	Basisplaat
+Multiplex populieren NAF 18mm	3050x1300		Multiplex populieren NAF 18mm	0	m2	1	10	0	3050	1300	18	Kaal plaatmateriaal	Populieren multiplex	18	length	Basisplaat
+Multiplex vuren 17,5mm	2440x1220		Multiplex vuren 17,5mm	0	m2	1	10	0	2440	1220	17.5	Kaal plaatmateriaal	Vuren multiplex	17.5	length	Voorraad
+Multiplex vuren 18mm-3050x1530	3050x1530		Multiplex vuren 18mm-3050x1530	0	m2	1	10	0	3050	1530	18	Kaal plaatmateriaal	Vuren multiplex	18	length	Basisplaat
+N117 noten-Koskisen 16mm-backing	3050x1250		N117 noten-Koskisen 16mm-backing	0	m2	1	10	0	3050	1250	18	Perswerk	Polyrey N117	16	length	custom
+Noten mix match-MDF FR 18mm-Noten B	3050x1220		Noten mix match-MDF FR 18mm-Noten B	0	m2	1	10	0	3050	1220	19	Fineer	Noten fineer	18	length	Brandvertragend
+Noten mix match-MDF FR 18mm-Noten mix match A	3050x1220		Noten mix match-MDF FR 18mm-Noten mix match A	0	m2	1	10	0	3050	1220	19	Fineer	Noten fineer	18	length	Brandvertragend
+Noten mix match-MDF FR 18mm-Okoume	3050x1220		Noten mix match-MDF FR 18mm-Okoume	0	m2	1	10	0	3050	1220	19	Fineer	Noten fineer	18	length	Brandvertragend
+Olijfessen Fin.-MDF 16mm-Olijfessen 2750mm	2750x1220		Olijfessen Fin.-MDF 16mm-Olijfessen 2750mm	0	m2	1	10	0	2750	1220	17	Fineer	Olijfessen	16	length	Perswerk MDF
+Olijfessen Fin.-MDF 16mm-Olijfessen 3050mm	3050x1220		Olijfessen Fin.-MDF 16mm-Olijfessen 3050mm	0	m2	1	10	0	3050	1220	17	Fineer	Olijfessen	16	length	Perswerk MDF
+Olijfessen Fin.-MDF 16mm-TegenFin.	3050x1220		Olijfessen Fin.-MDF 16mm-TegenFin.	0	m2	1	10	0	3050	1220	17	Fineer	Olijfessen	16	length	Perswerk MDF
+Olijfessen Fin.-MDF 18mm-Olijfessen 3030mm	3030x1240		Olijfessen Fin.-MDF 18mm-Olijfessen 3030mm	0	m2	1	10	0	3030	1240	19	Fineer	Olijfessen	18	length	Perswerk MDF
+Olijfessen Fin.-MDF 18mm-TegenFin. 3030mm	3030x1240		Olijfessen Fin.-MDF 18mm-TegenFin. 3030mm	0	m2	1	10	0	3030	1240	19	Fineer	Olijfessen	18	length	Perswerk MDF
+PET-felt 9mm-In zee 26_ocean blauw	2440x1220	In zee	PET-felt 9mm-In zee 26_ocean blauw	0	m2	1	10	0	2440	1220	9	PET-felt	In zee 26_ocean	9	none	
+PET-felt 9mm-In zee 41_mint pastel mint	2440x1220	In zee	PET-felt 9mm-In zee 41_mint pastel mint	0	m2	1	10	0	2440	1220	9	PET-felt	In zee 41_mint pastel	9	none	
+PET-felt 9mm-In zee 42_rock blue blauw	2440x1220	In zee	PET-felt 9mm-In zee 42_rock blue blauw	0	m2	1	10	0	2440	1220	9	PET-felt	In zee 42_rock blue	9	none	
+PET-felt 12mm-Refelt Concrete grijs	2400x390	Refelt	PET-felt 12mm-Refelt Concrete grijs	0	m2	1	10	0	2400	390	12	PET-felt	Refelt Concrete	12	length	
+PET-felt 12mm-Refelt Concrete grijs-2400x85	2400x85	Refelt	PET-felt 12mm-Refelt Concrete grijs-2400x85	0	m2	1	10	0	2400	85	12	PET-felt	Refelt Concrete	12	length	
+Pure walnut noten-MDF 16mm-backing	3050x1220	Shinnoki	Pure walnut noten-MDF 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Shinnoki Pure walnut	16	length	MDF
+Pure walnut noten-MDF 16mm-Pure walnut	3050x1220	Shinnoki	Pure walnut noten-MDF 16mm-Pure walnut	0	m2	1	10	0	3050	1220	18	Perswerk	Shinnoki Pure walnut	16	length	MDF
+R20020 eik mokka-MDF 38mm-R20020	3050x1300		R20020 eik mokka-MDF 38mm-R20020	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer R20020	38	length	Perswerk MDF
+R20020 eik mokka-MDF MR 16mm-R20020	3050x1300		R20020 eik mokka-MDF MR 16mm-R20020	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20020	16	length	Vochtwerend
+R20020 eik mokka-MDF zwart 9mm-R20020	3050x1220		R20020 eik mokka-MDF zwart 9mm-R20020	0	m2	1	10	0	3050	1220	11	Perswerk	Pfleiderer R20020	9	length	Perswerk MDF
+R20021 eik-Sp. 38mm-backing	3050x1250		R20021 eik-Sp. 38mm-backing	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer R20021	38	length	Perswerk spaan
+R20021 ML eik-Sp. 16mm-R20021	3050x1270	Pfleiderer	R20021 ML eik-Sp. 16mm-R20021	0	m2	1	10	0	3050	1270	18	Perswerk	Pfleiderer R20021 ML	16	length	Perswerk spaan
+R20021 ML eik-Sp. 22mm-backing	3050x1270	Pfleiderer	R20021 ML eik-Sp. 22mm-backing	0	m2	1	10	0	3050	1270	24	Perswerk	Pfleiderer R20021 ML	22	length	Perswerk spaan
+R20021 ML eik-Sp. 28mm-backing	3050x1250	Pfleiderer	R20021 ML eik-Sp. 28mm-backing	0	m2	1	10	0	3050	1250	30	Perswerk	Pfleiderer R20021 ML	28	length	Perswerk spaan
+R20021 NW eik-MDF 50mm-backing	3050x1220	Pfleiderer	R20021 NW eik-MDF 50mm-backing	0	m2	1	10	0	3050	1220	52	Perswerk	Pfleiderer R20021 NW	50	length	MDF
+R20021 NW eik-MDF MR 9mm-backing	3050x1220	Pfleiderer	R20021 NW eik-MDF MR 9mm-backing	0	m2	1	10	0	3050	1220	11	Perswerk	Pfleiderer R20021 NW	9	length	custom
+R20021 NW eik-MDF MR 16mm-R20021 NW	3050x1300	Pfleiderer	R20021 NW eik-MDF MR 16mm-R20021 NW	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20021 NW	16	length	Vochtwerend
+R20021 NW eik-MDF ultralight 50mm-R20021 NW	3050x1220	Pfleiderer	R20021 NW eik-MDF ultralight 50mm-R20021 NW	0	m2	1	10	0	3050	1220	52	Perswerk	Pfleiderer R20021 NW	50	length	Perswerk MDF
+R20021 NW eik-Mplx.berken 18mm-R20021 NW	3050x1300	Pfleiderer	R20021 NW eik-Mplx.berken 18mm-R20021 NW	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer R20021 NW	18	length	Berken
+R20021 NW eik-Mplx.berken 27mm-backing	3050x1300	Pfleiderer	R20021 NW eik-Mplx.berken 27mm-backing	0	m2	1	10	0	3050	1300	29	Perswerk	Pfleiderer R20021 NW	27	length	Berken
+R20021 NW eik-Mplx.erken 27mm-R20021 NW	3050x1300	Pfleiderer	R20021 NW eik-Mplx.erken 27mm-R20021 NW	0	m2	1	10	0	3050	1300	29	Perswerk	Pfleiderer R20021 NW	27	length	Berken
+R20021 NW eik-Sp. 16mm-backing	3050x1300	Pfleiderer	R20021 NW eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20021 NW	16	length	Perswerk spaan
+R20021 NW eik-Sp. 16mm-R20021 NW	3050x1300	Pfleiderer	R20021 NW eik-Sp. 16mm-R20021 NW	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20021 NW	16	length	Perswerk spaan
+R20021 NW eik-Sp. 28mm-R20021 NW	3050x1300	Pfleiderer	R20021 NW eik-Sp. 28mm-R20021 NW	0	m2	1	10	0	3050	1300	30	Perswerk	Pfleiderer R20021 NW	28	length	Perswerk spaan
+R20021 NW eik-Sp. 38mm-R20021 NW	3050x1250	Pfleiderer	R20021 NW eik-Sp. 38mm-R20021 NW	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer R20021 NW	38	length	Perswerk spaan
+R20021 NW eik-Sp.MR 16mm-backing	3050x1300	Pfleiderer	R20021 NW eik-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20021 NW	16	length	Vochtwerend
+R20021 NW eik-Sp.MR 16mm-R20021 NW	3050x1300	Pfleiderer	R20021 NW eik-Sp.MR 16mm-R20021 NW	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20021 NW	16	length	Vochtwerend
+R20027 RU eik-MDF 16mm-R20027 RU	3050x1300	Pfleiderer	R20027 RU eik-MDF 16mm-R20027 RU	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20027 RU	16	length	Perswerk MDF
+R20027 RU eik-Mplx.berken 40mm-R20027 RU	3050x1300	Pfleiderer	R20027 RU eik-Mplx.berken 40mm-R20027 RU	0	m2	1	10	0	3050	1300	42	Perswerk	Pfleiderer R20027 RU	40	length	Berken
+R20095 MO eik-MDF 22mm-backing	2800x2070	Pfleiderer	R20095 MO eik-MDF 22mm-backing	0	m2	1	10	0	2800	2070	24	Perswerk	Pfleiderer R20095 MO	22	length	Perswerk MDF
+R20095 MO eik-MDF MR 16mm-backing	3050x1300	Pfleiderer	R20095 MO eik-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20095 MO	16	length	Vochtwerend
+R20095 MO eik-Sp. 16mm-backing	3050x1300	Pfleiderer	R20095 MO eik-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20095 MO	16	length	Perswerk spaan
+R20095 NW eik-MDF 25mm-backing	3050x1220	Pfleiderer	R20095 NW eik-MDF 25mm-backing	0	m2	1	10	0	3050	1220	27	Perswerk	Pfleiderer R20095 NW	25	length	Perswerk MDF
+R20095 NW eik-Sp. 16mm-R20095 NW eik	3050x1300	Pfleiderer	R20095 NW eik-Sp. 16mm-R20095 NW eik	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20095 NW	16	length	Perswerk spaan
+R20128 RU eik-Sp.MR 16mm-backing	3050x1300	Pfleiderer	R20128 RU eik-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20128 RU	16	length	Vochtwerend
+R20128 RU eik-Sp.MR 16mm-R20128 RU eik	3050x1300	Pfleiderer	R20128 RU eik-Sp.MR 16mm-R20128 RU eik	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20128 RU	16	length	Vochtwerend
+R20315 NW eik-Sp. 28mm-R20315 NW	3050x1250	Pfleiderer	R20315 NW eik-Sp. 28mm-R20315 NW	0	m2	1	10	0	3050	1250	30	Perswerk	Pfleiderer R20315 NW	28	length	Perswerk spaan
+R20456 eik-Sp. 16mm-R20456 eik	3050x1300	Pfleiderer	R20456 eik-Sp. 16mm-R20456 eik	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R20456 RO	16	length	Perswerk spaan
+R27001 VV esdoorn-Sp. 16mm-R27001 VV	3050x1300	Pfleiderer	R27001 VV esdoorn-Sp. 16mm-R27001 VV	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R27001 VV	16	length	Perswerk spaan
+R27001 VV esdoorn-Sp. 38mm-backing	3050x1250	Pfleiderer	R27001 VV esdoorn-Sp. 38mm-backing	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer R27001 VV	38	length	Perswerk spaan
+R27001 VV esdoorn-Sp. 38mm-R27001 VV	3050x1250	Pfleiderer	R27001 VV esdoorn-Sp. 38mm-R27001 VV	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer R27001 VV	38	length	Perswerk spaan
+R30011 NW noten-MDF FR 16mm-backing	3050x1220	Pfleiderer	R30011 NW noten-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer R30011 NW	16	length	Brandvertragend
+R30011 NW noten-MDF FR 16mm-R30011	3050x1220	Pfleiderer	R30011 NW noten-MDF FR 16mm-R30011	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer R30011 NW	16	length	Brandvertragend
+R30013 NW walnoot-Sp. 38mm-R30013 NW	3050x1250	Pfleiderer	R30013 NW walnoot-Sp. 38mm-R30013 NW	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer R30013 NW	38	length	Perswerk spaan
+R34033 NW essen-MDF zwart 16mm-backing	3050x1220	Pfleiderer	R34033 NW essen-MDF zwart 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer R34033 NW	16	length	Perswerk MDF
+R34033 NW essen-Sp.MR 16mm-backing	3050x1300	Pfleiderer	R34033 NW essen-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R34033 NW	16	length	Vochtwerend
+R37016 NW iep-MDF MR 16mm-backing	3050x1300	Pfleiderer	R37016 NW iep-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R37016 NW	16	length	Vochtwerend
+R37016 RR iep-Sp. 16mm-R37016 RR	3050x1300	Pfleiderer	R37016 RR iep-Sp. 16mm-R37016 RR	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R37016 RR	16	length	Spaanplaat
+R38002 RT acacia-Sp. 16mm-R38002	3050x1300	Pfleiderer	R38002 RT acacia-Sp. 16mm-R38002	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer R38002 RT	16	length	Perswerk spaan
+S133 bruin-Sp. 25mm-S133	3050x1250	Decolegno	S133 bruin-Sp. 25mm-S133	0	m2	1	10	0	3050	1250	27	Perswerk	Decolegno S133 Esperia	25	length	Perswerk spaan
+Shinnoki Cinnamon-MDF 18mm-Shinnoki Cinnamon	2790x1240		Shinnoki Cinnamon-MDF 18mm-Shinnoki Cinnamon	0	m2	1	10	0	2790	1240	19	Fineer	Shinnoki Cinnamon Triba	18	length	Perswerk MDF
+Shinnoki Pure walnut-MDF 18mm-Shinnoki Pure walnut	2790x1240	Shinnoki	Shinnoki Pure walnut-MDF 18mm-Shinnoki Pure walnut	0	m2	1	10	0	2790	1240	19	Fineer	Shinnoki Pure walnut	18	length	Perswerk MDF
+Shinnoki Stardust walnut-MDF 18mm-backing	2790x1240		Shinnoki Stardust walnut-MDF 18mm-backing	0	m2	1	10	0	2790	1240	19	Fineer	Shinnoki Stardust walnut	18	length	MDF
+Spaanplaat 10mm	2500x1250		Spaanplaat 10mm	0	m2	1	10	0	2500	1250	10	Kaal plaatmateriaal	Spaanplaat	10	none	Basisplaat
+Spaanplaat 12mm	3050x1250		Spaanplaat 12mm	0	m2	1	10	0	3050	1250	12	Kaal plaatmateriaal	Spaanplaat	12	none	Basisplaat
+Spaanplaat 16mm	3050x1310		Spaanplaat 16mm	0	m2	1	10	0	3050	1310	16	Kaal plaatmateriaal	Spaanplaat	16	none	Voorraad
+Spaanplaat 18mm	2500x1250		Spaanplaat 18mm	0	m2	1	10	0	2500	1250	18	Kaal plaatmateriaal	Spaanplaat	18	none	Voorraad
+Spaanplaat 22mm	3050x1250		Spaanplaat 22mm	0	m2	1	10	0	3050	1250	22	Kaal plaatmateriaal	Spaanplaat	22	none	Basisplaat
+Spaanplaat 25mm	3050x1300		Spaanplaat 25mm	0	m2	1	10	0	3050	1300	25	Kaal plaatmateriaal		25	none	Spaanplaat
+Spaanplaat 28mm	2800x2070		Spaanplaat 28mm	0	m2	1	10	0	2800	2070	28	Kaal plaatmateriaal	Spaanplaat	28	none	Basisplaat
+Spaanplaat 38mm	3050x1250		Spaanplaat 38mm	0	m2	1	10	0	3050	1250	38	Kaal plaatmateriaal	Spaanplaat	38	none	Basisplaat
+Spaanplaat FR 10mm	3050x1250		Spaanplaat FR 10mm	0	m2	1	10	0	3050	1250	10	Kaal plaatmateriaal	Spaanplaat	10	none	Brandvertragend
+Spaanplaat FR 16mm	3050x1250		Spaanplaat FR 16mm	0	m2	1	10	0	3050	1250	16	Kaal plaatmateriaal	Spaanplaat	16	none	Brandvertragend
+Spaanplaat FR 18mm	3050x1250		Spaanplaat FR 18mm	0	m2	1	10	0	3050	1250	18	Kaal plaatmateriaal	Spaanplaat	18	none	Brandvertragend
+Spaanplaat MR 16mm	3050x1300		Spaanplaat MR 16mm	0	m2	1	10	0	3050	1300	16	Kaal plaatmateriaal	Spaanplaat	16	none	Vochtwerend
+Spaanplaat MR 18mm	3050x1300		Spaanplaat MR 18mm	0	m2	1	10	0	3050	1300	18	Kaal plaatmateriaal	Spaanplaat	18	none	Vochtwerend
+Tabu fineer-MDF FR 12mm-tegenfineer	2430x1210		Tabu fineer-MDF FR 12mm-tegenfineer	0	m2	1	10	0	2430	1210	13	Fineer	Fineer Tabu Berken	12	length	Brandvertragend
+Tabu fineer-MDF FR 18mm-Tabu fineer	2430x1210		Tabu fineer-MDF FR 18mm-Tabu fineer	0	m2	1	10	0	2430	1210	19	Fineer	Fineer Tabu Berken	18	length	Brandvertragend
+Tabu fineer-MDF FR 18mm-tegenfineer	2430x1210		Tabu fineer-MDF FR 18mm-tegenfineer	0	m2	1	10	0	2430	1210	19	Fineer	Fineer Tabu Berken	18	length	Brandvertragend
+Tabu fineer-MDF FR 36mm-Tabu fineer	2430x1210		Tabu fineer-MDF FR 36mm-Tabu fineer	0	m2	1	10	0	2430	1210	37	Fineer	Fineer Tabu Berken	36	length	Brandvertragend
+Tabu fineer-MDF FR 36mm-tegenfineer	2430x1210		Tabu fineer-MDF FR 36mm-tegenfineer	0	m2	1	10	0	2430	1210	37	Fineer	Fineer Tabu Berken	36	length	Brandvertragend
+Topfix berken 18mm-F6464 wit	3050x1300	Topfix	Topfix berken 18mm-F6464 wit	0	m2	1	10	0	3050	1300	18	Perswerk	Topfix F6464	18	none	Berken
+Topfix berken 19,5mm-F6468 zwart	3050x1300	Topfix	Topfix berken 19,5mm-F6468 zwart	0	m2	1	10	0	3050	1300	19.5	Perswerk	Topfix F6468	19.5	none	Berken
+Trespa Toplab Base E0-00 wit-5.8mm	2550x1860	Trespa	Trespa Toplab Base E0-00 wit-5.8mm	0	m2	1	10	0	2550	1860	5.8	Volkern	Trespa Toplab Base E0-00	5.8	none	
+Trespa Toplab Base E0-00 wit-6mm	2550x1860	Trespa	Trespa Toplab Base E0-00 wit-6mm	0	m2	1	10	0	2550	1860	6	Volkern	Trespa Toplab Base E0-00	6	none	
+Trespa Toplab Base E0-00 wit-13mm	2550x1860	Trespa	Trespa Toplab Base E0-00 wit-13mm	0	m2	1	10	0	2550	1860	13	Volkern	Trespa Toplab Base E0-00	13	none	
+Trespa Toplab Base E0-00 wit-15.8mm	2550x1860	Trespa	Trespa Toplab Base E0-00 wit-15.8mm	0	m2	1	10	0	2550	1860	15.8	Volkern	Trespa Toplab Base E0-00	15.8	none	
+Trespa Toplab Plus T03.4.0 grijs-15.8mm	2550x1860	Trespa	Trespa Toplab Plus T03.4.0 grijs-15.8mm	0	m2	1	10	0	2550	1860	15.8	Volkern	Trespa Toplab Plus T03.4.0	15.8	none	
+Trespa Toplab Plus T03.4.0 grijs-16mm	2550x1860	Trespa	Trespa Toplab Plus T03.4.0 grijs-16mm	0	m2	1	10	0	2550	1860	16	Volkern	Trespa Toplab Plus T03.4.0	16	none	
+Trespa Toplab Vertical K05.0.0 wit-12.8mm	2550x1860	Trespa	Trespa Toplab Vertical K05.0.0 wit-12.8mm	0	m2	1	10	0	2550	1860	12.8	Volkern	Trespa Toplab Vertical K05.0.0	12.8	none	
+Trespa Toplab Vertical K05.0.0 wit-13mm	2550x1860	Trespa	Trespa Toplab Vertical K05.0.0 wit-13mm	0	m2	1	10	0	2550	1860	13	Volkern	Trespa Toplab Vertical K05.0.0	13	none	
+U156 ST9 beige-Sp. 16mm-U156	3050x1300	Egger	U156 ST9 beige-Sp. 16mm-U156	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U156 ST9	16	none	Perswerk spaan
+U156 ST9 beige-Sp. 38mm-backing	3050x1250	Egger	U156 ST9 beige-Sp. 38mm-backing	0	m2	1	10	0	3050	1250	40	Perswerk	Egger U156 ST9	38	none	Perswerk spaan
+U163 ST9 geel-Sp.MR 16mm-U163	3050x1300	Egger	U163 ST9 geel-Sp.MR 16mm-U163	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U163 ST9	16	none	Vochtwerend
+U201 ST9 grijs-Sp.MR 16mm-U201 ST9	3050x1300	Egger	U201 ST9 grijs-Sp.MR 16mm-U201 ST9	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U201 ST9	16	none	Vochtwerend
+U504 ST9 blauw-Sp. 16mm-backing	3050x1300	Egger	U504 ST9 blauw-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U504 ST9	16	none	Perswerk spaan
+U504 ST9 blauw-Sp. 16mm-U504	3050x1300	Egger	U504 ST9 blauw-Sp. 16mm-U504	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U504 ST9	16	none	Perswerk spaan
+U604 ST9 eucalyptus-Sp.MR 16mm-backing	3050x1300	Egger	U604 ST9 eucalyptus-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U604 ST9	16	none	Vochtwerend
+U606 ST9 groen-Sp. 16mm-U606	3050x1300	Egger	U606 ST9 groen-Sp. 16mm-U606	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U606 ST9	16	length	Perswerk spaan
+U702 PM grijs-Sp. 16mm-U702 PM	3050x1310	Egger	U702 PM grijs-Sp. 16mm-U702 PM	0	m2	1	10	0	3050	1310	18	Perswerk	Egger U702 PM	16	none	Perswerk spaan
+U708 ST9 lichtgrijs-MDF 18mm-backing	3050x1300	Egger	U708 ST9 lichtgrijs-MDF 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Egger U708 ST9	18	none	Perswerk MDF
+U717 ST9 grijs-MDF 12mm-backing	3050x1220	Egger	U717 ST9 grijs-MDF 12mm-backing	0	m2	1	10	0	3050	1220	14	Perswerk	Egger U717 ST9	12	none	Perswerk MDF
+U732 ST9 stofgrijs-MDF 16mm-U732	3050x1300	Egger	U732 ST9 stofgrijs-MDF 16mm-U732	0	m2	1	10	0	3050	1300	18	Perswerk	Egger U732 ST9	16	none	Perswerk MDF
+U732 ST9 stofgrijs-Sp. 16mm-backing	3060x1300	Egger	U732 ST9 stofgrijs-Sp. 16mm-backing	0	m2	1	10	0	3060	1300	18	Perswerk	Egger U732 ST9	16	none	Perswerk spaan
+U960 ST9 onxygrijs-Sp. 22mm-backing	3050x1250	Egger	U960 ST9 onxygrijs-Sp. 22mm-backing	0	m2	1	10	0	3050	1250	24	Perswerk	Egger U960 ST9	22	none	Perswerk spaan
+U11026 HG wit-MDF 16mm-backing	3050x1300	Pfleiderer	U11026 HG wit-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 HG	16	none	Perswerk MDF
+U11026 HG wit-MDF 16mm-backing wit	3050x1300	Pfleiderer	U11026 HG wit-MDF 16mm-backing wit	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 HG	16	none	Perswerk MDF
+U11026 HG wit-MDF 16mm-U11026 HG	3050x1300	Pfleiderer	U11026 HG wit-MDF 16mm-U11026 HG	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 HG	16	none	Perswerk MDF
+U11026 HG wit-MDF FR 16mm-U12231 SD grijs	2800x2070	Pfleiderer	U11026 HG wit-MDF FR 16mm-U12231 SD grijs	0	m2	1	10	0	2800	2070	18	Perswerk	Pfleiderer U11026 HG	16	none	Brandvertragend
+U11026 HG wit-MDF FR 36mm-U12231 SD grijs	2800x1300	Pfleiderer	U11026 HG wit-MDF FR 36mm-U12231 SD grijs	0	m2	1	10	0	2800	1300	38	Perswerk	Pfleiderer U11026 HG	36	none	Brandvertragend
+U11026 HG wit-Sp. 38mm-U11026 HG	3050x1300	Pfleiderer	U11026 HG wit-Sp. 38mm-U11026 HG	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U11026 HG	38	none	Perswerk spaan
+U11026 SD wit-MDF 6mm-backing	3050x1220	Pfleiderer	U11026 SD wit-MDF 6mm-backing	0	m2	1	10	0	3050	1220	8	Perswerk	Pfleiderer U11026 SD	6	none	MDF
+U11026 SD wit-MDF 16mm-backing	3050x1220	Pfleiderer	U11026 SD wit-MDF 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U11026 SD	16	none	Decor
+U11026 SD wit-MDF 16mm-U11026 SD	3050x1220	Pfleiderer	U11026 SD wit-MDF 16mm-U11026 SD	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U11026 SD	16	none	Decor
+U11026 SD wit-MDF 38mm-backing	3050x1220	Pfleiderer	U11026 SD wit-MDF 38mm-backing	0	m2	1	10	0	3050	1220	40	Perswerk	Pfleiderer U11026 SD	38	none	Decor
+U11026 SD wit-MDF 38mm-U11026 SD	3050x1220	Pfleiderer	U11026 SD wit-MDF 38mm-U11026 SD	0	m2	1	10	0	3050	1220	40	Perswerk	Pfleiderer U11026 SD	38	none	Decor
+U11026 SD wit-MDF MR 16mm-backing	3050x1300	Pfleiderer	U11026 SD wit-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 SD	16	none	Vochtwerend
+U11026 SD wit-Sp. 16mm-U11026 SD	3050x1300	Pfleiderer	U11026 SD wit-Sp. 16mm-U11026 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 SD	16	none	Perswerk spaan
+U11026 SD wit-Sp. 28mm-backing	3050x1250	Pfleiderer	U11026 SD wit-Sp. 28mm-backing	0	m2	1	10	0	3050	1250	30	Perswerk	Pfleiderer U11026 SD	28	none	Spaanplaat
+U11026 SD wit-Sp.MR 16mm-U11026 SD	3050x1300	Pfleiderer	U11026 SD wit-Sp.MR 16mm-U11026 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 SD	16	none	Vochtwerend
+U11026 SM wit-Ecob 15mm-U11026 SM	2440x1220	Pfleiderer	U11026 SM wit-Ecob 15mm-U11026 SM	0	m2	1	10	0	2440	1220	17	Perswerk	Pfleiderer U11026 SM	15	none	custom
+U11026 SM wit-Mplx.berken 18mm-backing	3050x1300	Pfleiderer	U11026 SM wit-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer U11026 SM	18	none	Berken
+U11026 SM-Ecob 18mm-U11026 SM	2440x1220	Pfleiderer	U11026 SM-Ecob 18mm-U11026 SM	0	m2	1	10	0	2440	1220	20	Perswerk	Pfleiderer U11026 SM	18	none	custom
+U11026 XM wit-MDF 16mm-backing	3050x1300	Pfleiderer	U11026 XM wit-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 XM	16	none	Perswerk MDF
+U11026 XM wit-MDF 16mm-U11026 XM	3050x1300	Pfleiderer	U11026 XM wit-MDF 16mm-U11026 XM	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11026 XM	16	none	Perswerk MDF
+U11026 XM wit-MDF 22mm-backing	3050x1300	Pfleiderer	U11026 XM wit-MDF 22mm-backing	0	m2	1	10	0	3050	1300	24	Perswerk	Pfleiderer U11026 XM	22	none	Perswerk MDF
+U11026 XM wit-MDF MR 38mm-backing	3050x1220	Pfleiderer	U11026 XM wit-MDF MR 38mm-backing	0	m2	1	10	0	3050	1220	40	Perswerk	Pfleiderer U11026 XM	38	none	MDF MR
+U11026 XM wit-MDF MR 38mm-U11026 XM	3050x1220	Pfleiderer	U11026 XM wit-MDF MR 38mm-U11026 XM	0	m2	1	10	0	3050	1220	40	Perswerk	Pfleiderer U11026 XM	38	none	Vochtwerend
+U11026 XM wit-Mplx.berken 12mm-U11026 XM	3050x1300	Pfleiderer	U11026 XM wit-Mplx.berken 12mm-U11026 XM	0	m2	1	10	0	3050	1300	14	Perswerk	Pfleiderer U11026 XM	12	none	Berken
+U11026 XM wit-Mplx.berken 18mm-backing	3050x1300	Pfleiderer	U11026 XM wit-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer U11026 XM	18	none	Berken
+U11026 XM wit-Sp. 28mm-backing	3050x1300	Pfleiderer	U11026 XM wit-Sp. 28mm-backing	0	m2	1	10	0	3050	1300	30	Perswerk	Pfleiderer U11026 XM	28	none	Perswerk spaan
+U11026 XM wit-Sp. 38mm-U11026 XM	3050x1300	Pfleiderer	U11026 XM wit-Sp. 38mm-U11026 XM	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U11026 XM	38	none	Perswerk spaan
+U11027 HG wit-MDF 16mm-U11027 HG	3050x1300	Pfleiderer	U11027 HG wit-MDF 16mm-U11027 HG	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11027 HG	16	none	Perswerk MDF
+U11102 VV wit-Mplx.berken 9mm-backing	3050x1300	Pfleiderer	U11102 VV wit-Mplx.berken 9mm-backing	0	m2	1	10	0	3050	1300	11	Perswerk	Pfleiderer U11102 VV	9	none	Berken
+U11102 VV wit-Mplx.berken 18mm-U11102 VV	3050x1300	Pfleiderer	U11102 VV wit-Mplx.berken 18mm-U11102 VV	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer U11102 VV	18	none	Berken
+U11102 VV wit-Mplx.berken 24mm-backing	3050x1300	Pfleiderer	U11102 VV wit-Mplx.berken 24mm-backing	0	m2	1	10	0	3050	1300	26	Perswerk	Pfleiderer U11102 VV	24	none	Berken
+U11523 SD ivoor-Sp. 16mm-U11523 SD	3050x1300	Pfleiderer	U11523 SD ivoor-Sp. 16mm-U11523 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U11523 SD	16	none	Perswerk spaan
+U12000 SD zwart-MDF FR 16mm-backing	3050x1220	Pfleiderer	U12000 SD zwart-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U12000 SD	16	none	Brandvertragend
+U12000 SD zwart-MDF MR 16mm-backing	3050x1300	Pfleiderer	U12000 SD zwart-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12000 SD	16	none	Vochtwerend
+U12000 SD zwart-Mplx.berken 16,5mm-backing	3050x1300	Pfleiderer	U12000 SD zwart-Mplx.berken 16,5mm-backing	0	m2	1	10	0	3050	1300	18.5	Perswerk	Pfleiderer U12000 SD	16.5	none	Berken
+U12000 SD zwart-Sp. 16mm-U12000 SD	3050x1300	Pfleiderer	U12000 SD zwart-Sp. 16mm-U12000 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12000 SD	16	none	Perswerk spaan
+U12000 XM zwart-MDF 16mm-backing	3050x1300	Pfleiderer	U12000 XM zwart-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12000 XM	16	none	Perswerk MDF
+U12000 XM zwart-Mplx.berken 18mm-backing	3050x1300	Pfleiderer	U12000 XM zwart-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer U12000 XM	18	none	Berken
+U12000 XM zwart-Sp. 48mm-backing	3050x1300	Pfleiderer	U12000 XM zwart-Sp. 48mm-backing	0	m2	1	10	0	3050	1300	50	Perswerk	Pfleiderer U12000 XM	48	none	Perswerk spaan
+U12007 zwart-MDF 16mm-backing	3050x1300	Pfleiderer	U12007 zwart-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12007 SD	16	none	Perswerk MDF
+U12011 MP zwart-MDF 16mm-backing	3050x1300	Pfleiderer	U12011 MP zwart-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12011 SD	16	none	Perswerk MDF
+U12011 SD antraciet-MDF MR 16mm-backing	3050x1300	Pfleiderer	U12011 SD antraciet-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12011 SD	16	none	Vochtwerend
+U12131 SD grijs-Sp. 16mm-U12131 SD	3050x1300	Pfleiderer	U12131 SD grijs-Sp. 16mm-U12131 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12131 SD	16	none	Perswerk spaan
+U12204 SD grijs-Sp.MR 16mm-backing	3050x1300	Pfleiderer	U12204 SD grijs-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12204 SD	16	none	Vochtwerend
+U12231 SD grijs-MDF FR 16mm-U12231 SD	2800x2070	Pfleiderer	U12231 SD grijs-MDF FR 16mm-U12231 SD	0	m2	1	10	0	2800	2070	18	Perswerk	Pfleiderer U12131 SD	16	none	Brandvertragend
+U12231 SD grijs-MDF FR 36mm-U12231 SD	2800x1300	Pfleiderer	U12231 SD grijs-MDF FR 36mm-U12231 SD	0	m2	1	10	0	2800	1300	38	Perswerk	Pfleiderer U12131 SD	36	none	Brandvertragend
+U12231 SD grijs-Sp. 38mm-U12231 SD	3050x1300	Pfleiderer	U12231 SD grijs-Sp. 38mm-U12231 SD	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U12131 SD	38	none	Perswerk spaan
+U12233 MP zwart-Mplx.berken 18mm-backing	3050x1300	Pfleiderer	U12233 MP zwart-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer U12233 MP	18	none	Berken
+U12233 MP zwart-Sp. 38mm-U1233 SD	3050x1300	Pfleiderer	U12233 MP zwart-Sp. 38mm-U1233 SD	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U12233 MP	38	none	Perswerk spaan
+U12290 SD antraciet-MDF MR 38mm-U12290 SD	3050x1300	Pfleiderer	U12290 SD antraciet-MDF MR 38mm-U12290 SD	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U12290 SD	38	none	MDF MR
+U12290 SD antraciet-Sp. 16mm-backing	3050x1300	Pfleiderer	U12290 SD antraciet-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12290 SD	16	none	Spaanplaat
+U12290 SD antraciet-Sp. 16mm-U12290 SD	3050x1300	Pfleiderer	U12290 SD antraciet-Sp. 16mm-U12290 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12290 SD	16	none	Spaanplaat
+U12290 SD grijs-Sp.MR 16mm-backing	3050x1300	Pfleiderer	U12290 SD grijs-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U12290 SD	16	none	Vochtwerend
+U12986 SD grijs-MDF zwart 16mm-U12986 SD	3050x1220	Pfleiderer	U12986 SD grijs-MDF zwart 16mm-U12986 SD	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U12986 SD	16	none	MDF zwart
+U12986 SD grijs-Sp. 38mm-U12986 SD	3050x1250	Pfleiderer	U12986 SD grijs-Sp. 38mm-U12986 SD	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer U12986 SD	38	none	Spaanplaat
+U15133 SD FR beige-MDF FR 25mm-U15133	3050x1220	Pfleiderer	U15133 SD FR beige-MDF FR 25mm-U15133	0	m2	1	10	0	3050	1220	27	Perswerk	Pfleiderer U15133 SD	25	none	Brandvertragend
+U15133 SD FR-MDF FR 16mm-backing FR	2800x1300	Pfleiderer	U15133 SD FR-MDF FR 16mm-backing FR	0	m2	1	10	0	2800	1300	18	Perswerk	Pfleiderer U15133 SD	16	none	Brandvertragend
+U15133 SD FR-MDF FR 16mm-U15133SD FR	2800x1300	Pfleiderer	U15133 SD FR-MDF FR 16mm-U15133SD FR	0	m2	1	10	0	2800	1300	18	Perswerk	Pfleiderer U15133 SD	16	none	Brandvertragend
+U15133 SD FR-MDF FR 25mm-backing FR	2800x1300	Pfleiderer	U15133 SD FR-MDF FR 25mm-backing FR	0	m2	1	10	0	2800	1300	27	Perswerk	Pfleiderer U15133 SD	25	none	Brandvertragend
+U15133 SD FR-zwart mdf FR 18mm-backing FR	1220x2070	Pfleiderer	U15133 SD FR-zwart mdf FR 18mm-backing FR	0	m2	1	10	0	1220	2070	20	Perswerk	Pfleiderer U15133 SD	18	none	Brandvertragend
+U15133 SD grijs-MDF MR 9mm-backing	3050x1220	Pfleiderer	U15133 SD grijs-MDF MR 9mm-backing	0	m2	1	10	0	3050	1220	11	Perswerk	Pfleiderer U15133 SD	9	none	Vochtwerend
+U15133 SD grijs-Sp. 16mm-backing	3050x1300	Pfleiderer	U15133 SD grijs-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U15133 SD	16	none	Perswerk spaan
+U15133 SD grijs-Sp. 16mm-U15133 SD	3050x1300	Pfleiderer	U15133 SD grijs-Sp. 16mm-U15133 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U15133 SD	16	none	Perswerk spaan
+U15133 SD grijs-Sp.MR 16mm-backing	3050x1300	Pfleiderer	U15133 SD grijs-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U15133 SD	16	none	Perswerk spaan
+U15133 SD-MDF FR 16mm-U15133	3050x1220	Pfleiderer	U15133 SD-MDF FR 16mm-U15133	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U15133 SD	16	none	Brandvertragend
+U15133 SD-MDF FR 25mm-U15133	2440x1220	Pfleiderer	U15133 SD-MDF FR 25mm-U15133	0	m2	1	10	0	2440	1220	27	Perswerk	Pfleiderer U15133 SD	25	none	Brandvertragend
+U15193 SD grijs-MDF 38mm-backing	3050x1220	Pfleiderer	U15193 SD grijs-MDF 38mm-backing	0	m2	1	10	0	3050	1220	40	Perswerk	Pfleiderer U15193 SD	38	none	Perswerk MDF
+U15579 SD geel-MDF 16mm-U15579	3050x1300	Pfleiderer	U15579 SD geel-MDF 16mm-U15579	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U15579 SD	16	none	Perswerk MDF
+U16001 SD zandgrijs-MDF 16mm-backing	3050x1310	Pfleiderer	U16001 SD zandgrijs-MDF 16mm-backing	0	m2	1	10	0	3050	1310	18	Perswerk	Pfleiderer U16001 SD	16	none	Perswerk MDF
+U16002 SD congo-MDF zwart 16mm-U16002	3050x1220	Pfleiderer	U16002 SD congo-MDF zwart 16mm-U16002	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U16002 SD	16	none	Perswerk MDF
+U16002 SD FR bruin-MDF FR 16mm-U16002	3050x1220	Pfleiderer	U16002 SD FR bruin-MDF FR 16mm-U16002	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U16002 SD	16	none	Brandvertragend
+U16002-MDF FR 16mm-backing	3050x1220	Pfleiderer	U16002-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer U16002 SD	16	none	Brandvertragend
+U16002SD FR-MDF FR 16mm-backing FR	2800x1300	Pfleiderer	U16002SD FR-MDF FR 16mm-backing FR	0	m2	1	10	0	2800	1300	18	Perswerk	Pfleiderer U16002 SD	16	none	Brandvertragend
+U16166 SD rood-Sp. 16mm-backing	3050x1300	Pfleiderer	U16166 SD rood-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U16166 SD	16	none	Spaanplaat
+U17271 SD rood-MDF MR 38mm-backing	3050x1300	Pfleiderer	U17271 SD rood-MDF MR 38mm-backing	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U17271 SD	38	none	Vochtwerend
+U18004 SD blauw-MDF 12mm-HPL Zwart	3050x1300	Pfleiderer	U18004 SD blauw-MDF 12mm-HPL Zwart	0	m2	1	10	0	3050	1300	14	Perswerk	Pfleiderer U18004 SD	12	none	Perswerk MDF
+U18004 SD blauw-MDF 16mm-U18004	3050x1300	Pfleiderer	U18004 SD blauw-MDF 16mm-U18004	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 SD	16	none	Perswerk MDF
+U18004 SD blauw-MDF MR 16mm-backing	3050x1300	Pfleiderer	U18004 SD blauw-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 SD	16	none	Vochtwerend
+U18004 SD blauw-Sp. 16mm-backing	3050x1300	Pfleiderer	U18004 SD blauw-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 SD	16	none	Perswerk spaan
+U18004 SD blauw-Sp. 16mm-HPL Zwart	3050x1300	Pfleiderer	U18004 SD blauw-Sp. 16mm-HPL Zwart	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18004 SD	16	none	Perswerk spaan
+U18012 SD blauw-Sp. 38mm-backing	3050x1250	Pfleiderer	U18012 SD blauw-Sp. 38mm-backing	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer U18012 SD	38	none	Perswerk spaan
+U18028 SD zwartblauw-MDF MR 16mm-backing	3050x1300	Pfleiderer	U18028 SD zwartblauw-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18028 SD	16	none	Vochtwerend
+U18028 SD zwartblauw-MDF MR 16mm-U18028	3050x1300	Pfleiderer	U18028 SD zwartblauw-MDF MR 16mm-U18028	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18028 SD	16	none	Vochtwerend
+U18028 SD-MDF MR 38mm-backing	3050x1310	Pfleiderer	U18028 SD-MDF MR 38mm-backing	0	m2	1	10	0	3050	1310	40	Perswerk	Pfleiderer U18028 SD	38	none	Vochtwerend
+U18029 SD blauw-Sp. 38mm-U18029 SD	3050x1300	Pfleiderer	U18029 SD blauw-Sp. 38mm-U18029 SD	0	m2	1	10	0	3050	1300	40	Perswerk	Pfleiderer U18029 SD	38	none	Perswerk spaan
+U18059 SD blauw-MDF MR 16mm-F7949 wit	3050x1300	Pfleiderer	U18059 SD blauw-MDF MR 16mm-F7949 wit	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18059 SD	16	none	Vochtwerend
+U18074 SD blauw-Sp. 16mm-U18074 SD	3050x1300	Pfleiderer	U18074 SD blauw-Sp. 16mm-U18074 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18074 SD	16	none	Perswerk spaan
+U18504 SD blauw-MDF 16mm-backing	3050x1300	Pfleiderer	U18504 SD blauw-MDF 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U18504 SD	16	none	Perswerk MDF
+U19008 SD groen-Sp. 18mm-U19008 SD	2800x2100	Pfleiderer	U19008 SD groen-Sp. 18mm-U19008 SD	0	m2	1	10	0	2800	2100	20	Perswerk	Pfleiderer U19008 SD	18	none	Perswerk spaan
+U19024 SD groen-Sp. 18mm-U19024 SD	2800x2100	Pfleiderer	U19024 SD groen-Sp. 18mm-U19024 SD	0	m2	1	10	0	2800	2100	20	Perswerk	Pfleiderer U19024 SD	18	none	Perswerk spaan
+U19503 SD avocado-Sp. 16mm-backing	3050x1300	Pfleiderer	U19503 SD avocado-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U19503 SD	16	none	Perswerk spaan
+U19503 SD avocado-Sp.MR 16mm-U19503	3050x1300	Pfleiderer	U19503 SD avocado-Sp.MR 16mm-U19503	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U19503 SD	16	none	Vochtwerend
+U19515 SD groen-Sp. 16mm-U19515 SD	3050x1300	Pfleiderer	U19515 SD groen-Sp. 16mm-U19515 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer U19515 SD	16	none	Spaanplaat
+UB40 groen-Sp. 16mm-backing	3050x1300	Decolegno	UB40 groen-Sp. 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Decolegno UB40 Ovatta	16	none	Perswerk spaan
+UB40 groen-Sp. 16mm-UB40	3050x1300	Decolegno	UB40 groen-Sp. 16mm-UB40	0	m2	1	10	0	3050	1300	18	Perswerk	Decolegno UB40 Ovatta	16	none	Perswerk spaan
+UB40 groen-Sp.MR 16mm-backing	3050x1300	Decolegno	UB40 groen-Sp.MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Decolegno UB40 Ovatta	16	none	Vochtwerend
+UB40 groen-Sp.MR 16mm-UB40 licht groen	3050x1300	Decolegno	UB40 groen-Sp.MR 16mm-UB40 licht groen	0	m2	1	10	0	3050	1300	18	Perswerk	Decolegno UB40 Ovatta	16	none	Vochtwerend
+Vuren geschaafd -50x32mm	4200x50		Vuren geschaafd -50x32mm	0	m1	20	10	0	4200	50	32	Massief	Vuren	32	length	Massief
+Vuren geschaafd -75x22mm	4200x75		Vuren geschaafd -75x22mm	0	m1	20	10	0	4200	75	22	Massief	Vuren	22	length	Massief
+Vuren geschaafd -75x50mm	4200x75		Vuren geschaafd -75x50mm	0	m1	20	10	0	4200	75	50	Massief	Vuren	50	length	Massief
+W980 ST7 wit-MDF MR 18mm-backing	3050x1310	Egger	W980 ST7 Platinawit-MDF MR 18mm-backing	0	m2	1	10	0	3050	1310	20	Perswerk	Egger W980 ST7	18	none	Vochtwerend
+W980 ST7 wit-MDF MR 38mm-W980 ST7	3050x1310	Egger	W980 ST7 Platinawit-MDF MR 38mm-W980 ST7	0	m2	1	10	0	3050	1310	40	Perswerk	Egger W980 ST7	38	none	Vochtwerend
+W10100 SD wit-MDF MR 16mm-backing	3050x1300	Pfleiderer	W10100 SD wit-MDF MR 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer W10100 SD	16	none	Vochtwerend
+W10100 SD wit-Sp. 16mm-backing	3050x1300	Pfleiderer	W10100 SD wit-Spaan 16mm-backing	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer W10100 SD	16	none	Perswerk spaan
+W10400 SD wit-Mplx.berken 18mm-backing	3050x1300	Pfleiderer	W10400 SD wit-Mplx.berken 18mm-backing	0	m2	1	10	0	3050	1300	20	Perswerk	Pfleiderer W10400 SD	18	none	Berken
+W10410 SD wit-MDF exterieur 18mm-W10410 SD	3050x1220	Pfleiderer	W10410 SD wit-MDF exterieur 18mm-W10410 SD	0	m2	1	10	0	3050	1220	20	Perswerk	Pfleiderer W10410 SD	18	none	Perswerk MDF
+W10410 SD wit-MDF FR 16mm-backing	3050x1220	Pfleiderer	W10410 SD wit-MDF FR 16mm-backing	0	m2	1	10	0	3050	1220	18	Perswerk	Pfleiderer W10410 SD	16	none	Brandvertragend
+W10410 SD wit-MDF FR 25mm-W10410 SD	3050x1220	Pfleiderer	W10410 SD wit-MDF FR 25mm-W10410 SD	0	m2	1	10	0	3050	1220	27	Perswerk	Pfleiderer W10410 SD	25	none	Brandvertragend
+W10410 SD wit-MDF MR 16mm-W10410 SD	3050x1300	Pfleiderer	W10410 SD wit-MDF MR 16mm-W10410 SD	0	m2	1	10	0	3050	1300	18	Perswerk	Pfleiderer W10410 SD	16	none	MDF MR
+W10410 SD wit-Sp. 38mm-W10410 SD	3050x1250	Pfleiderer	W10410 SD wit-Sp. 38mm-W10410 SD	0	m2	1	10	0	3050	1250	40	Perswerk	Pfleiderer W10410 SD	38	none	Decor
+W14010SD wit-MDF exterieur 18mm-backing	3050x1220	Pfleiderer	W14010SD wit-MDF exterieur 18mm-backing	0	m2	1	10	0	3050	1220	20	Perswerk	Pfleiderer W10410 SD	18	none	Perswerk MDF
+Wandgoot gwo6 -130x63mm	3000x130		Wandgoot gwo6 -130x63mm	0	m1	1	10	0	3000	130	65	Perswerk	Wit laminaat	63	none	custom
