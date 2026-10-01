@@ -6,12 +6,12 @@
   "files": [
     {
       "name": "Boards.txt",
-      "source": "vw2026-35/Boards.txt",
+      "source": "Boards.txt",
       "sha256": "ac2c4cf7a7f6679ab628f5c4b5cc7b7e9ece31f08bd91d758704af4a7a1718a5"
     },
     {
       "name": "EdgeBandings.txt",
-      "source": "vw2026-35/EdgeBandings.txt",
+      "source": "EdgeBandings.txt",
       "sha256": "c5e73404128bb318e3956c5de41b83f141141c854ba83d4ddabca1874645bad0"
     }
   ],
@@ -19,7 +19,7 @@
     {
       "id": "INTOS LIVE RGB proef 20261001",
       "name": "INTOS LIVE RGB proef 20261001",
-      "source": "vw2026-35/textures/texture-0001.json",
+      "source": "textures/texture-0001.json",
       "sha256": "9f32813f641ebf99b4163acfa23a0786e3b37b9d5c7c5649c54e2aa300eb9d38",
       "widthMm": 100,
       "kind": "color",
