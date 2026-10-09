@@ -6,12 +6,12 @@
   "files": [
     {
       "name": "Boards.txt",
-      "source": "vw2026-1347/Boards.txt",
+      "source": "Boards.txt",
       "sha256": "02c59ac0784bdfcdea08ef016202ed250c89f60f35b1bcf54c121e2dc6d1394f"
     },
     {
       "name": "EdgeBandings.txt",
-      "source": "vw2026-1347/EdgeBandings.txt",
+      "source": "EdgeBandings.txt",
       "sha256": "c5e73404128bb318e3956c5de41b83f141141c854ba83d4ddabca1874645bad0"
     }
   ],
@@ -19,28 +19,28 @@
     {
       "id": "343b21a9-1759-42ef-ae98-e244b5d96dda",
       "name": "Abet 620 Papier",
-      "source": "vw2026-1347/textures/texture-0001.jpg",
+      "source": "textures/texture-0001.jpg",
       "sha256": "5b1e12fd022e87e0fafd3efe872aacefb8752dd037e73f7eb64f4e3de32d7eae",
       "widthMm": 500
     },
     {
       "id": "e588e7ff-fbbb-4e5b-a951-46d8b36d3e78",
       "name": "Bamboe  natural plain",
-      "source": "vw2026-1347/textures/texture-0002.jpg",
+      "source": "textures/texture-0002.jpg",
       "sha256": "ff94ce18bf048fef50977ea882989b269a87b13f1d723e42acb9837a28c1e5b6",
       "widthMm": 1000
     },
     {
       "id": "6ac73d64-eecb-43b0-8819-76b8f4d03adc",
       "name": "Bamboe caramel",
-      "source": "vw2026-1347/textures/texture-0003.jpg",
+      "source": "textures/texture-0003.jpg",
       "sha256": "5dd6c487159e3e348f76cee6d92f341b258affa344a565c5a3e34115785587b7",
       "widthMm": 500
     },
     {
       "id": "Band op kleur",
       "name": "Band op kleur",
-      "source": "vw2026-1347/textures/texture-0004.json",
+      "source": "textures/texture-0004.json",
       "sha256": "66820839eac9d6c17455bb30459397348d1e7e6dc7cba984d8eb91f7c3c3fdff",
       "widthMm": 100,
       "kind": "color",
@@ -53,7 +53,7 @@
     {
       "id": "Band wit",
       "name": "Band wit",
-      "source": "vw2026-1347/textures/texture-0005.json",
+      "source": "textures/texture-0005.json",
       "sha256": "66820839eac9d6c17455bb30459397348d1e7e6dc7cba984d8eb91f7c3c3fdff",
       "widthMm": 100,
       "kind": "color",
@@ -66,7 +66,7 @@
     {
       "id": "Band zwart",
       "name": "Band zwart",
-      "source": "vw2026-1347/textures/texture-0006.json",
+      "source": "textures/texture-0006.json",
       "sha256": "d173c81d4078c656e832300a522ebd4bae9fe1ad29d44261030411b783526346",
       "widthMm": 100,
       "kind": "color",
@@ -79,91 +79,91 @@
     {
       "id": "6c0486c9-0736-4168-ad97-1c49de22b17f",
       "name": "Berken multiplex",
-      "source": "vw2026-1347/textures/texture-0007.jpg",
+      "source": "textures/texture-0007.jpg",
       "sha256": "58471b38ab70753b1b257d9ffcf5be8d6bad75e8c6e251ab4791f4138cab718b",
       "widthMm": 500
     },
     {
       "id": "d4838a4f-503f-4b80-a008-45763327c080",
       "name": "Buigmultiplex",
-      "source": "vw2026-1347/textures/texture-0008.jpg",
+      "source": "textures/texture-0008.jpg",
       "sha256": "e83c23484fc0cfbef51511b0adf110ed743bd7ab8af2b4cb2e95554ff4209972",
       "widthMm": 500
     },
     {
       "id": "f4cb6db5-82ba-49f1-ab7d-bd31141a1ed6",
       "name": "Corian Aurora",
-      "source": "vw2026-1347/textures/texture-0009.jpg",
+      "source": "textures/texture-0009.jpg",
       "sha256": "73516b05f0313732e382d974aa0c7f0d795b1fb1da767cbfb915957aaede4c63",
       "widthMm": 500
     },
     {
       "id": "8bebe856-61bd-4f4a-b463-5f1570261691",
       "name": "Corian Willow",
-      "source": "vw2026-1347/textures/texture-0010.jpg",
+      "source": "textures/texture-0010.jpg",
       "sha256": "144aaf1ecbd998ecb68ab26b68bff19ed71e85071030d44cf75a545c38ff89ef",
       "widthMm": 500
     },
     {
       "id": "fcd32fe4-1df8-43e4-80c7-c47795a409ff",
       "name": "Decolegno LS40 Poro Noce",
-      "source": "vw2026-1347/textures/texture-0011.jpg",
+      "source": "textures/texture-0011.jpg",
       "sha256": "f3a58230138bbc253cc14f25029fedb4b373270f3e6e542e821a5161b6944a85",
       "widthMm": 500
     },
     {
       "id": "3bae036e-b800-42da-97b5-732276b63b4e",
       "name": "Decolegno S133 Esperia",
-      "source": "vw2026-1347/textures/texture-0012.jpg",
+      "source": "textures/texture-0012.jpg",
       "sha256": "a9ffbe2176c2689392ad3fb235c5be407a035720f0632b2a3167ab3f1bf0673c",
       "widthMm": 500
     },
     {
       "id": "8e2e789f-1477-4e7e-9087-f0c3dcd11718",
       "name": "Egger F637 ST10",
-      "source": "vw2026-1347/textures/texture-0013.jpg",
+      "source": "textures/texture-0013.jpg",
       "sha256": "fcdd6bf43e48b3ec2209356b8f4ac75bb5cbfa7fcafeb83d0b76bb1989d07324",
       "widthMm": 500
     },
     {
       "id": "25b57a30-2446-4620-811b-4d01d65e7f6d",
       "name": "Egger H1145 ST10",
-      "source": "vw2026-1347/textures/texture-0014.jpg",
+      "source": "textures/texture-0014.jpg",
       "sha256": "b8b673fb747e1a7383574671ec75437e99adb384ec442672975b69bf4bcd4ea4",
       "widthMm": 500
     },
     {
       "id": "89c1e600-7dd7-4579-846c-3eb01ad2a837",
       "name": "Egger H1199 ST12",
-      "source": "vw2026-1347/textures/texture-0015.jpg",
+      "source": "textures/texture-0015.jpg",
       "sha256": "b7b38248c3243e0702ee5c71c6b5e03d73454255a1039c3cb822c515c0b2dbbd",
       "widthMm": 500
     },
     {
       "id": "bf41f0a0-4f18-4a1f-b5c7-25ab1afa3aa8",
       "name": "Egger H1307 ST19",
-      "source": "vw2026-1347/textures/texture-0016.jpg",
+      "source": "textures/texture-0016.jpg",
       "sha256": "02b6d4e58312dd4907d3563650cf008e392deb901bacbe5dc87f42b425052b2f",
       "widthMm": 500
     },
     {
       "id": "16ce4d1c-37b5-4d3e-96ac-9c3a16f207e3",
       "name": "Egger H3171 ST12",
-      "source": "vw2026-1347/textures/texture-0017.jpg",
+      "source": "textures/texture-0017.jpg",
       "sha256": "e684bfc4a3f6af846ea0527de15e0279f8d97f6f936c488cee6ac2866bd95731",
       "widthMm": 500
     },
     {
       "id": "26892605-f99a-4db4-8a8c-f093732db5d3",
       "name": "Egger H3303 ST10",
-      "source": "vw2026-1347/textures/texture-0018.jpg",
+      "source": "textures/texture-0018.jpg",
       "sha256": "bbe2ee9b49afcbf5a50f8e0c2b1ecf938295e61d13023f357c42eebe74931bbe",
       "widthMm": 500
     },
     {
       "id": "Fenix 0717 NTM",
       "name": "Fenix 0717 NTM",
-      "source": "vw2026-1347/textures/texture-0019.json",
+      "source": "textures/texture-0019.json",
       "sha256": "aa03525f096b9864fb561869bfa44b752f84782b161f5f6daafb60182ec680bb",
       "widthMm": 100,
       "kind": "color",
@@ -176,14 +176,14 @@
     {
       "id": "dbdc9f62-05ce-4fa9-ba82-b271d8c5be04",
       "name": "Finsa 98V ATLAS",
-      "source": "vw2026-1347/textures/texture-0020.jpg",
+      "source": "textures/texture-0020.jpg",
       "sha256": "ef2b5fb6bfaaa8d0a33284a2ca14bd2a367e9157e673ee79273b29cedf64ff9a",
       "widthMm": 500
     },
     {
       "id": "Formica F7949 ST9",
       "name": "Formica F7949 ST9",
-      "source": "vw2026-1347/textures/texture-0021.json",
+      "source": "textures/texture-0021.json",
       "sha256": "be4547d250ad6e29358c867020f37bb618895c85cf58ebf9b09f5cc72a33d2e6",
       "widthMm": 100,
       "kind": "color",
@@ -196,7 +196,7 @@
     {
       "id": "FR Melamine wit",
       "name": "FR Melamine wit",
-      "source": "vw2026-1347/textures/texture-0022.json",
+      "source": "textures/texture-0022.json",
       "sha256": "be4547d250ad6e29358c867020f37bb618895c85cf58ebf9b09f5cc72a33d2e6",
       "widthMm": 100,
       "kind": "color",
@@ -209,7 +209,7 @@
     {
       "id": "FR Melamine zwart",
       "name": "FR Melamine zwart",
-      "source": "vw2026-1347/textures/texture-0023.json",
+      "source": "textures/texture-0023.json",
       "sha256": "19b83817999d16c87a6610a695fadd0862e4798623847221942a0a16d8d3592e",
       "widthMm": 100,
       "kind": "color",
@@ -222,7 +222,7 @@
     {
       "id": "Fundermax 0085 NG",
       "name": "Fundermax 0085 NG",
-      "source": "vw2026-1347/textures/texture-0024.json",
+      "source": "textures/texture-0024.json",
       "sha256": "66820839eac9d6c17455bb30459397348d1e7e6dc7cba984d8eb91f7c3c3fdff",
       "widthMm": 100,
       "kind": "color",
@@ -235,105 +235,105 @@
     {
       "id": "33c2a338-44b9-47b3-a498-54c58ed10480",
       "name": "Fundermax 0849 FH",
-      "source": "vw2026-1347/textures/texture-0025.png",
+      "source": "textures/texture-0025.png",
       "sha256": "0f5a1d4ef3579b563dcdeacef95b7b75559a5b0d333113148f2acc26c816c8e0",
       "widthMm": 500
     },
     {
       "id": "c6c310db-4156-4099-8661-287a13a2819e",
       "name": "Fundermax 4052 ML",
-      "source": "vw2026-1347/textures/texture-0026.jpg",
+      "source": "textures/texture-0026.jpg",
       "sha256": "f4af224ed6c63c28764ac2fde8bb6e85dc9ba9c70f32e0ac298b3340eb71af6a",
       "widthMm": 500
     },
     {
       "id": "b2c6c981-1f52-4e0e-8bcb-b1f08c9ded28",
       "name": "Homapal 446 Alu brushed",
-      "source": "vw2026-1347/textures/texture-0027.png",
+      "source": "textures/texture-0027.png",
       "sha256": "3e2aef64649c9f96d02b1675c3961b052d4f43dec14747c01a0066e5d146ec9d",
       "widthMm": 500
     },
     {
       "id": "db8dcde6-ef55-4850-81d8-24f4a8b939f9",
       "name": "Homapal 451 Alu brushed",
-      "source": "vw2026-1347/textures/texture-0028.png",
+      "source": "textures/texture-0028.png",
       "sha256": "dd172af66184af616631725255bd80f4308aaf6f6e69feef665a3c2da56a7776",
       "widthMm": 500
     },
     {
       "id": "65417a40-ef2e-4413-89f0-73b5f26baded",
       "name": "HPL wit",
-      "source": "vw2026-1347/textures/texture-0029.jpg",
+      "source": "textures/texture-0029.jpg",
       "sha256": "307ccbd3a7ab758d1c0ad8f2e7300fdeb774909ad69ab05f6dc6ad802576b5fd",
       "widthMm": 500
     },
     {
       "id": "bdaee2e5-950a-4b2a-b1b0-687271957b8e",
       "name": "HPL zwart",
-      "source": "vw2026-1347/textures/texture-0030.jpg",
+      "source": "textures/texture-0030.jpg",
       "sha256": "b5bd4e93b0fd79287c4ce9139e78f2203a140f3b3385f45238b1d71fffd9adfe",
       "widthMm": 500
     },
     {
       "id": "80981ece-08d8-4b61-a0f0-eae900f32106",
       "name": "In zee 26_ocean",
-      "source": "vw2026-1347/textures/texture-0031.png",
+      "source": "textures/texture-0031.png",
       "sha256": "72363e554f18902b42aaf2505c41c69929e5eb96efd1255597668e33db6da9e7",
       "widthMm": 500
     },
     {
       "id": "c9f4535c-fbd0-4720-8731-8cad9d93dcc4",
       "name": "In zee 41_mint pastel",
-      "source": "vw2026-1347/textures/texture-0032.jpg",
+      "source": "textures/texture-0032.jpg",
       "sha256": "82686c26f0d2fcdc6fb4420cdbecd4e6e36b5669e00e4f5eb407095f1c507937",
       "widthMm": 500
     },
     {
       "id": "50f26c2f-5fc1-4696-9866-56f60e210591",
       "name": "In zee 42_rock blue",
-      "source": "vw2026-1347/textures/texture-0033.jpg",
+      "source": "textures/texture-0033.jpg",
       "sha256": "282fb616468180ec6121517712647627962018fc8092eb081cd1d199c31cbd48",
       "widthMm": 500
     },
     {
       "id": "0e32e634-d8a1-487f-b28b-d568832c50a6",
       "name": "Krion 1100 Snow white",
-      "source": "vw2026-1347/textures/texture-0034.jpg",
+      "source": "textures/texture-0034.jpg",
       "sha256": "301191cd510c36f71310311b77e837119de88c91029f9267c6d1b75e15ef4df6",
       "widthMm": 500
     },
     {
       "id": "f6666f01-dc6d-42e9-94dd-901f92761e10",
       "name": "Krion L105 Carrara dark",
-      "source": "vw2026-1347/textures/texture-0035.jpg",
+      "source": "textures/texture-0035.jpg",
       "sha256": "8d30079dc4b9e88fd8e50ff59c1622da55c4c57a6ab2c61fbde2b7ff0160304a",
       "widthMm": 500
     },
     {
       "id": "03e946c7-965a-4a79-bea7-390a7fa30cb0",
       "name": "Kronospan K080",
-      "source": "vw2026-1347/textures/texture-0036.jpg",
+      "source": "textures/texture-0036.jpg",
       "sha256": "d62deaefe1e8079fcb20780b539efd43d7da22afb0b9c78fdc885013efa6f65b",
       "widthMm": 500
     },
     {
       "id": "9f86ad48-a4f5-466f-bdf7-efcd0dc54a44",
       "name": "Massief Eiken vingerlas",
-      "source": "vw2026-1347/textures/texture-0037.jpg",
+      "source": "textures/texture-0037.jpg",
       "sha256": "43c3f35e2ccc02dcee092c5c28e04af2c6c903643bab169554fe3def915d622a",
       "widthMm": 500
     },
     {
       "id": "fd756119-92a9-422b-9a0b-52a1316e28f4",
       "name": "Massief Esdoorn",
-      "source": "vw2026-1347/textures/texture-0038.jpg",
+      "source": "textures/texture-0038.jpg",
       "sha256": "2ab039222d9c1c3080723fc351389dad9208b5e61879374d041dc130c416b800",
       "widthMm": 500
     },
     {
       "id": "MDF brandvertagend",
       "name": "MDF brandvertagend",
-      "source": "vw2026-1347/textures/texture-0039.json",
+      "source": "textures/texture-0039.json",
       "sha256": "0f61f95726166e1ac94101ae0fee06f176c926dfe12bf0f568fb4787318e07f1",
       "widthMm": 100,
       "kind": "color",
@@ -346,7 +346,7 @@
     {
       "id": "MDF gegrond",
       "name": "MDF gegrond",
-      "source": "vw2026-1347/textures/texture-0040.json",
+      "source": "textures/texture-0040.json",
       "sha256": "be4547d250ad6e29358c867020f37bb618895c85cf58ebf9b09f5cc72a33d2e6",
       "widthMm": 100,
       "kind": "color",
@@ -359,7 +359,7 @@
     {
       "id": "MDF vochtwerend",
       "name": "MDF vochtwerend",
-      "source": "vw2026-1347/textures/texture-0041.json",
+      "source": "textures/texture-0041.json",
       "sha256": "95b1719da2213a500252f1ecc5493ab6aba9b0d06d775719e3443d3e79f42e51",
       "widthMm": 100,
       "kind": "color",
@@ -372,252 +372,252 @@
     {
       "id": "660cca62-fec2-4815-b2bd-39e764c215cd",
       "name": "Melamine wit",
-      "source": "vw2026-1347/textures/texture-0042.jpg",
+      "source": "textures/texture-0042.jpg",
       "sha256": "307ccbd3a7ab758d1c0ad8f2e7300fdeb774909ad69ab05f6dc6ad802576b5fd",
       "widthMm": 500
     },
     {
       "id": "c8173621-d0f5-488c-8790-1aafad18876b",
       "name": "Melamine zwart",
-      "source": "vw2026-1347/textures/texture-0043.jpg",
+      "source": "textures/texture-0043.jpg",
       "sha256": "b5bd4e93b0fd79287c4ce9139e78f2203a140f3b3385f45238b1d71fffd9adfe",
       "widthMm": 500
     },
     {
       "id": "4c0a8b73-f522-44a7-9fb9-01910cfbc2c7",
       "name": "Olijfessen",
-      "source": "vw2026-1347/textures/texture-0044.jpg",
+      "source": "textures/texture-0044.jpg",
       "sha256": "7f5390baf4150cd698955b11d7b3470f1ee8e4bbbcdf625da206fedb97ca73f1",
       "widthMm": 500
     },
     {
       "id": "09eb8aa4-51e6-4dfb-8630-84f4427afb54",
       "name": "Pfleiderer M80000 HG",
-      "source": "vw2026-1347/textures/texture-0045.png",
+      "source": "textures/texture-0045.png",
       "sha256": "3e2aef64649c9f96d02b1675c3961b052d4f43dec14747c01a0066e5d146ec9d",
       "widthMm": 500
     },
     {
       "id": "8eb094e9-6044-4e74-9972-d363d9f4a5cc",
       "name": "Pfleiderer R20020 RR",
-      "source": "vw2026-1347/textures/texture-0046.jpg",
+      "source": "textures/texture-0046.jpg",
       "sha256": "7a92f4dcffa4679eaf046a5add4c870eef20891454f6713ef537560a2b9706a3",
       "widthMm": 500
     },
     {
       "id": "0366c101-e75f-4558-af1f-2c548a84537e",
       "name": "Pfleiderer R20027 RU",
-      "source": "vw2026-1347/textures/texture-0047.jpg",
+      "source": "textures/texture-0047.jpg",
       "sha256": "15d1d322bdb64f14ff395418efcad90ac5476b95d86bc675017cde8dfb9e91c8",
       "widthMm": 500
     },
     {
       "id": "08882b4c-4f67-4164-a3b3-211e9c7b9e1b",
       "name": "Pfleiderer R20128 RU",
-      "source": "vw2026-1347/textures/texture-0048.jpg",
+      "source": "textures/texture-0048.jpg",
       "sha256": "f745d9039ec83913d82f67586b35cb016141d507230939c74ee29b8b911e8d37",
       "widthMm": 500
     },
     {
       "id": "d31f5220-9eec-41e8-a097-832e95e5edfa",
       "name": "Pfleiderer R20315 NW",
-      "source": "vw2026-1347/textures/texture-0049.jpg",
+      "source": "textures/texture-0049.jpg",
       "sha256": "d914bb42368d39d0dbffc3f7e584273eccc1c0d127347aa91b70bfac00da15b9",
       "widthMm": 500
     },
     {
       "id": "b828f3b9-139d-40d5-8f96-f6d101ce8ce2",
       "name": "Pfleiderer R20456 RO",
-      "source": "vw2026-1347/textures/texture-0050.jpg",
+      "source": "textures/texture-0050.jpg",
       "sha256": "a1bb05d0ce53c8b0a572878c4cdfcd99ad8fc4bc21b3f52c2ade9d4feddbe756",
       "widthMm": 500
     },
     {
       "id": "060a3ad8-e3a8-4379-95e9-8f94c3cb86c2",
       "name": "Pfleiderer R27001 VV",
-      "source": "vw2026-1347/textures/texture-0051.jpg",
+      "source": "textures/texture-0051.jpg",
       "sha256": "72183346cc17065ec76004cf083f45282ca387abfeef467f06bb94d1b775e3bc",
       "widthMm": 500
     },
     {
       "id": "f7285bc0-abaf-46ae-b225-0ee8ce7f0df3",
       "name": "Pfleiderer R30011 NW",
-      "source": "vw2026-1347/textures/texture-0052.jpg",
+      "source": "textures/texture-0052.jpg",
       "sha256": "5e826307f0f7dea39ca6c827085e6d35f14b55a7395a8bf3687ddd5f6a8c2287",
       "widthMm": 500
     },
     {
       "id": "aac503aa-0507-41f0-999d-9294816e5e13",
       "name": "Pfleiderer R30013 NW",
-      "source": "vw2026-1347/textures/texture-0053.jpg",
+      "source": "textures/texture-0053.jpg",
       "sha256": "b93651ebbb7bc64679f00566b3c846b19f1e865340f5c26344bce89744b368e5",
       "widthMm": 500
     },
     {
       "id": "154533ba-09fd-48c0-b7cc-72e988ea10bb",
       "name": "Pfleiderer R34015 NW",
-      "source": "vw2026-1347/textures/texture-0054.jpg",
+      "source": "textures/texture-0054.jpg",
       "sha256": "369b63a39b3c5cd9521fbe02bf30f1492650e86674219425f7f400bf4cf906d1",
       "widthMm": 500
     },
     {
       "id": "724128b3-af79-4a50-99cf-da94454a4faf",
       "name": "Pfleiderer R34033 NW",
-      "source": "vw2026-1347/textures/texture-0055.png",
+      "source": "textures/texture-0055.png",
       "sha256": "736b389312c6aa7a9f70ada43630770fe87d073e5f0e5e39c22f849b15e516fc",
       "widthMm": 500
     },
     {
       "id": "5b4b563c-6dfd-4a5b-b426-e9aca12845f0",
       "name": "Pfleiderer R37016 RR",
-      "source": "vw2026-1347/textures/texture-0056.png",
+      "source": "textures/texture-0056.png",
       "sha256": "d88cb8a256ce4a9ba42ae4071b8a87c9678ffb3499bbace1292aa6596d2865f5",
       "widthMm": 500
     },
     {
       "id": "c2c9cc91-50c0-4d28-83fc-20b8d40f829d",
       "name": "Pfleiderer R38002 RT",
-      "source": "vw2026-1347/textures/texture-0057.jpg",
+      "source": "textures/texture-0057.jpg",
       "sha256": "47e91503ff5d013ca54b54621e9200b302be110c8654637f29aa520788e44af1",
       "widthMm": 500
     },
     {
       "id": "371a72bf-541b-4037-90fe-8c26574d6c58",
       "name": "Pfleiderer U1026 VV",
-      "source": "vw2026-1347/textures/texture-0058.png",
+      "source": "textures/texture-0058.png",
       "sha256": "f6d32df4a364be3d773fe0b8c6adf78b4d12d1e98520bd2246722577022c5d41",
       "widthMm": 500
     },
     {
       "id": "439f7931-819c-42bb-a963-402f3346069b",
       "name": "Pfleiderer U11026 HG",
-      "source": "vw2026-1347/textures/texture-0059.png",
+      "source": "textures/texture-0059.png",
       "sha256": "dfc0608ecfcce109f0326e300bdc43a5921466d5bc572e9ed509b3539e734e15",
       "widthMm": 500
     },
     {
       "id": "a0c1eab4-9cae-4b1b-be3a-f275d6898831",
       "name": "Pfleiderer U11026 SD",
-      "source": "vw2026-1347/textures/texture-0060.png",
+      "source": "textures/texture-0060.png",
       "sha256": "e2eb8b7dd1efafbaea44e70eff2b82749d4c4178f68c97c77793e0d6ee479e72",
       "widthMm": 500
     },
     {
       "id": "99464762-966c-4cc1-873a-ec19277e329c",
       "name": "Pfleiderer U11102 SD",
-      "source": "vw2026-1347/textures/texture-0061.png",
+      "source": "textures/texture-0061.png",
       "sha256": "5c05c1de8633360bcb0cd0e416212b54e47640ef3a65e6d55bb1acc443a880a2",
       "widthMm": 500
     },
     {
       "id": "a5d1730d-b3d4-4749-a73d-1321fafce8a7",
       "name": "Pfleiderer U12000 SD",
-      "source": "vw2026-1347/textures/texture-0062.png",
+      "source": "textures/texture-0062.png",
       "sha256": "6dccfb3b91234be517b338498dab48136958eedfb449a726f81443f62657cbae",
       "widthMm": 500
     },
     {
       "id": "0f9b0d6d-f6e6-469f-9faa-53baafc2b0df",
       "name": "Pfleiderer U12010 SD",
-      "source": "vw2026-1347/textures/texture-0063.png",
+      "source": "textures/texture-0063.png",
       "sha256": "b030840a416606b11b17ed266eb0c9df89855d5d8ee62ea3992c6c23f1a0ee3c",
       "widthMm": 500
     },
     {
       "id": "90488667-0ea4-4765-a783-99cf440fec7e",
       "name": "Pfleiderer U12168 SD",
-      "source": "vw2026-1347/textures/texture-0064.png",
+      "source": "textures/texture-0064.png",
       "sha256": "a7ef114a838fc3dcc873ce29e89da66f0d48726485201f7f863cd9ba0ec2f65d",
       "widthMm": 500
     },
     {
       "id": "b19ed3f2-8f3e-4b64-bcf9-26ea69a05a55",
       "name": "Pfleiderer U12188 SD",
-      "source": "vw2026-1347/textures/texture-0065.png",
+      "source": "textures/texture-0065.png",
       "sha256": "c734ed9868d1a0d22730de75b217b634a9b641cd50d1030c2935a61081fbecaa",
       "widthMm": 500
     },
     {
       "id": "181e1b48-556c-4afd-84ab-cca744815d4b",
       "name": "Pfleiderer U12290 SD",
-      "source": "vw2026-1347/textures/texture-0066.png",
+      "source": "textures/texture-0066.png",
       "sha256": "280590542929eb1b6dd25695d053dd5c6fb7f505793dd0b9bd29bafe140e5f0e",
       "widthMm": 500
     },
     {
       "id": "9aad6b5c-3841-4fc6-befd-cbf7b985f0f5",
       "name": "Pfleiderer U15194 SD",
-      "source": "vw2026-1347/textures/texture-0067.png",
+      "source": "textures/texture-0067.png",
       "sha256": "2df6a48285a9ce629b8853b79ef7e570e3e46da747f9f879125724e4e00bcd57",
       "widthMm": 500
     },
     {
       "id": "608978f8-6b48-43ec-8cb4-e05216fb1ca8",
       "name": "Pfleiderer U16058 SD",
-      "source": "vw2026-1347/textures/texture-0068.png",
+      "source": "textures/texture-0068.png",
       "sha256": "8b1f3b24be34001227605eaa762739bd0ff496fb14e01fb9848b24ac0d4c9c25",
       "widthMm": 500
     },
     {
       "id": "c19e5cca-1e35-4cae-8098-28b158927297",
       "name": "Pfleiderer U18004 MP",
-      "source": "vw2026-1347/textures/texture-0069.png",
+      "source": "textures/texture-0069.png",
       "sha256": "59c40f1115772eb0d8a31c7aa94c6db1a2cbd8b3f0c2978666cf388f24bdfd14",
       "widthMm": 500
     },
     {
       "id": "a18aaccc-53e6-4495-b148-633f78b6b70a",
       "name": "Pfleiderer U19024 SD",
-      "source": "vw2026-1347/textures/texture-0070.png",
+      "source": "textures/texture-0070.png",
       "sha256": "22b4f27db0fd5820bc5a3af647ea5b97febd4fcb346612ec12bbea32fbef1681",
       "widthMm": 500
     },
     {
       "id": "c0d9d3da-5b37-4967-82dd-c0f22e95858c",
       "name": "Pfleiderer U19515 SD",
-      "source": "vw2026-1347/textures/texture-0071.png",
+      "source": "textures/texture-0071.png",
       "sha256": "e29c07cdd7828995e8d0a18a8b2fa7c3c5c5276404b5a6147257839f5e1f4e0f",
       "widthMm": 500
     },
     {
       "id": "344d8f60-a0c4-4e35-8ce3-e931c4fb9758",
       "name": "Pfleiderer W10100 VV",
-      "source": "vw2026-1347/textures/texture-0072.png",
+      "source": "textures/texture-0072.png",
       "sha256": "8245ea3dd9cce7bcfa3f8b5206d54149ba141e397113799bd7ed61eeff8b06c7",
       "widthMm": 500
     },
     {
       "id": "690a970a-3732-4f00-9b38-0e4df0c0c63f",
       "name": "Pfleiderer W10400 SD",
-      "source": "vw2026-1347/textures/texture-0073.png",
+      "source": "textures/texture-0073.png",
       "sha256": "b85b6792d0eca4ec0f226df4ac3b59f8cab7decd04f155287d295082d364a28e",
       "widthMm": 500
     },
     {
       "id": "b2e62bc5-be63-44e5-81ba-7d2cd1f3e6e6",
       "name": "Pfleiderer W10410 SD",
-      "source": "vw2026-1347/textures/texture-0074.png",
+      "source": "textures/texture-0074.png",
       "sha256": "0420763a3a51057a375d23437195a70ddd8e018d6119469b782df119e46a2b9e",
       "widthMm": 500
     },
     {
       "id": "48a7c69a-4ae4-410f-b884-deb6760e843d",
       "name": "Polyrey 0005 FA",
-      "source": "vw2026-1347/textures/texture-0075.png",
+      "source": "textures/texture-0075.png",
       "sha256": "fb9ba8a0dbea860f9c0d8b7aa6ed087f0e9445bddf9636aaed10b1a3e9fe9e5c",
       "widthMm": 500
     },
     {
       "id": "f6cb29d7-3cff-4c80-8987-a2bd76cb7da2",
       "name": "Polyrey C035 FA",
-      "source": "vw2026-1347/textures/texture-0076.png",
+      "source": "textures/texture-0076.png",
       "sha256": "0dccbeff3e1f038e3a821a0fb7e3c1c7767828d5969d3d1a40ef1a5ea6cd2038",
       "widthMm": 500
     },
     {
       "id": "Populieren multiplex gegrond",
       "name": "Populieren multiplex gegrond",
-      "source": "vw2026-1347/textures/texture-0077.json",
+      "source": "textures/texture-0077.json",
       "sha256": "66820839eac9d6c17455bb30459397348d1e7e6dc7cba984d8eb91f7c3c3fdff",
       "widthMm": 100,
       "kind": "color",
@@ -630,84 +630,84 @@
     {
       "id": "ff386efc-e431-4d39-b8fd-3d19515943df",
       "name": "Refelt Concrete",
-      "source": "vw2026-1347/textures/texture-0078.jpg",
+      "source": "textures/texture-0078.jpg",
       "sha256": "405c0e733844683240b96e9ebb739c017cf6d4bf195285000b37f19465cf16a1",
       "widthMm": 500
     },
     {
       "id": "e4bdc68e-233b-4c1f-b992-39aa3104d29e",
       "name": "Resopal 0140-VE",
-      "source": "vw2026-1347/textures/texture-0079.png",
+      "source": "textures/texture-0079.png",
       "sha256": "96027dec6b3dd2451537660264052944f4b4392e3a5420324204e462fb8f075f",
       "widthMm": 500
     },
     {
       "id": "594bc433-91fc-4d32-ad71-11afbf90a1f6",
       "name": "Resopal 0760-60",
-      "source": "vw2026-1347/textures/texture-0080.png",
+      "source": "textures/texture-0080.png",
       "sha256": "b8c2bb2b061b183fa0b2bb93d80fa44061ead7788bc23471771b79fab4dd276e",
       "widthMm": 500
     },
     {
       "id": "a03c2179-f15f-45f6-afee-35fb8bdc5ab6",
       "name": "Resopal 0901-60",
-      "source": "vw2026-1347/textures/texture-0081.png",
+      "source": "textures/texture-0081.png",
       "sha256": "fb9ba8a0dbea860f9c0d8b7aa6ed087f0e9445bddf9636aaed10b1a3e9fe9e5c",
       "widthMm": 500
     },
     {
       "id": "7387443b-3831-4085-8f94-1d62d4abd5b5",
       "name": "Resopal 3044-EM",
-      "source": "vw2026-1347/textures/texture-0082.jpg",
+      "source": "textures/texture-0082.jpg",
       "sha256": "b618fc5c1121af5fa8c98c7de5e77b7fde32cfbdab8b671c77d5ca8f3dd283c3",
       "widthMm": 500
     },
     {
       "id": "b56676e0-e7bb-4dc5-9e30-635c371eac3e",
       "name": "Resopal 3900-GB",
-      "source": "vw2026-1347/textures/texture-0083.jpg",
+      "source": "textures/texture-0083.jpg",
       "sha256": "a24a1175ceae27c83efc91b089567878f3b0ba9247e236b160d93a4b59e8c172",
       "widthMm": 500
     },
     {
       "id": "06bfbdb5-1d29-4b97-a934-872e0652aa89",
       "name": "Resopal 4081-EW",
-      "source": "vw2026-1347/textures/texture-0084.jpg",
+      "source": "textures/texture-0084.jpg",
       "sha256": "c80e9e937c123ac7d0ef70f8b3d1788821c252dab17cc693d7c925f11638f974",
       "widthMm": 500
     },
     {
       "id": "c159ccbd-3e73-41db-ad96-ceab4541d35f",
       "name": "Resopal 4110-WH",
-      "source": "vw2026-1347/textures/texture-0085.jpg",
+      "source": "textures/texture-0085.jpg",
       "sha256": "810a43eb9b359734b610431f605e9e4130f11127cb5f16281672c68eed146c77",
       "widthMm": 500
     },
     {
       "id": "ebfe50c8-3501-4abf-8748-b77dd48acc0e",
       "name": "Resopal 4344-EW",
-      "source": "vw2026-1347/textures/texture-0086.jpg",
+      "source": "textures/texture-0086.jpg",
       "sha256": "aec0f4e4a8f5ac3368b29a3600a8b33a5f664a0ced22be1ada4f7ae557fba212",
       "widthMm": 500
     },
     {
       "id": "94b4e4ca-c71d-4130-b8e5-07cfa9c5b6bf",
       "name": "Resopal 4501-EW",
-      "source": "vw2026-1347/textures/texture-0087.jpg",
+      "source": "textures/texture-0087.jpg",
       "sha256": "7f6de1c7ec6ff0f78b590cb017de6a9dcb11cf9bd86af9c6a907fb5c45f5c351",
       "widthMm": 500
     },
     {
       "id": "139c9c16-c7f7-47a9-99b6-a7e180034829",
       "name": "Resopal D91-EM",
-      "source": "vw2026-1347/textures/texture-0088.png",
+      "source": "textures/texture-0088.png",
       "sha256": "0500dcd878587d0bb917625ae0d81d81af7675f246eeb45d0ecc455b3cae2af4",
       "widthMm": 500
     },
     {
       "id": "Resopal D421-60",
       "name": "Resopal D421-60",
-      "source": "vw2026-1347/textures/texture-0089.json",
+      "source": "textures/texture-0089.json",
       "sha256": "519066094ec4d8c71b74aa6b9c1a475ddbfcbe5a2527d24fd4a3bcdf8e3a2a04",
       "widthMm": 100,
       "kind": "color",
@@ -720,266 +720,266 @@
     {
       "id": "b3679612-3cc5-4555-b238-0c896c211b8c",
       "name": "Shinnoki Cinnamon Triba",
-      "source": "vw2026-1347/textures/texture-0090.jpg",
+      "source": "textures/texture-0090.jpg",
       "sha256": "e629e2af74b77f6634281abe029bca79e1ac1f207829ea06996505408f32d242",
       "widthMm": 500
     },
     {
       "id": "a8b8ffcc-b9fd-4fe6-a201-20637c97edc0",
       "name": "Shinnoki Pure walnut",
-      "source": "vw2026-1347/textures/texture-0091.png",
+      "source": "textures/texture-0091.png",
       "sha256": "4f878c81e04d253191d6c1749d36c945927fa61b5a8941ed12ef93de87a0a359",
       "widthMm": 500
     },
     {
       "id": "4ab28d78-c33a-44e0-971a-350aeea8585d",
       "name": "Shinnoki Stardust walnut",
-      "source": "vw2026-1347/textures/texture-0092.png",
+      "source": "textures/texture-0092.png",
       "sha256": "bc3f87a0b910c55d6e75f7185ddc837987322a08df8426417250ff0a87721cf5",
       "widthMm": 500
     },
     {
       "id": "9b5b0784-b4f8-47f1-94d7-515b01824671",
       "name": "Topfix F6464",
-      "source": "vw2026-1347/textures/texture-0093.png",
+      "source": "textures/texture-0093.png",
       "sha256": "c4bf6f6b86047859c5637c2a65aaa2384ff92684b379c34a1360dfb7cbc77dbb",
       "widthMm": 500
     },
     {
       "id": "9f90f547-49e7-48dc-8cb4-4f93367cddd4",
       "name": "Topfix F6468",
-      "source": "vw2026-1347/textures/texture-0094.png",
+      "source": "textures/texture-0094.png",
       "sha256": "95130c6e2b3f1c9f84124aee42dc5b3b5e1aab81d49bb4a689795d5ae08442f2",
       "widthMm": 500
     },
     {
       "id": "12631661-d4c6-439e-a275-934d4de5de29",
       "name": "Trespa Toplab Base E0-00",
-      "source": "vw2026-1347/textures/texture-0095.png",
+      "source": "textures/texture-0095.png",
       "sha256": "e08f1af867ac5ed107ed7b7d4fa6484d83b7c5a0ce703010b0f502a83a91b2f7",
       "widthMm": 500
     },
     {
       "id": "8d404640-849f-4335-93e5-240871f40807",
       "name": "Trespa Toplab Plus T03.4.0",
-      "source": "vw2026-1347/textures/texture-0096.png",
+      "source": "textures/texture-0096.png",
       "sha256": "4b805e2e58f54bd1c1f31a2335f754c782caac0bf7e9dd4d8be7725048317de5",
       "widthMm": 500
     },
     {
       "id": "dfff1c40-0285-4d12-a301-fc25604e0b59",
       "name": "Trespa Toplab Vertical K05.0.0",
-      "source": "vw2026-1347/textures/texture-0097.png",
+      "source": "textures/texture-0097.png",
       "sha256": "89c295b8f8fb38ac4b98eff6d8dc9da1ca800cd69b5091b544981bb9c277f89f",
       "widthMm": 500
     },
     {
       "id": "b82c8c90-6e5d-45fc-b678-20a0cada2f53",
       "name": "Unilin 0F253 BST",
-      "source": "vw2026-1347/textures/texture-0098.jpg",
+      "source": "textures/texture-0098.jpg",
       "sha256": "a6e92cfc186149e33c18ecdf84bc780692dda2897d2c275276637842b396cf5a",
       "widthMm": 500
     },
     {
       "id": "bdc5eb91-b0e0-43dd-8173-bbbeca62944e",
       "name": "Unilin 0F599 Weave",
-      "source": "vw2026-1347/textures/texture-0099.jpg",
+      "source": "textures/texture-0099.jpg",
       "sha256": "5e7c1ad969a2986561f0f4b13c066985835a926c0167495139898a0c221e763a",
       "widthMm": 500
     },
     {
       "id": "8eee8e01-23cd-4a3f-a0d6-530489e5b9a0",
       "name": "Unilin 0F602 Weave",
-      "source": "vw2026-1347/textures/texture-0100.jpg",
+      "source": "textures/texture-0100.jpg",
       "sha256": "74365752c2bf5170efeb2f1db9cbdcf2ba43592e27b7df9137d389fdeb6ec317",
       "widthMm": 500
     },
     {
       "id": "ac52b8c0-29a4-4067-831a-02b555b0df2d",
       "name": "Unilin 0H160 Z5L",
-      "source": "vw2026-1347/textures/texture-0101.jpg",
+      "source": "textures/texture-0101.jpg",
       "sha256": "6e812d0fb6b9abdb89c1cc740f88800e754471c013773496824209ea71211ab4",
       "widthMm": 500
     },
     {
       "id": "152925d9-402c-406f-a959-0d6965e48649",
       "name": "Unilin 0H251 W06",
-      "source": "vw2026-1347/textures/texture-0102.jpg",
+      "source": "textures/texture-0102.jpg",
       "sha256": "237458cd1fee083c7b21ed4a651951a0d5101a505db4cfb5190317d64c974e8e",
       "widthMm": 500
     },
     {
       "id": "19ac4da1-4179-4f9b-8406-a12dd0022409",
       "name": "Unilin 0H265 V1A",
-      "source": "vw2026-1347/textures/texture-0103.jpg",
+      "source": "textures/texture-0103.jpg",
       "sha256": "a8c967602538886b5a4dc74240a9114e01ec6a6bb257caa45ffbf8a08da494ee",
       "widthMm": 500
     },
     {
       "id": "3b0fd0ef-2531-4cd9-9119-7c708834a2c5",
       "name": "Unilin 0H266 V1A",
-      "source": "vw2026-1347/textures/texture-0104.png",
+      "source": "textures/texture-0104.png",
       "sha256": "969d50d45b5c3daeea5db6a013226b5dee45ef1f47e5ff10bb708c5a7050c147",
       "widthMm": 500
     },
     {
       "id": "6ed61201-4596-42a3-bd56-d2e479cf9970",
       "name": "Unilin 0H336 BST",
-      "source": "vw2026-1347/textures/texture-0105.jpg",
+      "source": "textures/texture-0105.jpg",
       "sha256": "7697a0b7272c57e8a30f3e5f8b9428366bae3f4e14687b5f7f69fda870884db1",
       "widthMm": 500
     },
     {
       "id": "68346879-a792-4e31-8047-e7d900148a63",
       "name": "Unilin 0H337 BST",
-      "source": "vw2026-1347/textures/texture-0106.jpg",
+      "source": "textures/texture-0106.jpg",
       "sha256": "9477237f4c7b5e5db48ca80911679521ef8514a9353a3070c50ead32fb121cde",
       "widthMm": 500
     },
     {
       "id": "4379d843-ef4b-4598-9fe9-6b58b71e9e9e",
       "name": "Unilin 0H339 BST",
-      "source": "vw2026-1347/textures/texture-0107.jpg",
+      "source": "textures/texture-0107.jpg",
       "sha256": "5e5fea31c1d3b6813bcda8177d35744b7d802fb84ed7d266499d13ae28b209d2",
       "widthMm": 500
     },
     {
       "id": "c61f30c9-bd95-4470-a40c-374c0b3147c2",
       "name": "Unilin 0H581 BST",
-      "source": "vw2026-1347/textures/texture-0108.jpg",
+      "source": "textures/texture-0108.jpg",
       "sha256": "65f0d34acb89b735e2b4af32a6428cf316700c2bd2c5f3f8024e26ad3764c649",
       "widthMm": 500
     },
     {
       "id": "82e340a7-c433-4271-bba3-2861a4ee7cfd",
       "name": "Unilin 0H596 W07",
-      "source": "vw2026-1347/textures/texture-0109.jpg",
+      "source": "textures/texture-0109.jpg",
       "sha256": "bcbf0cd3287cd8448d2d851d124eb3d032c43ea0fd7cd8f7c90564091dac0fda",
       "widthMm": 500
     },
     {
       "id": "4d395ba9-8797-417f-9546-bb8d22c9179b",
       "name": "Unilin 0H720 BST",
-      "source": "vw2026-1347/textures/texture-0110.jpg",
+      "source": "textures/texture-0110.jpg",
       "sha256": "4f96abcdc36a54ae61d891f48b287d9afe4de94e0db88a965cfacd7027763bb3",
       "widthMm": 500
     },
     {
       "id": "ac433db1-be1a-463d-9104-cb67f56152e8",
       "name": "Unilin 0H852 W03",
-      "source": "vw2026-1347/textures/texture-0111.jpg",
+      "source": "textures/texture-0111.jpg",
       "sha256": "2f188abb8442ec2ad2826e9ae1433c36eeefb49ca3181e3dbc291d95b67160b7",
       "widthMm": 500
     },
     {
       "id": "5301afbc-166c-4558-a06a-ef9ae539d9cd",
       "name": "Unilin 0H906 W06",
-      "source": "vw2026-1347/textures/texture-0112.jpg",
+      "source": "textures/texture-0112.jpg",
       "sha256": "96718254fec1e1c5c01ee45d33d9d4f4c173bb2ca739d48ed3d7006f4f5fc1be",
       "widthMm": 500
     },
     {
       "id": "b5e7eb3d-4769-4c65-afb1-984fb81ce766",
       "name": "Unilin 0H912 V2A",
-      "source": "vw2026-1347/textures/texture-0113.jpg",
+      "source": "textures/texture-0113.jpg",
       "sha256": "6d5f13fe551ac327675f7470c5ed84478ebb5eae31456e07e066e67b3b84d467",
       "widthMm": 500
     },
     {
       "id": "a0101455-7ce7-4fab-a908-7a782833103c",
       "name": "Unilin 0H913 V2A",
-      "source": "vw2026-1347/textures/texture-0114.jpg",
+      "source": "textures/texture-0114.jpg",
       "sha256": "57062617ab7ce941b665a310cdb6382670467c48e58e54599ecaaaf27879c163",
       "widthMm": 500
     },
     {
       "id": "373fd29e-457b-487b-824d-7796985c3b4d",
       "name": "Unilin 0H914 V2A",
-      "source": "vw2026-1347/textures/texture-0115.jpg",
+      "source": "textures/texture-0115.jpg",
       "sha256": "bc7aebffca6124a36e0574297ce5c372b017fe58df51cc713462e81885d20b98",
       "widthMm": 500
     },
     {
       "id": "30a3c8d9-9dd0-4dc1-899b-bab45739f5b2",
       "name": "Unilin 0H915 V2A",
-      "source": "vw2026-1347/textures/texture-0116.jpg",
+      "source": "textures/texture-0116.jpg",
       "sha256": "a488f7c6bb82fe8e5f17e6089b199542fbdae69edc443190669434e05497a720",
       "widthMm": 500
     },
     {
       "id": "1baeefbe-2b2e-4171-ab46-ccf009f8d3a8",
       "name": "Unilin 0H925 V2A",
-      "source": "vw2026-1347/textures/texture-0117.jpg",
+      "source": "textures/texture-0117.jpg",
       "sha256": "22824915b0711a6b763f07f0a85de98f5ac4fa31f80fd202ca55d1544a93d30b",
       "widthMm": 500
     },
     {
       "id": "8d4d7b84-4300-4d31-96ec-8c0fab00aa77",
       "name": "Unilin 0H927 V2A",
-      "source": "vw2026-1347/textures/texture-0118.jpg",
+      "source": "textures/texture-0118.jpg",
       "sha256": "0fe82c3b902dc7043531a08c2a89c041019a77c5506c9c0730346020369a0fa5",
       "widthMm": 500
     },
     {
       "id": "b2c16958-67f6-4eb1-a5ab-1b4834aeac84",
       "name": "Unilin 0U136 BST",
-      "source": "vw2026-1347/textures/texture-0119.png",
+      "source": "textures/texture-0119.png",
       "sha256": "5b3e269d0a941923ec81567b49977da86df6af08e360c93974bbaef302adbb89",
       "widthMm": 500
     },
     {
       "id": "15d6e2c0-4b78-4be0-ba95-cc34ea8cdde2",
       "name": "Unilin 0U824 CST",
-      "source": "vw2026-1347/textures/texture-0120.png",
+      "source": "textures/texture-0120.png",
       "sha256": "6a80eee89d1d5f74b304d950788dc0566964a36603bab97ea62446e870b49975",
       "widthMm": 500
     },
     {
       "id": "dbbc8ee2-4d39-4638-97ab-15c11b647f5a",
       "name": "Unilin 0U827 MST",
-      "source": "vw2026-1347/textures/texture-0121.png",
+      "source": "textures/texture-0121.png",
       "sha256": "0a2efaf232f47962acca51c8b6225ba49714bb9a74ee8375f0a5011093b54d87",
       "widthMm": 500
     },
     {
       "id": "b92c29ee-32f1-45ec-85f2-e33a64005060",
       "name": "Unilin 0U831 MST",
-      "source": "vw2026-1347/textures/texture-0122.png",
+      "source": "textures/texture-0122.png",
       "sha256": "fe7f8f42357384b2daa3b048f4c69ef37c8620453df04996706f70435d11c78c",
       "widthMm": 500
     },
     {
       "id": "50de48ba-5c39-4dae-acb9-f2bcab7c99b7",
       "name": "Unilin 0UD81 CST",
-      "source": "vw2026-1347/textures/texture-0123.png",
+      "source": "textures/texture-0123.png",
       "sha256": "2e1b7bcdbf94ce67394600009c6db3588b415a55e224bcee6ac30b92bd09ee47",
       "widthMm": 500
     },
     {
       "id": "ca82082b-5072-4d5d-841f-c2bd77623320",
       "name": "Unilin 0WE27 CST",
-      "source": "vw2026-1347/textures/texture-0124.png",
+      "source": "textures/texture-0124.png",
       "sha256": "0defc91ed3f2380c15c7bfb50002454ecffd777c934ff4352aa6bd3a4b7ab81d",
       "widthMm": 500
     },
     {
       "id": "315fe609-1b5b-48d1-9b3b-67c0b9b3686a",
       "name": "Unilin 00113 CST",
-      "source": "vw2026-1347/textures/texture-0125.png",
+      "source": "textures/texture-0125.png",
       "sha256": "a295bfe4d90fd69e78e458203d44f6c5ea8fb63a5b3719227df7efe0eca517f8",
       "widthMm": 500
     },
     {
       "id": "52d12093-9f85-41f4-8096-68d5ded72665",
       "name": "Unilin 00766 CST",
-      "source": "vw2026-1347/textures/texture-0126.png",
+      "source": "textures/texture-0126.png",
       "sha256": "9ca4e5b515e0380f1d7a6ff1393f47c38f52b9d9cddd112a641c39b5980d0314",
       "widthMm": 500
     },
     {
       "id": "Vochtwerend Melamine wit",
       "name": "Vochtwerend Melamine wit",
-      "source": "vw2026-1347/textures/texture-0127.json",
+      "source": "textures/texture-0127.json",
       "sha256": "66820839eac9d6c17455bb30459397348d1e7e6dc7cba984d8eb91f7c3c3fdff",
       "widthMm": 100,
       "kind": "color",
@@ -992,7 +992,7 @@
     {
       "id": "Wit laminaat",
       "name": "Wit laminaat",
-      "source": "vw2026-1347/textures/texture-0128.json",
+      "source": "textures/texture-0128.json",
       "sha256": "66820839eac9d6c17455bb30459397348d1e7e6dc7cba984d8eb91f7c3c3fdff",
       "widthMm": 100,
       "kind": "color",
